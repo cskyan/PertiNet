@@ -40,5 +40,22 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 │  └─ fused109.best.pth
 ├─ LICENSE
 └─ README.md
+---
 
+## Quickstart (inference -> Top-K -> plots)
+
+Prerequisites: Python 3.7/3.8; CUDA 11.6+ recommended for GPU.  
+Note: some paths in scripts are placeholders by design. Pass arguments or edit as needed.
+
+### 1) Run inference to produce the final CSV
+```bash
+# from repo root
+cd model
+
+python predict.py --base_dir "../data/RBP109" \
+                  --model_dir "../weights"
+
+# Output file:
+#   ../weights/test_pairs_with_disturb_scores.csv
+# Columns include: Protein_A, Protein_B, pred_score, disturb_score, label, ...
 

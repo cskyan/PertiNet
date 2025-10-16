@@ -43,7 +43,7 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 ```
 ---
 
-## Quickstart (inference -> Top-K -> plots)
+## 🚀Quickstart (inference -> Top-K -> plots)
 
 Prerequisites: Python 3.7/3.8; CUDA 11.6+ recommended for GPU.  
 Note: some paths in scripts are placeholders by design. Pass arguments or edit as needed.

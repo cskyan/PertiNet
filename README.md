@@ -14,30 +14,31 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 
 ---
 
-## 📁Repository Layout (current)
+## 📁Repository Layout 
+```text
 .
 ├─ data/
-│ └─ RBP109/
-│ ├─ all_go_annotations.tsv
-│ ├─ dssp_109.npz
-│ ├─ go_multi_hot_109.npy
-│ ├─ go_term_edge_index.npy
-│ ├─ human_reviewed_uniprot_ids.txt
-│ ├─ ppi_labels_balanced.csv
-│ ├─ ppi_labels_balanced.npy
-│ ├─ protein_graphs_109.pkl
-│ ├─ pssm_109.npz
-│ └─ sequence_onehot.npy
+│  └─ RBP109/
+│     ├─ all_go_annotations.tsv
+│     ├─ dssp_109.npz
+│     ├─ go_multi_hot_109.npy
+│     ├─ go_term_edge_index.npy
+│     ├─ human_reviewed_uniprot_ids.txt
+│     ├─ ppi_labels_balanced.csv
+│     ├─ ppi_labels_balanced.npy
+│     ├─ protein_graphs_109.pkl
+│     ├─ pssm_109.npz
+│     └─ sequence_onehot.npy
 ├─ model/
-│ ├─ gvp/
-│ ├─ make_ilf3_ptbp1_topk.py
-│ ├─ model.py
-│ ├─ picture.py
-│ ├─ predict.py
-│ └─ train.py
+│  ├─ gvp/
+│  ├─ make_ilf3_ptbp1_topk.py
+│  ├─ model.py
+│  ├─ picture.py
+│  ├─ predict.py
+│  └─ train.py
 ├─ weights/
-│ ├─ fused.best.pth
-│ └─ fused109.best.pth
+│  ├─ fused.best.pth
+│  └─ fused109.best.pth
 ├─ LICENSE
 └─ README.md
 
@@ -61,19 +62,4 @@ python predict.py --base_dir "../data/RBP109" \
 #   ../weights/test_pairs_with_disturb_scores.csv
 # Columns include: Protein_A, Protein_B, pred_score, disturb_score, label, ...
 
-###2) Extract ILF3/PTBP1 Top-K files for plotting
-# Default centers: ILF3=Q12906, PTBP1=P26599; default K = 50, 30, 10
-python make_ilf3_ptbp1_topk.py --model_dir "../weights"
 
-# Custom K / centers:
-python make_ilf3_ptbp1_topk.py --model_dir "../weights" \
-                               --k 100 50 20 --centers Q12906 P26599
-
-# Generated under ../weights:
-#   top50_ILF3_PTBP1_disturb.csv
-#   top30_ILF3_PTBP1_disturb.csv
-#   top10_ILF3_PTBP1_disturb.csv
-#   top_ILF3_PTBP1_nodes_{K}.txt
-
-###3) Generate figures
-Edit model/picture.py:

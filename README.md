@@ -103,3 +103,24 @@ Paths in scripts may contain placeholders by design; pass arguments or edit as n
 - Weights (under weights/): e.g., fused109.best.pth
 - Final CSV: weights/test_pairs_with_disturb_scores.csv produced by predict.py
 If the repo is public, consider adding a tiny demo (10–20 pairs) or a short data pointers section so users can run end-to-end.
+
+## 🔧 Key Libraries & Versions (from the provided env)
+These are the relevant packages for running this repo; others in your env are optional.
+### Core DL
+- torch==1.13.1+cu116, torchvision==0.14.1+cu116, torchaudio==0.13.1+cu116
+- torch-geometric==2.3.1
+- torch-scatter==2.1.1, torch-sparse==0.6.17, torch-cluster==1.6.1, torch-spline-conv==1.2.2
+- pytorch-lightning==1.9.5 
+- triton==1.0.0
+
+### Protein/Sequence & Graph
+- fair-esm==2.0.0 
+- biopython==1.81
+- networkx==2.6.3
+- ogb==1.3.6
+- goatools==1.4.12
+
+### Data / Metrics / Plotting
+- pandas==1.1.5, numpy==1.21.6, scikit-learn==1.0.2
+- matplotlib==3.5.3, seaborn==0.12.2
+- gseapy==1.1.9

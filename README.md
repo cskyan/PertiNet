@@ -87,3 +87,19 @@ Then：
 python picture.py
 ```
 Figures will be saved into picture_dir.
+
+## 🧪Training (optional)
+```bash
+# from repo root
+cd model
+python train.py --base_dir "../data/RBP109" \
+                --model_dir "../weights"
+```
+Paths in scripts may contain placeholders by design; pass arguments or edit as needed.
+
+## 📦 Data & Weights
+
+- Features (under data/RBP109/): sequence (one-hot/PSSM), structure graphs (GVP-ready), GO annotations & graph, and balanced PPI labels
+- Weights (under weights/): e.g., fused109.best.pth
+- Final CSV: weights/test_pairs_with_disturb_scores.csv produced by predict.py
+If the repo is public, consider adding a tiny demo (10–20 pairs) or a short data pointers section so users can run end-to-end.

@@ -5,7 +5,7 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 
 ---
 
-## Highlights
+## ✨Highlights
 
 - Three modalities: sequence (CNN+Transformer), structure (GVP-GNN), function (GO graph via GATv2)
 - Fusion: transformer-based feature fusion for robust PPI prediction
@@ -14,4 +14,29 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 
 ---
 
-## Repository Layout (current)
+## 📁Repository Layout (current)
+.
+├─ data/
+│ └─ RBP109/
+│ ├─ all_go_annotations.tsv
+│ ├─ dssp_109.npz
+│ ├─ go_multi_hot_109.npy
+│ ├─ go_term_edge_index.npy
+│ ├─ human_reviewed_uniprot_ids.txt
+│ ├─ ppi_labels_balanced.csv
+│ ├─ ppi_labels_balanced.npy
+│ ├─ protein_graphs_109.pkl
+│ ├─ pssm_109.npz
+│ └─ sequence_onehot.npy
+├─ model/
+│ ├─ gvp/
+│ ├─ make_ilf3_ptbp1_topk.py
+│ ├─ model.py
+│ ├─ picture.py
+│ ├─ predict.py
+│ └─ train.py
+├─ weights/
+│ ├─ fused.best.pth
+│ └─ fused109.best.pth
+├─ LICENSE
+└─ README.md

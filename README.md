@@ -102,7 +102,6 @@ Paths in scripts may contain placeholders by design; pass arguments or edit as n
 - Features (under data/RBP109/): sequence (one-hot/PSSM), structure graphs (GVP-ready), GO annotations & graph, and balanced PPI labels
 - Weights (under weights/): e.g., fused109.best.pth
 - Final CSV: weights/test_pairs_with_disturb_scores.csv produced by predict.py
-If the repo is public, consider adding a tiny demo (10–20 pairs) or a short data pointers section so users can run end-to-end.
 
 ## 🔧 Key Libraries & Versions (from the provided env)
 These are the relevant packages for running this repo; others in your env are optional.

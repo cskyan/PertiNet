@@ -59,4 +59,31 @@ python predict.py --base_dir "../data/RBP109" \
 # Output file:
 #   ../weights/test_pairs_with_disturb_scores.csv
 # Columns include: Protein_A, Protein_B, pred_score, disturb_score, label, ...
+```
+### 2) Extract ILF3/PTBP1 Top-K files for plotting
+```bash
+# Default centers are ILF3=Q12906, PTBP1=P26599; default K = 50,30,10
+python make_ilf3_ptbp1_topk.py --model_dir "D:\path\to\pertinet_model"
 
+# Custom K / centers:
+python make_ilf3_ptbp1_topk.py --model_dir "D:\path\to\pertinet_model" \
+                               --k 100 50 20 --centers Q12906 P26599
+# This produces, under {model_dir}:
+#   top50_ILF3_PTBP1_disturb.csv
+#   top30_ILF3_PTBP1_disturb.csv
+#   top10_ILF3_PTBP1_disturb.csv
+#   top_ILF3_PTBP1_nodes_50.txt (and for 30 / 10)
+```
+
+### 3) Generate figures
+Open picture.py and set:
+```bash
+picture_dir = r"../fig_output"     # where figures will be saved
+model_dir   = r"../weights"        # same directory used in step (2)
+```
+Then：
+```bash
+# still under model/
+python picture.py
+```
+Figures will be saved into picture_dir.

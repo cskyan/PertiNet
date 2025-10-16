@@ -16,7 +16,6 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 
 ## 📁Repository Layout 
 ```text
-.
 ├─ data/
 │  └─ RBP109/
 │     ├─ all_go_annotations.tsv
@@ -42,7 +41,7 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 ├─ LICENSE
 └─ README.md
 
----
+
 
 ## 🚀Quickstart (inference → Top-K → plots)
 

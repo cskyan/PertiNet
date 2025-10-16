@@ -65,7 +65,14 @@ protein_graphs_109.pkl
 pssm_109.npz
 sequence_onehot.npy
 ```
+If you already have these preprocessed artifacts, simply place them exactly under `data/RBP109/` and skip the steps below.
 
+Otherwise, you can regenerate them with the following outline.
+
+A1) Prepare the UniProt ID list
+- Put one accession per line in: data/RBP109/human_reviewed_uniprot_ids.txt
+
+  
 ## 🚀Quickstart (inference -> Top-K -> plots)
 
 Prerequisites: Python 3.7/3.8; CUDA 11.6+ recommended for GPU.  

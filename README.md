@@ -44,13 +44,13 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 ---
 
 ## Data download and preparation
-This project uses two kinds of data:
-1) the multimodal RBP109 feature pack used by the model (sequence / structure / GO);
-2) optional external resources for the ILF3/PTBP1 case study (TCGA-LIHC expression, STRING v12 network, TTD targets).
+This project uses **two** datasets only:
+1) **RBP109** multimodal features (sequence / structure / GO) — **already included** in this repo.
+2) **Public Benchmark Dataset: Dset_186_72_PDB164** — can be reconstructed from the Protein Data Bank (PDB): https://www.rcsb.org/
 
 Below is a minimal, reproducible way to fetch/build what the repo expects on disk.
 
-### A. RBP109 multimodal features (required)
+### A. RBP109 multimodal features (included)
 
 **What we need under `data/RBP109/`:**
 ```text
@@ -65,22 +65,28 @@ protein_graphs_109.pkl
 pssm_109.npz
 sequence_onehot.npy
 ```
-If you already have these preprocessed artifacts, simply place them exactly under `data/RBP109/` and skip the steps below.
+No extra download is required.
 
-Otherwise, you can regenerate them with the following outline.
+### B. Public Benchmark Dataset: Dset_186_72_PDB164 (from PDB)
+All entries are retrieved from the Protein Data Bank (PDB): https://www.rcsb.org/
 
-A1) Prepare the UniProt ID list
-- Put one accession per line in: data/RBP109/human_reviewed_uniprot_ids.txt
-  
-A2) Download protein sequences (FASTA)
-- Windows PowerShell:
-```powershell
-$ids = Get-Content data/RBP109/human_reviewed_uniprot_ids.txt
-New-Item -ItemType Directory -Force -Path scratch\uniprot | Out-Null
-foreach ($id in $ids) {
-  Invoke-WebRequest -Uri "https://rest.uniprot.org/uniprotkb/$id.fasta" -OutFile "scratch/uniprot/$id.fasta"
-}
-  
+**What it is.** A unified benchmark integrating three widely used subsets, all derived from PDB:
+- **Dset_186**: 186 protein chains, filtered to < 25% sequence identity and resolution ≤ 3.0 Å, focusing on high-quality structure-based PPI prediction.
+- **Dset_72**: 72 non-redundant protein structures with clearly annotated interface residues, complementing Dset_186 with broader structural diversity.
+- **PDBset_164**: 164 curated protein chains chosen for functional diversity and validated binding-interface annotations.
+
+**How it is built (summary).**
+- Merge Dset_186, Dset_72, and PDBset_164; remove redundant chains by sequence similarity.
+- Keep chains with **sequence identity < 25%** and **resolution ≤ 3.0 Å** to ensure quality and minimize redundancy.
+- Standardize each chain to extract amino-acid sequences, 3D structural features (e.g., DSSP-derived), and graph representations (e.g., GVP encoders).
+- Define residue-level interface labels by atom-distance: a residue is an interface site if any heavy atom is within **6.0 Å** of any atom from another chain; otherwise, non-binding.
+- Split into **train/val/test = 8:1:1** with **pair-level low-homology control**: no homologous pairs (≥ 20% sequence identity for both proteins) appear across different partitions.
+
+**Where to get it.**
+- Download source structures directly from PDB (https://www.rcsb.org/) and reconstruct using the criteria above.
+- If you already maintain your own copy of Dset_186, Dset_72, and PDBset_164, you can merge and filter them as specified to obtain Dset_186_72_PDB164.
+
+Fetch PDB/mmCIF files for each protein into scratch/pdb/ (choose representative entries), then:
 ## 🚀Quickstart (inference -> Top-K -> plots)
 
 Prerequisites: Python 3.7/3.8; CUDA 11.6+ recommended for GPU.  

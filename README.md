@@ -121,6 +121,9 @@ These are the relevant packages for running this repo; others in your env are op
 - goatools==1.4.12
 
 ### Data / Metrics / Plotting
-- pandas==1.1.5, numpy==1.21.6, scikit-learn==1.0.2
-- matplotlib==3.5.3, seaborn==0.12.2
-- gseapy==1.1.9
+- pandas 1.1.5
+- numpy 1.21.6
+- scikit-learn 1.0.2
+- matplotlib 3.5.3
+- seaborn 0.12.2
+- gseapy 1.1.9

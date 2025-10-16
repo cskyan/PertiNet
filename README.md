@@ -43,6 +43,27 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 ```
 ---
 
+## Data download and preparation
+This project uses two kinds of data:
+1) the multimodal RBP109 feature pack used by the model (sequence / structure / GO);
+2) optional external resources for the ILF3/PTBP1 case study (TCGA-LIHC expression, STRING v12 network, TTD targets).
+
+Below is a minimal, reproducible way to fetch/build what the repo expects on disk.
+
+### A. RBP109 multimodal features (required)
+
+**What we need under `data/RBP109/`:**
+all_go_annotations.tsv
+dssp_109.npz
+go_multi_hot_109.npy
+go_term_edge_index.npy
+human_reviewed_uniprot_ids.txt
+ppi_labels_balanced.csv
+ppi_labels_balanced.npy
+protein_graphs_109.pkl
+pssm_109.npz
+sequence_onehot.npy
+
 ## 🚀Quickstart (inference -> Top-K -> plots)
 
 Prerequisites: Python 3.7/3.8; CUDA 11.6+ recommended for GPU.  
@@ -97,7 +118,7 @@ python train.py --base_dir "../data/RBP109" \
 ```
 Paths in scripts may contain placeholders by design; pass arguments or edit as needed.
 
-## 📦 Data & Weights
+## 📦 Weights
 
 - Features (under data/RBP109/): sequence (one-hot/PSSM), structure graphs (GVP-ready), GO annotations & graph, and balanced PPI labels
 - Weights (under weights/): e.g., fused109.best.pth

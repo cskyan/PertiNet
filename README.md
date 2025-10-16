@@ -43,7 +43,7 @@ This repo includes training/inference scripts, pre-trained weights for the RBP10
 ```
 ---
 
-## Data download and preparation
+## 📥Data download and preparation
 This project uses **two** datasets only:
 1) **RBP109** multimodal features (sequence / structure / GO) — **already included** in this repo.
 2) **Public Benchmark Dataset: Dset_186_72_PDB164** — can be reconstructed from the Protein Data Bank (PDB): https://www.rcsb.org/

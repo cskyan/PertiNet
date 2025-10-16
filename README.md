@@ -71,7 +71,15 @@ Otherwise, you can regenerate them with the following outline.
 
 A1) Prepare the UniProt ID list
 - Put one accession per line in: data/RBP109/human_reviewed_uniprot_ids.txt
-
+  
+A2) Download protein sequences (FASTA)
+- Windows PowerShell:
+```powershell
+$ids = Get-Content data/RBP109/human_reviewed_uniprot_ids.txt
+New-Item -ItemType Directory -Force -Path scratch\uniprot | Out-Null
+foreach ($id in $ids) {
+  Invoke-WebRequest -Uri "https://rest.uniprot.org/uniprotkb/$id.fasta" -OutFile "scratch/uniprot/$id.fasta"
+}
   
 ## 🚀Quickstart (inference -> Top-K -> plots)
 

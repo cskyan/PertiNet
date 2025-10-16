@@ -53,6 +53,7 @@ Below is a minimal, reproducible way to fetch/build what the repo expects on dis
 ### A. RBP109 multimodal features (required)
 
 **What we need under `data/RBP109/`:**
+```text
 all_go_annotations.tsv
 dssp_109.npz
 go_multi_hot_109.npy
@@ -63,6 +64,7 @@ ppi_labels_balanced.npy
 protein_graphs_109.pkl
 pssm_109.npz
 sequence_onehot.npy
+```
 
 ## 🚀Quickstart (inference -> Top-K -> plots)
 

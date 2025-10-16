@@ -1,0 +1,1479 @@
+UniProtID	GO_ID	GO_term	GO_aspect
+A6NDE4	GO:0005730	C:nucleolus	IDA:HPA
+A6NDE4	GO:0005654	C:nucleoplasm	IDA:HPA
+A6NDE4	GO:0005634	C:nucleus	TAS:UniProtKB
+A6NDE4	GO:0005681	C:spliceosomal complex	IBA:GO_Central
+A6NDE4	GO:0003723	F:RNA binding	IBA:GO_Central
+A6NDE4	GO:0008584	P:male gonad development	IMP:UniProtKB
+A6NDE4	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+A6NDE4	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IBA:GO_Central
+A6NDE4	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+A6NDE4	GO:0007283	P:spermatogenesis	TAS:UniProtKB
+O14979	GO:0000785	C:chromatin	IBA:GO_Central
+O14979	GO:0005829	C:cytosol	TAS:Reactome
+O14979	GO:0005654	C:nucleoplasm	IDA:HPA
+O14979	GO:0005634	C:nucleus	IDA:UniProtKB
+O14979	GO:0005681	C:spliceosomal complex	NAS:UniProtKB
+O14979	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+O14979	GO:0003690	F:double-stranded DNA binding	IDA:UniProtKB
+O14979	GO:0008143	F:poly(A) binding	IDA:UniProtKB
+O14979	GO:0034046	F:poly(G) binding	IDA:UniProtKB
+O14979	GO:0003723	F:RNA binding	HDA:UniProtKB
+O14979	GO:0003697	F:single-stranded DNA binding	IDA:UniProtKB
+O14979	GO:0010468	P:regulation of gene expression	IDA:UniProtKB
+O14979	GO:0006396	P:RNA processing	NAS:UniProtKB
+O15042	GO:0005654	C:nucleoplasm	IDA:HPA
+O15042	GO:0005634	C:nucleus	IDA:UniProtKB
+O15042	GO:0005686	C:U2 snRNP	IEA:Ensembl
+O15042	GO:0003723	F:RNA binding	HDA:UniProtKB
+O15042	GO:0006396	P:RNA processing	IEA:InterPro
+O15047	GO:0000785	C:chromatin	IDA:ParkinsonsUK-UCL
+O15047	GO:0005737	C:cytoplasm	IDA:UniProtKB
+O15047	GO:0035097	C:histone methyltransferase complex	IDA:UniProtKB
+O15047	GO:0016607	C:nuclear speck	IDA:UniProtKB
+O15047	GO:0005654	C:nucleoplasm	TAS:Reactome
+O15047	GO:0005634	C:nucleus	IDA:MGI
+O15047	GO:0048188	C:Set1C/COMPASS complex	IDA:UniProtKB
+O15047	GO:0008013	F:beta-catenin binding	IPI:BHF-UCL
+O15047	GO:0042800	F:histone H3K4 methyltransferase activity	IDA:UniProtKB
+O15047	GO:0140945	F:histone H3K4 monomethyltransferase activity	IEA:RHEA
+O15047	GO:0140999	F:histone H3K4 trimethyltransferase activity	IEA:UniProtKB-EC
+O15047	GO:0003723	F:RNA binding	IDA:UniProtKB
+O15047	GO:0061629	F:RNA polymerase II-specific DNA-binding transcription factor binding	IPI:ParkinsonsUK-UCL
+O15047	GO:0007420	P:brain development	IMP:UniProtKB
+O15047	GO:0006974	P:DNA damage response	IEA:UniProtKB-KW
+O15047	GO:0032259	P:methylation	IEA:UniProtKB-KW
+O15047	GO:1902275	P:regulation of chromatin organization	IDA:ParkinsonsUK-UCL
+O15047	GO:1902036	P:regulation of hematopoietic stem cell differentiation	IDA:ParkinsonsUK-UCL
+O15504	GO:0005829	C:cytosol	IDA:HPA
+O15504	GO:0005635	C:nuclear envelope	IDA:ComplexPortal
+O15504	GO:0031965	C:nuclear membrane	IDA:HPA
+O15504	GO:0005643	C:nuclear pore	NAS:ComplexPortal
+O15504	GO:0005654	C:nucleoplasm	IDA:HPA
+O15504	GO:0005634	C:nucleus	IDA:GO_Central
+O15504	GO:0005049	F:nuclear export signal receptor activity	IDA:GO_Central
+O15504	GO:0003723	F:RNA binding	HDA:UniProtKB
+O15504	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+O15504	GO:0051028	P:mRNA transport	IEA:UniProtKB-KW
+O15504	GO:0006913	P:nucleocytoplasmic transport	NAS:ComplexPortal
+O15504	GO:0006611	P:protein export from nucleus	IGI:GO_Central
+O15541	GO:0016607	C:nuclear speck	IEA:UniProtKB-SubCell
+O15541	GO:0005654	C:nucleoplasm	IDA:HPA
+O15541	GO:0005634	C:nucleus	IDA:UniProtKB
+O15541	GO:0071005	C:U2-type precatalytic spliceosome	IDA:UniProtKB
+O15541	GO:0005684	C:U2-type spliceosomal complex	IBA:GO_Central
+O15541	GO:0061630	F:ubiquitin protein ligase activity	IMP:UniProtKB
+O15541	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+O15541	GO:0006281	P:DNA repair	IEA:UniProtKB-KW
+O15541	GO:0000398	P:mRNA splicing, via spliceosome	IDA:UniProtKB
+O15541	GO:0070100	P:negative regulation of chemokine-mediated signaling pathway	IMP:UniProtKB
+O15541	GO:0016567	P:protein ubiquitination	IMP:UniProtKB
+O15541	GO:0034247	P:snoRNA splicing	IBA:GO_Central
+O43251	GO:0005737	C:cytoplasm	IBA:GO_Central
+O43251	GO:0005654	C:nucleoplasm	IDA:HPA
+O43251	GO:0005634	C:nucleus	IDA:UniProtKB
+O43251	GO:0140297	F:DNA-binding transcription factor binding	IDA:UniProtKB
+O43251	GO:0003729	F:mRNA binding	IBA:GO_Central
+O43251	GO:0003723	F:RNA binding	IDA:UniProtKB
+O43251	GO:0003714	F:transcription corepressor activity	IDA:UniProtKB
+O43251	GO:0030520	P:estrogen receptor signaling pathway	IDA:UniProtKB
+O43251	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+O43251	GO:0045892	P:negative regulation of DNA-templated transcription	IDA:UniProtKB
+O43251	GO:0007399	P:nervous system development	IBA:GO_Central
+O43251	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	ISS:UniProtKB
+O43251	GO:0042127	P:regulation of cell population proliferation	TAS:UniProtKB
+O43251	GO:0016070	P:RNA metabolic process	TAS:UniProtKB
+O43251	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+O60812	GO:0005634	C:nucleus	IBA:GO_Central
+O60812	GO:1990904	C:ribonucleoprotein complex	IEA:UniProtKB-KW
+O60812	GO:0042802	F:identical protein binding	IPI:IntAct
+O60812	GO:0003723	F:RNA binding	HDA:UniProtKB
+O75152	GO:0016607	C:nuclear speck	IEA:UniProtKB-SubCell
+O75152	GO:0005654	C:nucleoplasm	TAS:Reactome
+O75152	GO:0003723	F:RNA binding	HDA:UniProtKB
+O75152	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+O75152	GO:0016973	P:poly(A)+ mRNA export from nucleus	IMP:UniProtKB
+O75494	GO:0043679	C:axon terminus	IEA:Ensembl
+O75494	GO:0005737	C:cytoplasm	NAS:UniProtKB
+O75494	GO:0005829	C:cytosol	IEA:GOC
+O75494	GO:0030425	C:dendrite	IEA:Ensembl
+O75494	GO:0043025	C:neuronal cell body	IEA:Ensembl
+O75494	GO:0016607	C:nuclear speck	IDA:UniProtKB
+O75494	GO:0005654	C:nucleoplasm	IDA:HPA
+O75494	GO:0005634	C:nucleus	IC:UniProtKB
+O75494	GO:0003723	F:RNA binding	IDA:UniProtKB
+O75494	GO:0050733	F:RS domain binding	NAS:UniProtKB
+O75494	GO:0051082	F:unfolded protein binding	NAS:UniProtKB
+O75494	GO:0016482	P:cytosolic transport	IEA:Ensembl
+O75494	GO:0006376	P:mRNA splice site recognition	IDA:UniProtKB
+O75494	GO:0000398	P:mRNA splicing, via spliceosome	IDA:UniProtKB
+O75494	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+O75494	GO:0006355	P:regulation of DNA-templated transcription	NAS:UniProtKB
+O75494	GO:0048024	P:regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+O75494	GO:0000375	P:RNA splicing, via transesterification reactions	IDA:UniProtKB
+O75494	GO:0000244	P:spliceosomal tri-snRNP complex assembly	NAS:UniProtKB
+O95104	GO:0005654	C:nucleoplasm	IDA:HPA
+O95104	GO:0005634	C:nucleus	IDA:UniProtKB
+O95104	GO:0003723	F:RNA binding	IDA:UniProtKB
+O95104	GO:1990269	F:RNA polymerase II C-terminal domain phosphoserine binding	IDA:UniProtKB
+O95104	GO:2000805	P:negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled	IDA:UniProtKB
+O95218	GO:0005654	C:nucleoplasm	IDA:HPA
+O95218	GO:0001530	F:lipopolysaccharide binding	IBA:GO_Central
+O95218	GO:0003723	F:RNA binding	HDA:UniProtKB
+O95218	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+O95218	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+O95218	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+O95319	GO:0005737	C:cytoplasm	IBA:GO_Central
+O95319	GO:0090543	C:Flemming body	IDA:HPA
+O95319	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+O95319	GO:0005654	C:nucleoplasm	IDA:HPA
+O95319	GO:0005634	C:nucleus	IDA:UniProtKB
+O95319	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+O95319	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+O95319	GO:0036002	F:pre-mRNA binding	IDA:UniProtKB
+O95319	GO:0003723	F:RNA binding	HDA:UniProtKB
+O95319	GO:0006376	P:mRNA splice site recognition	IDA:UniProtKB
+O95319	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IBA:GO_Central
+O95319	GO:0008016	P:regulation of heart contraction	TAS:ProtInc
+O95319	GO:0006396	P:RNA processing	TAS:ProtInc
+O95758	GO:0005634	C:nucleus	IBA:GO_Central
+O95758	GO:0003729	F:mRNA binding	IBA:GO_Central
+O95758	GO:0003723	F:RNA binding	HDA:UniProtKB
+O95758	GO:0009653	P:anatomical structure morphogenesis	TAS:ProtInc
+O95758	GO:0043249	P:erythrocyte maturation	IEA:UniProtKB-KW
+O95758	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+O95758	GO:0033119	P:negative regulation of RNA splicing	IDA:UniProtKB
+O95758	GO:0045595	P:regulation of cell differentiation	IEA:InterPro
+O95758	GO:0043484	P:regulation of RNA splicing	IBA:GO_Central
+O95758	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+P04406	GO:0005737	C:cytoplasm	IDA:UniProtKB
+P04406	GO:0005829	C:cytosol	IDA:HPA
+P04406	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+P04406	GO:0097452	C:GAIT complex	IDA:UniProtKB
+P04406	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+P04406	GO:0005811	C:lipid droplet	IDA:UniProtKB
+P04406	GO:0016020	C:membrane	HDA:UniProtKB
+P04406	GO:0015630	C:microtubule cytoskeleton	ISS:UniProtKB
+P04406	GO:0031965	C:nuclear membrane	IDA:HPA
+P04406	GO:0005634	C:nucleus	IDA:CACAO
+P04406	GO:0048471	C:perinuclear region of cytoplasm	IEA:UniProtKB-SubCell
+P04406	GO:0005886	C:plasma membrane	IDA:HPA
+P04406	GO:1990904	C:ribonucleoprotein complex	IDA:UniProtKB
+P04406	GO:0031982	C:vesicle	HDA:UniProtKB
+P04406	GO:0019828	F:aspartic-type endopeptidase inhibitor activity	IDA:UniProtKB
+P04406	GO:0097718	F:disordered domain specific binding	IPI:CAFA
+P04406	GO:0004365	F:glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	ISS:UniProtKB
+P04406	GO:0042802	F:identical protein binding	IPI:IntAct
+P04406	GO:0008017	F:microtubule binding	ISS:UniProtKB
+P04406	GO:0051287	F:NAD binding	IEA:InterPro
+P04406	GO:0050661	F:NADP binding	IEA:InterPro
+P04406	GO:0035605	F:peptidyl-cysteine S-nitrosylase activity	ISS:UniProtKB
+P04406	GO:0061844	P:antimicrobial humoral immune response mediated by antimicrobial peptide	IDA:UniProtKB
+P04406	GO:0071346	P:cellular response to type II interferon	IDA:UniProtKB
+P04406	GO:0050832	P:defense response to fungus	IDA:UniProtKB
+P04406	GO:0006006	P:glucose metabolic process	IEA:InterPro
+P04406	GO:0006096	P:glycolytic process	IBA:GO_Central
+P04406	GO:0051873	P:killing by host of symbiont cells	IDA:UniProtKB
+P04406	GO:0031640	P:killing of cells of another organism	IDA:UniProtKB
+P04406	GO:0000226	P:microtubule cytoskeleton organization	ISS:UniProtKB
+P04406	GO:0010951	P:negative regulation of endopeptidase activity	IDA:UniProtKB
+P04406	GO:0017148	P:negative regulation of translation	IDA:UniProtKB
+P04406	GO:0051402	P:neuron apoptotic process	ISS:UniProtKB
+P04406	GO:0035606	P:peptidyl-cysteine S-trans-nitrosylation	ISS:UniProtKB
+P04406	GO:0043123	P:positive regulation of canonical NF-kappaB signal transduction	IDA:UniProtKB
+P04406	GO:0001819	P:positive regulation of cytokine production	IDA:UniProtKB
+P04406	GO:0032481	P:positive regulation of type I interferon production	IDA:UniProtKB
+P04406	GO:0050821	P:protein stabilization	ISS:UniProtKB
+P04406	GO:0016241	P:regulation of macroautophagy	TAS:ParkinsonsUK-UCL
+P08621	GO:0016607	C:nuclear speck	ISS:UniProtKB
+P08621	GO:0005654	C:nucleoplasm	IDA:HPA
+P08621	GO:0005634	C:nucleus	IDA:UniProtKB
+P08621	GO:0005681	C:spliceosomal complex	IDA:UniProtKB
+P08621	GO:0005685	C:U1 snRNP	IDA:UniProtKB
+P08621	GO:0071004	C:U2-type prespliceosome	IBA:GO_Central
+P08621	GO:0003729	F:mRNA binding	IBA:GO_Central
+P08621	GO:0003723	F:RNA binding	IMP:UniProtKB
+P08621	GO:0030619	F:U1 snRNA binding	IDA:UniProtKB
+P08621	GO:1990446	F:U1 snRNP binding	IEA:Ensembl
+P08621	GO:0071300	P:cellular response to retinoic acid	IEA:Ensembl
+P08621	GO:0071560	P:cellular response to transforming growth factor beta stimulus	IEA:Ensembl
+P08621	GO:0071356	P:cellular response to tumor necrosis factor	IEA:Ensembl
+P08621	GO:0000398	P:mRNA splicing, via spliceosome	IDA:UniProtKB
+P08621	GO:1904715	P:negative regulation of chaperone-mediated autophagy	TAS:ParkinsonsUK-UCL
+P08621	GO:0061084	P:negative regulation of protein refolding	TAS:ParkinsonsUK-UCL
+P08621	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IEA:Ensembl
+P08621	GO:0043462	P:regulation of ATP-dependent activity	TAS:ParkinsonsUK-UCL
+P08621	GO:0043484	P:regulation of RNA splicing	IMP:UniProtKB
+P09012	GO:0005654	C:nucleoplasm	IDA:HPA
+P09012	GO:0005634	C:nucleus	NAS:ComplexPortal
+P09012	GO:0005681	C:spliceosomal complex	IDA:HGNC-UCL
+P09012	GO:0005685	C:U1 snRNP	IDA:UniProtKB
+P09012	GO:0046540	C:U4/U6 x U5 tri-snRNP complex	IPI:ComplexPortal
+P09012	GO:0003677	F:DNA binding	EXP:DisProt
+P09012	GO:0042802	F:identical protein binding	IPI:IntAct
+P09012	GO:0003723	F:RNA binding	IDA:UniProtKB
+P09012	GO:0030619	F:U1 snRNA binding	IDA:UniProtKB
+P09012	GO:1990446	F:U1 snRNP binding	IEA:Ensembl
+P09012	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+P09651	GO:0071013	C:catalytic step 2 spliceosome	IDA:UniProtKB
+P09651	GO:0005737	C:cytoplasm	IDA:HGNC-UCL
+P09651	GO:0005829	C:cytosol	TAS:Reactome
+P09651	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+P09651	GO:0016020	C:membrane	HDA:UniProtKB
+P09651	GO:0005654	C:nucleoplasm	IDA:HPA
+P09651	GO:0005634	C:nucleus	IDA:UniProtKB
+P09651	GO:1990904	C:ribonucleoprotein complex	IDA:UniProtKB
+P09651	GO:0005681	C:spliceosomal complex	IDA:CAFA
+P09651	GO:0045202	C:synapse	IEA:Ensembl
+P09651	GO:0003677	F:DNA binding	EXP:DisProt
+P09651	GO:0098505	F:G-rich strand telomeric DNA binding	IDA:BHF-UCL
+P09651	GO:0042802	F:identical protein binding	IPI:IntAct
+P09651	GO:0035198	F:miRNA binding	IDA:UniProtKB
+P09651	GO:0036002	F:pre-mRNA binding	IDA:UniProtKB
+P09651	GO:0019904	F:protein domain specific binding	IPI:UniProtKB
+P09651	GO:0003723	F:RNA binding	HDA:UniProtKB
+P09651	GO:0003697	F:single-stranded DNA binding	IDA:HGNC-UCL
+P09651	GO:0003727	F:single-stranded RNA binding	IC:HGNC-UCL
+P09651	GO:0061752	F:telomeric repeat-containing RNA binding	IDA:BHF-UCL
+P09651	GO:0000380	P:alternative mRNA splicing, via spliceosome	IEA:Ensembl
+P09651	GO:0042149	P:cellular response to glucose starvation	IMP:CAFA
+P09651	GO:1903936	P:cellular response to sodium arsenite	IDA:UniProtKB
+P09651	GO:0051170	P:import into nucleus	IDA:HGNC-UCL
+P09651	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+P09651	GO:0051028	P:mRNA transport	IEA:UniProtKB-KW
+P09651	GO:0032211	P:negative regulation of telomere maintenance via telomerase	IMP:BHF-UCL
+P09651	GO:0051168	P:nuclear export	IDA:HGNC-UCL
+P09651	GO:0032212	P:positive regulation of telomere maintenance via telomerase	IDA:BHF-UCL
+P09651	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IMP:CAFA
+P09651	GO:0043484	P:regulation of RNA splicing	IDA:UniProtKB
+P09651	GO:0006405	P:RNA export from nucleus	IC:HGNC-UCL
+P0DJD3	GO:0005730	C:nucleolus	IDA:HPA
+P0DJD3	GO:0005654	C:nucleoplasm	IDA:HPA
+P0DJD3	GO:0005681	C:spliceosomal complex	IBA:GO_Central
+P0DJD3	GO:0003729	F:mRNA binding	IDA:UniProtKB
+P0DJD3	GO:0003723	F:RNA binding	IBA:GO_Central
+P0DJD3	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+P0DJD3	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IBA:GO_Central
+P0DJD3	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+P0DJD3	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+P10155	GO:0005929	C:cilium	IDA:HPA
+P10155	GO:0005829	C:cytosol	IDA:HPA
+P10155	GO:0016604	C:nuclear body	IDA:HPA
+P10155	GO:0005654	C:nucleoplasm	IDA:HPA
+P10155	GO:1990904	C:ribonucleoprotein complex	IDA:UniProtKB
+P10155	GO:0046872	F:metal ion binding	IEA:UniProtKB-KW
+P10155	GO:0003723	F:RNA binding	IDA:UniProtKB
+P10155	GO:0030620	F:U2 snRNA binding	IEA:Ensembl
+P10155	GO:0035457	P:cellular response to interferon-alpha	IDA:UniProtKB
+P10155	GO:0060271	P:cilium assembly	IEA:Ensembl
+P10155	GO:0002520	P:immune system development	IEA:Ensembl
+P10155	GO:0010468	P:regulation of gene expression	IDA:UniProtKB
+P10155	GO:0009411	P:response to UV	IEA:Ensembl
+P10155	GO:0007224	P:smoothened signaling pathway	IEA:Ensembl
+P10155	GO:0006383	P:transcription by RNA polymerase III	TAS:ProtInc
+P21399	GO:0005737	C:cytoplasm	IMP:CAFA
+P21399	GO:0005829	C:cytosol	IDA:UniProtKB
+P21399	GO:0005783	C:endoplasmic reticulum	IDA:MGI
+P21399	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+P21399	GO:0005794	C:Golgi apparatus	IDA:MGI
+P21399	GO:0005739	C:mitochondrion	IDA:HPA
+P21399	GO:0051538	F:3 iron, 4 sulfur cluster binding	IMP:CAFA
+P21399	GO:0051539	F:4 iron, 4 sulfur cluster binding	IDA:UniProtKB
+P21399	GO:0003994	F:aconitate hydratase activity	IDA:UniProtKB
+P21399	GO:0030350	F:iron-responsive element binding	IDA:UniProtKB
+P21399	GO:0051536	F:iron-sulfur cluster binding	EXP:Reactome
+P21399	GO:0046872	F:metal ion binding	IEA:UniProtKB-KW
+P21399	GO:0000900	F:mRNA regulatory element binding translation repressor activity	EXP:Reactome
+P21399	GO:0003723	F:RNA binding	IDA:UniProtKB
+P21399	GO:0006101	P:citrate metabolic process	IDA:UniProtKB
+P21399	GO:0050892	P:intestinal absorption	IEA:Ensembl
+P21399	GO:0006879	P:intracellular iron ion homeostasis	IBA:GO_Central
+P21399	GO:0006740	P:NADPH regeneration	IEA:Ensembl
+P21399	GO:0009791	P:post-embryonic development	IEA:Ensembl
+P21399	GO:0010040	P:response to iron(II) ion	IDA:UniProtKB
+P21399	GO:0006099	P:tricarboxylic acid cycle	IEA:UniProtKB-KW
+P26368	GO:0000243	C:commitment complex	IBA:GO_Central
+P26368	GO:0016607	C:nuclear speck	IDA:HPA
+P26368	GO:0005654	C:nucleoplasm	TAS:Reactome
+P26368	GO:0005634	C:nucleus	IDA:GO_Central
+P26368	GO:0005681	C:spliceosomal complex	IDA:HGNC-UCL
+P26368	GO:0071004	C:U2-type prespliceosome	IDA:GO_Central
+P26368	GO:0089701	C:U2AF complex	IDA:GO_Central
+P26368	GO:0070742	F:C2H2 zinc finger domain binding	IEA:Ensembl
+P26368	GO:0019899	F:enzyme binding	IPI:UniProtKB
+P26368	GO:0140678	F:molecular function inhibitor activity	EXP:DisProt
+P26368	GO:0008187	F:poly-pyrimidine tract binding	IBA:GO_Central
+P26368	GO:0030628	F:pre-mRNA 3'-splice site binding	IDA:GO_Central
+P26368	GO:0003723	F:RNA binding	HDA:UniProtKB
+P26368	GO:0006397	P:mRNA processing	TAS:ProtInc
+P26368	GO:0000398	P:mRNA splicing, via spliceosome	IDA:GO_Central
+P26368	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+P26368	GO:0031397	P:negative regulation of protein ubiquitination	IDA:BHF-UCL
+P26368	GO:0033120	P:positive regulation of RNA splicing	IDA:UniProtKB
+P26368	GO:0000245	P:spliceosomal complex assembly	IBA:GO_Central
+P26651	GO:0005737	C:cytoplasm	IDA:UniProtKB
+P26651	GO:0010494	C:cytoplasmic stress granule	IDA:UniProtKB
+P26651	GO:0005829	C:cytosol	IDA:MGI
+P26651	GO:0005634	C:nucleus	IDA:UniProtKB
+P26651	GO:0000932	C:P-body	IDA:UniProtKB
+P26651	GO:1990904	C:ribonucleoprotein complex	IDA:UniProtKB
+P26651	GO:0071889	F:14-3-3 protein binding	IDA:UniProtKB
+P26651	GO:0019957	F:C-C chemokine binding	IPI:UniProtKB
+P26651	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+P26651	GO:0019899	F:enzyme binding	IPI:BHF-UCL
+P26651	GO:0031072	F:heat shock protein binding	IDA:UniProtKB
+P26651	GO:0035925	F:mRNA 3'-UTR AU-rich region binding	IDA:UniProtKB
+P26651	GO:0003729	F:mRNA binding	IDA:UniProtKB
+P26651	GO:0019901	F:protein kinase binding	IPI:UniProtKB
+P26651	GO:0044877	F:protein-containing complex binding	IPI:GO_Central
+P26651	GO:0160134	F:protein-RNA sequence-specific adaptor activity	IDA:UniProt
+P26651	GO:0003723	F:RNA binding	HDA:UniProtKB
+P26651	GO:0070063	F:RNA polymerase binding	ISS:UniProtKB
+P26651	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+P26651	GO:0061158	P:3'-UTR-mediated mRNA destabilization	IDA:UniProtKB
+P26651	GO:0070935	P:3'-UTR-mediated mRNA stabilization	IDA:UniProtKB
+P26651	GO:0071364	P:cellular response to epidermal growth factor stimulus	IDA:UniProtKB
+P26651	GO:0044344	P:cellular response to fibroblast growth factor stimulus	IDA:UniProtKB
+P26651	GO:0071385	P:cellular response to glucocorticoid stimulus	IDA:UniProtKB
+P26651	GO:0097011	P:cellular response to granulocyte macrophage colony-stimulating factor stimulus	IDA:UniProtKB
+P26651	GO:0071222	P:cellular response to lipopolysaccharide	IDA:UniProtKB
+P26651	GO:0071356	P:cellular response to tumor necrosis factor	IDA:UniProtKB
+P26651	GO:0000165	P:MAPK cascade	IMP:UniProtKB
+P26651	GO:0035278	P:miRNA-mediated gene silencing by inhibition of translation	ISS:UniProtKB
+P26651	GO:0006402	P:mRNA catabolic process	IDA:UniProtKB
+P26651	GO:0051028	P:mRNA transport	IMP:UniProtKB
+P26651	GO:1905869	P:negative regulation of 3'-UTR-mediated mRNA stabilization	IDA:UniProt
+P26651	GO:1900016	P:negative regulation of cytokine production involved in inflammatory response	IDA:UniProt
+P26651	GO:0045647	P:negative regulation of erythrocyte differentiation	IDA:UniProtKB
+P26651	GO:0032703	P:negative regulation of interleukin-2 production	ISS:UniProtKB
+P26651	GO:1904246	P:negative regulation of polynucleotide adenylyltransferase activity	ISS:UniProtKB
+P26651	GO:0000122	P:negative regulation of transcription by RNA polymerase II	IMP:UniProtKB
+P26651	GO:0032897	P:negative regulation of viral transcription	IMP:UniProtKB
+P26651	GO:0000288	P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	IDA:UniProtKB
+P26651	GO:0031086	P:nuclear-transcribed mRNA catabolic process, deadenylation-independent decay	IDA:UniProtKB
+P26651	GO:0000289	P:nuclear-transcribed mRNA poly(A) tail shortening	IMP:BHF-UCL
+P26651	GO:0038066	P:p38MAPK cascade	ISS:UniProtKB
+P26651	GO:1901835	P:positive regulation of deadenylation-independent decapping of nuclear-transcribed mRNA	IDA:UniProtKB
+P26651	GO:0045600	P:positive regulation of fat cell differentiation	ISS:UniProtKB
+P26651	GO:1904582	P:positive regulation of intracellular mRNA localization	IMP:UniProtKB
+P26651	GO:2000637	P:positive regulation of miRNA-mediated gene silencing	IMP:UniProtKB
+P26651	GO:1900153	P:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	IDA:UniProtKB
+P26651	GO:0060213	P:positive regulation of nuclear-transcribed mRNA poly(A) tail shortening	IDA:UniProtKB
+P26651	GO:1902172	P:regulation of keratinocyte apoptotic process	IMP:UniProtKB
+P26651	GO:0045616	P:regulation of keratinocyte differentiation	IMP:UniProtKB
+P26651	GO:0010837	P:regulation of keratinocyte proliferation	IMP:UniProtKB
+P26651	GO:0043488	P:regulation of mRNA stability	IDA:UniProtKB
+P26651	GO:0032680	P:regulation of tumor necrosis factor production	IDA:UniProtKB
+P26651	GO:0042594	P:response to starvation	IDA:UniProtKB
+P26651	GO:0009611	P:response to wounding	IDA:UniProtKB
+P41214	GO:0005737	C:cytoplasm	IDA:UniProtKB
+P41214	GO:0005829	C:cytosol	IDA:HPA
+P41214	GO:0016604	C:nuclear body	IDA:HPA
+P41214	GO:0003723	F:RNA binding	IEA:InterPro
+P41214	GO:0038023	F:signaling receptor activity	TAS:ProtInc
+P41214	GO:0003743	F:translation initiation factor activity	IDA:UniProtKB
+P41214	GO:0001731	P:formation of translation preinitiation complex	IDA:UniProtKB
+P41214	GO:0006886	P:intracellular protein transport	TAS:ProtInc
+P41214	GO:0075522	P:IRES-dependent viral translational initiation	IDA:UniProtKB
+P41214	GO:0032790	P:ribosome disassembly	IDA:UniProtKB
+P47974	GO:0005737	C:cytoplasm	ISS:UniProtKB
+P47974	GO:0005634	C:nucleus	ISS:UniProtKB
+P47974	GO:1990904	C:ribonucleoprotein complex	IEA:UniProtKB-KW
+P47974	GO:0035925	F:mRNA 3'-UTR AU-rich region binding	IDA:UniProtKB
+P47974	GO:0003723	F:RNA binding	HDA:UniProtKB
+P47974	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+P47974	GO:0061158	P:3'-UTR-mediated mRNA destabilization	IMP:UniProtKB
+P47974	GO:0071364	P:cellular response to epidermal growth factor stimulus	IDA:UniProtKB
+P47974	GO:0044344	P:cellular response to fibroblast growth factor stimulus	IDA:UniProtKB
+P47974	GO:0071385	P:cellular response to glucocorticoid stimulus	IDA:UniProtKB
+P47974	GO:0097011	P:cellular response to granulocyte macrophage colony-stimulating factor stimulus	IDA:UniProtKB
+P47974	GO:0071560	P:cellular response to transforming growth factor beta stimulus	IDA:UniProtKB
+P47974	GO:0071356	P:cellular response to tumor necrosis factor	IDA:UniProtKB
+P47974	GO:0060216	P:definitive hemopoiesis	ISS:UniProtKB
+P47974	GO:0070371	P:ERK1 and ERK2 cascade	IDA:UniProtKB
+P47974	GO:0030097	P:hemopoiesis	ISS:UniProtKB
+P47974	GO:0006402	P:mRNA catabolic process	IMP:UniProtKB
+P47974	GO:0045599	P:negative regulation of fat cell differentiation	ISS:UniProtKB
+P47974	GO:1901991	P:negative regulation of mitotic cell cycle phase transition	ISS:UniProtKB
+P47974	GO:2000737	P:negative regulation of stem cell differentiation	ISS:UniProtKB
+P47974	GO:0000288	P:nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	IEA:Ensembl
+P47974	GO:1900153	P:positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	ISS:UniProtKB
+P47974	GO:0045577	P:regulation of B cell differentiation	ISS:UniProtKB
+P47974	GO:0043488	P:regulation of mRNA stability	IMP:UniProtKB
+P47974	GO:0009611	P:response to wounding	IDA:UniProtKB
+P47974	GO:0048103	P:somatic stem cell division	ISS:UniProtKB
+P47974	GO:0035019	P:somatic stem cell population maintenance	ISS:UniProtKB
+P47974	GO:0033077	P:T cell differentiation in thymus	ISS:UniProtKB
+P48200	GO:0005737	C:cytoplasm	NAS:UniProtKB
+P48200	GO:0005829	C:cytosol	IBA:GO_Central
+P48200	GO:0051539	F:4 iron, 4 sulfur cluster binding	IBA:GO_Central
+P48200	GO:0003994	F:aconitate hydratase activity	IBA:GO_Central
+P48200	GO:0030350	F:iron-responsive element binding	IMP:UniProtKB
+P48200	GO:0046872	F:metal ion binding	IEA:UniProtKB-KW
+P48200	GO:0000900	F:mRNA regulatory element binding translation repressor activity	EXP:Reactome
+P48200	GO:0003723	F:RNA binding	IDA:UniProtKB
+P48200	GO:0034101	P:erythrocyte homeostasis	IEA:Ensembl
+P48200	GO:0050892	P:intestinal absorption	IEA:Ensembl
+P48200	GO:0006879	P:intracellular iron ion homeostasis	IMP:UniProtKB
+P48200	GO:0048255	P:mRNA stabilization	TAS:UniProtKB
+P48200	GO:0060586	P:multicellular organismal-level iron ion homeostasis	IEA:Ensembl
+P48200	GO:0030316	P:osteoclast differentiation	IEA:Ensembl
+P48200	GO:0009791	P:post-embryonic development	IEA:Ensembl
+P48200	GO:0006782	P:protoporphyrinogen IX biosynthetic process	IEA:Ensembl
+P52597	GO:0071013	C:catalytic step 2 spliceosome	IDA:UniProtKB
+P52597	GO:0005829	C:cytosol	IDA:HPA
+P52597	GO:0016020	C:membrane	HDA:UniProtKB
+P52597	GO:0005654	C:nucleoplasm	IDA:HPA
+P52597	GO:0005634	C:nucleus	TAS:ProtInc
+P52597	GO:0005886	C:plasma membrane	TAS:Reactome
+P52597	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+P52597	GO:0045202	C:synapse	IEA:Ensembl
+P52597	GO:0003723	F:RNA binding	HDA:UniProtKB
+P52597	GO:0003727	F:single-stranded RNA binding	IDA:UniProtKB
+P52597	GO:0000398	P:mRNA splicing, via spliceosome	IC:UniProtKB
+P52597	GO:0043484	P:regulation of RNA splicing	IDA:UniProtKB
+P52597	GO:0006396	P:RNA processing	TAS:ProtInc
+P55795	GO:0005829	C:cytosol	IDA:HPA
+P55795	GO:0016020	C:membrane	HDA:UniProtKB
+P55795	GO:0005654	C:nucleoplasm	IDA:UniProtKB
+P55795	GO:0005634	C:nucleus	TAS:ProtInc
+P55795	GO:1990904	C:ribonucleoprotein complex	IDA:MGI
+P55795	GO:0003723	F:RNA binding	HDA:UniProtKB
+P55795	GO:0043484	P:regulation of RNA splicing	IBA:GO_Central
+P57052	GO:0016607	C:nuclear speck	IDA:MGI
+P57052	GO:0005654	C:nucleoplasm	IDA:HPA
+P57052	GO:0005634	C:nucleus	IDA:MGI
+P57052	GO:0008266	F:poly(U) RNA binding	IDA:MGI
+P57052	GO:0042803	F:protein homodimerization activity	IDA:MGI
+P57052	GO:0003727	F:single-stranded RNA binding	IBA:GO_Central
+P57052	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+P57052	GO:0034599	P:cellular response to oxidative stress	IDA:MGI
+P57052	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+P57052	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:MGI
+P57052	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+P60484	GO:0016324	C:apical plasma membrane	IMP:UniProtKB
+P60484	GO:0042995	C:cell projection	IDA:UniProtKB
+P60484	GO:0005737	C:cytoplasm	IDA:UniProtKB
+P60484	GO:0009898	C:cytoplasmic side of plasma membrane	IDA:UniProtKB
+P60484	GO:0005829	C:cytosol	IDA:HPA
+P60484	GO:0043197	C:dendritic spine	IEA:UniProtKB-SubCell
+P60484	GO:0005576	C:extracellular region	IEA:UniProtKB-SubCell
+P60484	GO:0035749	C:myelin sheath adaxonal region	ISS:BHF-UCL
+P60484	GO:0043005	C:neuron projection	ISS:BHF-UCL
+P60484	GO:0005654	C:nucleoplasm	IDA:HPA
+P60484	GO:0005634	C:nucleus	IDA:UniProtKB
+P60484	GO:0005886	C:plasma membrane	IDA:UniProtKB
+P60484	GO:0016605	C:PML body	IEA:UniProtKB-SubCell
+P60484	GO:0014069	C:postsynaptic density	IEA:UniProtKB-SubCell
+P60484	GO:0043220	C:Schmidt-Lanterman incisure	ISS:BHF-UCL
+P60484	GO:0010997	F:anaphase-promoting complex binding	IPI:BHF-UCL
+P60484	GO:0008013	F:beta-catenin binding	IPI:BHF-UCL
+P60484	GO:0019899	F:enzyme binding	IPI:UniProtKB
+P60484	GO:0042802	F:identical protein binding	IPI:IntAct
+P60484	GO:0030351	F:inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity	IDA:UniProtKB
+P60484	GO:0051717	F:inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity	IDA:UniProtKB
+P60484	GO:0008289	F:lipid binding	IEA:UniProtKB-KW
+P60484	GO:0140678	F:molecular function inhibitor activity	IMP:DisProt
+P60484	GO:0030165	F:PDZ domain binding	IPI:UniProtKB
+P60484	GO:0052866	F:phosphatidylinositol phosphate phosphatase activity	IDA:UniProt
+P60484	GO:0016314	F:phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity	IDA:UniProtKB
+P60484	GO:0051800	F:phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity	IDA:UniProtKB
+P60484	GO:0004438	F:phosphatidylinositol-3-phosphate phosphatase activity	IDA:UniProtKB
+P60484	GO:0004721	F:phosphoprotein phosphatase activity	IDA:BHF-UCL
+P60484	GO:0004722	F:protein serine/threonine phosphatase activity	IDA:UniProtKB
+P60484	GO:0004725	F:protein tyrosine phosphatase activity	IDA:UniProtKB
+P60484	GO:1990757	F:ubiquitin ligase activator activity	ISS:BHF-UCL
+P60484	GO:1990381	F:ubiquitin-specific protease binding	IPI:MGI
+P60484	GO:0030534	P:adult behavior	ISS:BHF-UCL
+P60484	GO:0006915	P:apoptotic process	IEA:UniProtKB-KW
+P60484	GO:0016477	P:cell migration	ISS:UniProtKB
+P60484	GO:0048870	P:cell motility	IBA:GO_Central
+P60484	GO:0071257	P:cellular response to electrical stimulus	IMP:BHF-UCL
+P60484	GO:0007417	P:central nervous system development	ISS:UniProtKB
+P60484	GO:0032286	P:central nervous system myelin maintenance	ISS:BHF-UCL
+P60484	GO:0021955	P:central nervous system neuron axonogenesis	ISS:BHF-UCL
+P60484	GO:0060997	P:dendritic spine morphogenesis	ISS:BHF-UCL
+P60484	GO:0021542	P:dentate gyrus development	ISS:BHF-UCL
+P60484	GO:0048853	P:forebrain morphogenesis	ISS:BHF-UCL
+P60484	GO:0007507	P:heart development	ISS:UniProtKB
+P60484	GO:0007611	P:learning or memory	ISS:BHF-UCL
+P60484	GO:0045475	P:locomotor rhythm	ISS:BHF-UCL
+P60484	GO:0007626	P:locomotory behavior	ISS:BHF-UCL
+P60484	GO:0042711	P:maternal behavior	ISS:BHF-UCL
+P60484	GO:0033555	P:multicellular organismal response to stress	ISS:BHF-UCL
+P60484	GO:0050771	P:negative regulation of axonogenesis	ISS:BHF-UCL
+P60484	GO:1902807	P:negative regulation of cell cycle G1/S phase transition	IDA:UniProtKB
+P60484	GO:0030336	P:negative regulation of cell migration	IMP:UniProtKB
+P60484	GO:0008285	P:negative regulation of cell population proliferation	IDA:BHF-UCL
+P60484	GO:0045792	P:negative regulation of cell size	ISS:BHF-UCL
+P60484	GO:2000773	P:negative regulation of cellular senescence	ISS:BHF-UCL
+P60484	GO:0010719	P:negative regulation of epithelial to mesenchymal transition	IMP:BHF-UCL
+P60484	GO:0090394	P:negative regulation of excitatory postsynaptic potential	ISS:BHF-UCL
+P60484	GO:0051895	P:negative regulation of focal adhesion assembly	IMP:UniProtKB
+P60484	GO:2000134	P:negative regulation of G1/S transition of mitotic cell cycle	IDA:BHF-UCL
+P60484	GO:0051548	P:negative regulation of keratinocyte migration	IMP:BHF-UCL
+P60484	GO:0010977	P:negative regulation of neuron projection development	ISS:ARUK-UCL
+P60484	GO:0046621	P:negative regulation of organ growth	ISS:BHF-UCL
+P60484	GO:0045668	P:negative regulation of osteoblast differentiation	IDA:UniProt
+P60484	GO:0033137	P:negative regulation of peptidyl-serine phosphorylation	IMP:UniProtKB
+P60484	GO:0051898	P:negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	IDA:UniProt
+P60484	GO:2000808	P:negative regulation of synaptic vesicle clustering	ISS:BHF-UCL
+P60484	GO:1904706	P:negative regulation of vascular associated smooth muscle cell proliferation	IMP:BHF-UCL
+P60484	GO:1903690	P:negative regulation of wound healing, spreading of epidermal cells	IMP:BHF-UCL
+P60484	GO:0007270	P:neuron-neuron synaptic transmission	ISS:BHF-UCL
+P60484	GO:0043491	P:phosphatidylinositol 3-kinase/protein kinase B signal transduction	IBA:GO_Central
+P60484	GO:0006661	P:phosphatidylinositol biosynthetic process	TAS:Reactome
+P60484	GO:0046856	P:phosphatidylinositol dephosphorylation	IDA:UniProtKB
+P60484	GO:0008284	P:positive regulation of cell population proliferation	ISS:BHF-UCL
+P60484	GO:2000463	P:positive regulation of excitatory postsynaptic potential	ISS:BHF-UCL
+P60484	GO:1902533	P:positive regulation of intracellular signal transduction	IMP:BHF-UCL
+P60484	GO:0045944	P:positive regulation of transcription by RNA polymerase II	IMP:BHF-UCL
+P60484	GO:2000060	P:positive regulation of ubiquitin-dependent protein catabolic process	IDA:BHF-UCL
+P60484	GO:0097107	P:postsynaptic density assembly	ISS:BHF-UCL
+P60484	GO:0060134	P:prepulse inhibition	ISS:BHF-UCL
+P60484	GO:0097105	P:presynaptic membrane assembly	ISS:BHF-UCL
+P60484	GO:0006470	P:protein dephosphorylation	IDA:UniProtKB
+P60484	GO:0050821	P:protein stabilization	IDA:BHF-UCL
+P60484	GO:0010975	P:regulation of neuron projection development	ISS:UniProtKB
+P60484	GO:0051896	P:regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	IBA:GO_Central
+P60484	GO:0031647	P:regulation of protein stability	IMP:UniProtKB
+P60484	GO:0060024	P:rhythmic synaptic transmission	ISS:BHF-UCL
+P60484	GO:0035176	P:social behavior	ISS:BHF-UCL
+P60484	GO:0007056	P:spindle assembly involved in female meiosis	IDA:UniProt
+P60484	GO:0007416	P:synapse assembly	ISS:BHF-UCL
+P60484	GO:0060074	P:synapse maturation	ISS:BHF-UCL
+P63162	GO:0071013	C:catalytic step 2 spliceosome	IBA:GO_Central
+P63162	GO:0005737	C:cytoplasm	IBA:GO_Central
+P63162	GO:0005654	C:nucleoplasm	IDA:HPA
+P63162	GO:0030532	C:small nuclear ribonucleoprotein complex	TAS:UniProtKB
+P63162	GO:0005681	C:spliceosomal complex	TAS:UniProtKB
+P63162	GO:0005685	C:U1 snRNP	IBA:GO_Central
+P63162	GO:0005686	C:U2 snRNP	IBA:GO_Central
+P63162	GO:0071004	C:U2-type prespliceosome	IBA:GO_Central
+P63162	GO:0005687	C:U4 snRNP	IBA:GO_Central
+P63162	GO:0046540	C:U4/U6 x U5 tri-snRNP complex	IBA:GO_Central
+P63162	GO:0005682	C:U5 snRNP	IBA:GO_Central
+P63162	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+P63162	GO:0070990	F:snRNP binding	IBA:GO_Central
+P63162	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+P63162	GO:0008380	P:RNA splicing	TAS:UniProtKB
+P79522	GO:0003723	F:RNA binding	HDA:UniProtKB
+P79522	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+P84103	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+P84103	GO:0016607	C:nuclear speck	IDA:UniProtKB
+P84103	GO:0005654	C:nucleoplasm	TAS:Reactome
+P84103	GO:0003729	F:mRNA binding	IBA:GO_Central
+P84103	GO:0043274	F:phospholipase binding	IEA:Ensembl
+P84103	GO:0070878	F:primary miRNA binding	IMP:ARUK-UCL
+P84103	GO:0160134	F:protein-RNA sequence-specific adaptor activity	IDA:UniProtKB
+P84103	GO:0003723	F:RNA binding	IDA:UniProtKB
+P84103	GO:1990825	F:sequence-specific mRNA binding	IEA:Ensembl
+P84103	GO:1990830	P:cellular response to leukemia inhibitory factor	IEA:Ensembl
+P84103	GO:0045292	P:mRNA cis splicing, via spliceosome	IBA:GO_Central
+P84103	GO:0006406	P:mRNA export from nucleus	IDA:UniProtKB
+P84103	GO:0031053	P:primary miRNA processing	IMP:ARUK-UCL
+P84103	GO:0048024	P:regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+P98179	GO:0005737	C:cytoplasm	ISS:UniProtKB
+P98179	GO:0030425	C:dendrite	ISS:UniProtKB
+P98179	GO:0005654	C:nucleoplasm	IDA:HPA
+P98179	GO:0005634	C:nucleus	ISS:UniProtKB
+P98179	GO:0005681	C:spliceosomal complex	IBA:GO_Central
+P98179	GO:0043023	F:ribosomal large subunit binding	IBA:GO_Central
+P98179	GO:0003723	F:RNA binding	HDA:UniProtKB
+P98179	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IBA:GO_Central
+P98179	GO:0045727	P:positive regulation of translation	ISS:UniProtKB
+P98179	GO:0006417	P:regulation of translation	ISS:UniProtKB
+P98179	GO:0006396	P:RNA processing	TAS:ProtInc
+Q01130	GO:0005829	C:cytosol	IDA:HPA
+Q01130	GO:0016607	C:nuclear speck	IDA:HPA
+Q01130	GO:0005654	C:nucleoplasm	IDA:HPA
+Q01130	GO:0005634	C:nucleus	IDA:UniProtKB
+Q01130	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q01130	GO:0003714	F:transcription corepressor activity	NAS:UniProtKB
+Q01130	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q01130	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IBA:GO_Central
+Q01130	GO:0008380	P:RNA splicing	TAS:ProtInc
+Q05519	GO:0016607	C:nuclear speck	IDA:HPA
+Q05519	GO:0005654	C:nucleoplasm	IBA:GO_Central
+Q05519	GO:0005634	C:nucleus	TAS:ProtInc
+Q05519	GO:0042802	F:identical protein binding	IPI:IntAct
+Q05519	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q05519	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q05519	GO:0008380	P:RNA splicing	TAS:ProtInc
+Q07955	GO:0071013	C:catalytic step 2 spliceosome	IDA:UniProtKB
+Q07955	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q07955	GO:0005635	C:nuclear envelope	IEA:Ensembl
+Q07955	GO:0016607	C:nuclear speck	IDA:UniProtKB
+Q07955	GO:0005654	C:nucleoplasm	IDA:UniProtKB
+Q07955	GO:0005634	C:nucleus	IDA:UniProtKB
+Q07955	GO:0044547	F:DNA topoisomerase binding	IPI:CAFA
+Q07955	GO:0003729	F:mRNA binding	IDA:MGI
+Q07955	GO:0043422	F:protein kinase B binding	IEA:Ensembl
+Q07955	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q07955	GO:0050733	F:RS domain binding	IEA:Ensembl
+Q07955	GO:0000380	P:alternative mRNA splicing, via spliceosome	IDA:GO_Central
+Q07955	GO:0060048	P:cardiac muscle contraction	IEA:Ensembl
+Q07955	GO:0001701	P:in utero embryonic development	IEA:Ensembl
+Q07955	GO:0097400	P:interleukin-17-mediated signaling pathway	IEA:Ensembl
+Q07955	GO:0097421	P:liver regeneration	IEA:Ensembl
+Q07955	GO:0000395	P:mRNA 5'-splice site recognition	IDA:UniProtKB
+Q07955	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q07955	GO:0006376	P:mRNA splice site recognition	TAS:ProtInc
+Q07955	GO:0000398	P:mRNA splicing, via spliceosome	IC:UniProtKB
+Q07955	GO:0048255	P:mRNA stabilization	IEA:Ensembl
+Q07955	GO:0051028	P:mRNA transport	IEA:UniProtKB-KW
+Q07955	GO:0048709	P:oligodendrocyte differentiation	IEA:Ensembl
+Q07955	GO:0033120	P:positive regulation of RNA splicing	IEA:Ensembl
+Q07955	GO:0034504	P:protein localization to nucleus	IEA:Ensembl
+Q07955	GO:0110012	P:protein localization to P-body	IEA:Ensembl
+Q07955	GO:0043484	P:regulation of RNA splicing	ISS:UniProtKB
+Q07955	GO:0023019	P:signal transduction involved in regulation of gene expression	IEA:Ensembl
+Q08170	GO:0016607	C:nuclear speck	IDA:HPA
+Q08170	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q08170	GO:0005634	C:nucleus	TAS:ProtInc
+Q08170	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q08170	GO:1990825	F:sequence-specific mRNA binding	IEA:Ensembl
+Q08170	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q08170	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q08170	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q08170	GO:0032868	P:response to insulin	IEA:Ensembl
+Q08170	GO:0008380	P:RNA splicing	TAS:ProtInc
+Q08170	GO:0000375	P:RNA splicing, via transesterification reactions	TAS:ProtInc
+Q12872	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q12872	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q12872	GO:0000380	P:alternative mRNA splicing, via spliceosome	IEA:Ensembl
+Q12872	GO:0000395	P:mRNA 5'-splice site recognition	IBA:GO_Central
+Q12872	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	ISS:UniProtKB
+Q13064	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q13064	GO:1990904	C:ribonucleoprotein complex	ISS:FlyBase
+Q13064	GO:0042802	F:identical protein binding	IPI:IntAct
+Q13064	GO:0003723	F:RNA binding	ISS:FlyBase
+Q13064	GO:0061630	F:ubiquitin protein ligase activity	ISS:FlyBase
+Q13064	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q13064	GO:0000209	P:protein polyubiquitination	ISS:FlyBase
+Q13064	GO:0016567	P:protein ubiquitination	IBA:GO_Central
+Q13117	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q13117	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q13117	GO:0032991	C:protein-containing complex	IDA:UniProtKB
+Q13117	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q13117	GO:0003723	F:RNA binding	TAS:ProtInc
+Q13117	GO:0008494	F:translation activator activity	IBA:GO_Central
+Q13117	GO:0070935	P:3'-UTR-mediated mRNA stabilization	IBA:GO_Central
+Q13117	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+Q13117	GO:0045948	P:positive regulation of translational initiation	IBA:GO_Central
+Q13117	GO:0007338	P:single fertilization	TAS:ProtInc
+Q13117	GO:0007283	P:spermatogenesis	IEA:UniProtKB-KW
+Q13242	GO:0016607	C:nuclear speck	IBA:GO_Central
+Q13242	GO:0005730	C:nucleolus	IDA:HPA
+Q13242	GO:0005654	C:nucleoplasm	IDA:HPA
+Q13242	GO:0019904	F:protein domain specific binding	IPI:UniProtKB
+Q13242	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q13242	GO:0000380	P:alternative mRNA splicing, via spliceosome	IBA:GO_Central
+Q13242	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q13242	GO:0006376	P:mRNA splice site recognition	TAS:ProtInc
+Q13242	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q13243	GO:0005829	C:cytosol	IDA:HPA
+Q13243	GO:0016607	C:nuclear speck	ISS:UniProtKB
+Q13243	GO:0005730	C:nucleolus	IDA:HPA
+Q13243	GO:0005654	C:nucleoplasm	IDA:HPA
+Q13243	GO:0043422	F:protein kinase B binding	IEA:Ensembl
+Q13243	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q13243	GO:0032869	P:cellular response to insulin stimulus	IEA:Ensembl
+Q13243	GO:0097421	P:liver regeneration	IEA:Ensembl
+Q13243	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q13243	GO:0006376	P:mRNA splice site recognition	TAS:ProtInc
+Q13243	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q13243	GO:0033120	P:positive regulation of RNA splicing	IEA:Ensembl
+Q13247	GO:0016607	C:nuclear speck	IDA:UniProtKB
+Q13247	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q13247	GO:0036002	F:pre-mRNA binding	IDA:UniProtKB
+Q13247	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q13247	GO:0000380	P:alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q13247	GO:0006376	P:mRNA splice site recognition	IMP:UniProtKB
+Q13247	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q13247	GO:0045617	P:negative regulation of keratinocyte differentiation	IMP:UniProtKB
+Q13247	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q13247	GO:2000675	P:negative regulation of type B pancreatic cell apoptotic process	IEA:Ensembl
+Q13247	GO:0060501	P:positive regulation of epithelial cell proliferation involved in lung morphogenesis	IDA:MGI
+Q13247	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:MGI
+Q13247	GO:0010837	P:regulation of keratinocyte proliferation	IMP:UniProtKB
+Q13247	GO:0061041	P:regulation of wound healing	IMP:UniProtKB
+Q13247	GO:0032868	P:response to insulin	IEA:Ensembl
+Q14151	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+Q14151	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q14151	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+Q14151	GO:0016604	C:nuclear body	IDA:HPA
+Q14151	GO:0005654	C:nucleoplasm	IDA:HPA
+Q14151	GO:0005634	C:nucleus	IBA:GO_Central
+Q14151	GO:0042802	F:identical protein binding	IPI:IntAct
+Q14151	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q14151	GO:0043565	F:sequence-specific DNA binding	IBA:GO_Central
+Q14151	GO:0060765	P:regulation of androgen receptor signaling pathway	IBA:GO_Central
+Q14151	GO:0050684	P:regulation of mRNA processing	IBA:GO_Central
+Q14151	GO:0006357	P:regulation of transcription by RNA polymerase II	IBA:GO_Central
+Q14151	GO:0060008	P:Sertoli cell differentiation	IEA:Ensembl
+Q14493	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q14493	GO:0005829	C:cytosol	IDA:HPA
+Q14493	GO:0062073	C:histone mRNA stem-loop binding complex	IPI:ComplexPortal
+Q14493	GO:0071204	C:histone pre-mRNA 3'end processing complex	ISS:UniProtKB
+Q14493	GO:0005730	C:nucleolus	IDA:HPA
+Q14493	GO:0005654	C:nucleoplasm	IDA:HPA
+Q14493	GO:0005634	C:nucleus	IDA:UniProtKB
+Q14493	GO:1990904	C:ribonucleoprotein complex	TAS:ProtInc
+Q14493	GO:0071208	F:histone pre-mRNA DCP binding	ISS:UniProtKB
+Q14493	GO:0071207	F:histone pre-mRNA stem-loop binding	ISS:UniProtKB
+Q14493	GO:0042802	F:identical protein binding	IPI:IntAct
+Q14493	GO:0003729	F:mRNA binding	IDA:UniProtKB
+Q14493	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q14493	GO:0002191	P:cap-dependent translational initiation	IDA:ComplexPortal
+Q14493	GO:0006398	P:mRNA 3'-end processing by stem-loop binding and cleavage	ISS:UniProtKB
+Q14493	GO:0051028	P:mRNA transport	IDA:UniProtKB
+Q15365	GO:0005737	C:cytoplasm	IDA:BHF-UCL
+Q15365	GO:0036464	C:cytoplasmic ribonucleoprotein granule	IDA:HPA
+Q15365	GO:0005829	C:cytosol	IDA:HPA
+Q15365	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q15365	GO:0016020	C:membrane	HDA:UniProtKB
+Q15365	GO:0016607	C:nuclear speck	IDA:HPA
+Q15365	GO:0005654	C:nucleoplasm	IDA:HPA
+Q15365	GO:0005634	C:nucleus	IBA:GO_Central
+Q15365	GO:0014069	C:postsynaptic density	IEA:Ensembl
+Q15365	GO:1990904	C:ribonucleoprotein complex	IEA:UniProtKB-KW
+Q15365	GO:0045296	F:cadherin binding	HDA:BHF-UCL
+Q15365	GO:0000981	F:DNA-binding transcription factor activity, RNA polymerase II-specific	IEA:Ensembl
+Q15365	GO:0003729	F:mRNA binding	IDA:BHF-UCL
+Q15365	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q15365	GO:0098847	F:sequence-specific single stranded DNA binding	IEA:Ensembl
+Q15365	GO:0003697	F:single-stranded DNA binding	IDA:UniProtKB
+Q15365	GO:0045944	P:positive regulation of transcription by RNA polymerase II	IBA:GO_Central
+Q15365	GO:0039694	P:viral RNA genome replication	IDA:UniProtKB
+Q15397	GO:0005694	C:chromosome	IDA:UniProtKB
+Q15397	GO:0005783	C:endoplasmic reticulum	IDA:UniProtKB
+Q15397	GO:0005730	C:nucleolus	IDA:UniProtKB
+Q15397	GO:0005654	C:nucleoplasm	IDA:UniProtKB
+Q15397	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+Q15397	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q15397	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q15397	GO:0010835	P:regulation of protein ADP-ribosylation	IMP:UniProtKB
+Q15397	GO:0006417	P:regulation of translation	IBA:GO_Central
+Q15415	GO:0005730	C:nucleolus	IDA:HPA
+Q15415	GO:0005654	C:nucleoplasm	IDA:HPA
+Q15415	GO:0005681	C:spliceosomal complex	IBA:GO_Central
+Q15415	GO:0042802	F:identical protein binding	IPI:IntAct
+Q15415	GO:0003723	F:RNA binding	IBA:GO_Central
+Q15415	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q15415	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IBA:GO_Central
+Q15415	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q16587	GO:0015629	C:actin cytoskeleton	IDA:HPA
+Q16587	GO:0005654	C:nucleoplasm	IDA:HPA
+Q16587	GO:0005634	C:nucleus	IBA:GO_Central
+Q16587	GO:0000981	F:DNA-binding transcription factor activity, RNA polymerase II-specific	IBA:GO_Central
+Q16587	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q16587	GO:0000978	F:RNA polymerase II cis-regulatory region sequence-specific DNA binding	IBA:GO_Central
+Q16587	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q16587	GO:0006355	P:regulation of DNA-templated transcription	TAS:ProtInc
+Q16587	GO:0006357	P:regulation of transcription by RNA polymerase II	IBA:GO_Central
+Q16600	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q16600	GO:0003677	F:DNA binding	TAS:ProtInc
+Q16600	GO:0000981	F:DNA-binding transcription factor activity, RNA polymerase II-specific	IBA:GO_Central
+Q16600	GO:0001227	F:DNA-binding transcription repressor activity, RNA polymerase II-specific	IDA:NTNU_SB
+Q16600	GO:0003723	F:RNA binding	TAS:ProtInc
+Q16600	GO:0000978	F:RNA polymerase II cis-regulatory region sequence-specific DNA binding	IMP:NTNU_SB
+Q16600	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q16600	GO:0000122	P:negative regulation of transcription by RNA polymerase II	IDA:NTNU_SB
+Q16600	GO:0006357	P:regulation of transcription by RNA polymerase II	IBA:GO_Central
+Q16629	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+Q16629	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q16629	GO:0016607	C:nuclear speck	IBA:GO_Central
+Q16629	GO:0005654	C:nucleoplasm	IDA:HPA
+Q16629	GO:0005634	C:nucleus	TAS:ProtInc
+Q16629	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q16629	GO:0019904	F:protein domain specific binding	IPI:UniProtKB
+Q16629	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q16629	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q16629	GO:1990830	P:cellular response to leukemia inhibitory factor	IEA:Ensembl
+Q16629	GO:0045292	P:mRNA cis splicing, via spliceosome	IBA:GO_Central
+Q16629	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q16629	GO:0051028	P:mRNA transport	IEA:UniProtKB-KW
+Q16629	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q16629	GO:0008380	P:RNA splicing	IDA:ProtInc
+Q460N5	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q460N5	GO:0005829	C:cytosol	IDA:HPA
+Q460N5	GO:0016020	C:membrane	HDA:UniProtKB
+Q460N5	GO:0005634	C:nucleus	IBA:GO_Central
+Q460N5	GO:0005886	C:plasma membrane	IDA:HPA
+Q460N5	GO:0019899	F:enzyme binding	IPI:UniProtKB
+Q460N5	GO:0070403	F:NAD+ binding	IMP:UniProtKB
+Q460N5	GO:0003950	F:NAD+ poly-ADP-ribosyltransferase activity	IDA:UniProtKB
+Q460N5	GO:1990404	F:NAD+-protein mono-ADP-ribosyltransferase activity	IDA:UniProtKB
+Q460N5	GO:0140807	F:NAD+-protein-glutamate ADP-ribosyltransferase activity	IEA:RHEA
+Q460N5	GO:0016779	F:nucleotidyltransferase activity	IEA:UniProtKB-KW
+Q460N5	GO:0003714	F:transcription corepressor activity	IBA:GO_Central
+Q460N5	GO:0045087	P:innate immune response	IEA:UniProtKB-KW
+Q460N5	GO:0010629	P:negative regulation of gene expression	IMP:UniProtKB
+Q460N5	GO:0060336	P:negative regulation of type II interferon-mediated signaling pathway	IMP:UniProtKB
+Q460N5	GO:0042532	P:negative regulation of tyrosine phosphorylation of STAT protein	IMP:UniProtKB
+Q460N5	GO:1902216	P:positive regulation of interleukin-4-mediated signaling pathway	IMP:UniProtKB
+Q460N5	GO:0042531	P:positive regulation of tyrosine phosphorylation of STAT protein	IMP:UniProtKB
+Q460N5	GO:0070212	P:protein poly-ADP-ribosylation	IMP:UniProtKB
+Q4VXU2	GO:0010494	C:cytoplasmic stress granule	IBA:GO_Central
+Q4VXU2	GO:0005829	C:cytosol	IBA:GO_Central
+Q4VXU2	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q4VXU2	GO:0005634	C:nucleus	IBA:GO_Central
+Q4VXU2	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q4VXU2	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q4VXU2	GO:0008143	F:poly(A) binding	IBA:GO_Central
+Q4VXU2	GO:0008266	F:poly(U) RNA binding	IBA:GO_Central
+Q53GL7	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q53GL7	GO:0005829	C:cytosol	IDA:HPA
+Q53GL7	GO:0005794	C:Golgi apparatus	IDA:HPA
+Q53GL7	GO:0005730	C:nucleolus	IDA:HPA
+Q53GL7	GO:0005634	C:nucleus	IDA:UniProtKB
+Q53GL7	GO:0140297	F:DNA-binding transcription factor binding	IPI:UniProtKB
+Q53GL7	GO:0070530	F:K63-linked polyubiquitin modification-dependent protein binding	IMP:UniProtKB
+Q53GL7	GO:0003950	F:NAD+ poly-ADP-ribosyltransferase activity	IMP:UniProtKB
+Q53GL7	GO:1990404	F:NAD+-protein mono-ADP-ribosyltransferase activity	IDA:UniProtKB
+Q53GL7	GO:0140806	F:NAD+-protein-aspartate ADP-ribosyltransferase activity	IEA:RHEA
+Q53GL7	GO:0140807	F:NAD+-protein-glutamate ADP-ribosyltransferase activity	IEA:RHEA
+Q53GL7	GO:0140804	F:NAD+-protein-lysine ADP-ribosyltransferase activity	IEA:RHEA
+Q53GL7	GO:0016779	F:nucleotidyltransferase activity	IEA:UniProtKB-KW
+Q53GL7	GO:0003714	F:transcription corepressor activity	IBA:GO_Central
+Q53GL7	GO:0006325	P:chromatin organization	IDA:UniProtKB
+Q53GL7	GO:0048147	P:negative regulation of fibroblast proliferation	IDA:UniProtKB
+Q53GL7	GO:0010629	P:negative regulation of gene expression	IMP:UniProtKB
+Q53GL7	GO:0032088	P:negative regulation of NF-kappaB transcription factor activity	IMP:UniProtKB
+Q53GL7	GO:1900045	P:negative regulation of protein K63-linked ubiquitination	IMP:UniProtKB
+Q53GL7	GO:0070213	P:protein auto-ADP-ribosylation	IDA:UniProtKB
+Q53GL7	GO:0070212	P:protein poly-ADP-ribosylation	IDA:UniProtKB
+Q53GL7	GO:0019985	P:translesion synthesis	IDA:UniProtKB
+Q53GL7	GO:0019082	P:viral protein processing	TAS:Reactome
+Q5SZQ8	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q5SZQ8	GO:0016604	C:nuclear body	IEA:Ensembl
+Q5SZQ8	GO:0005634	C:nucleus	IDA:UniProtKB
+Q5SZQ8	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q5SZQ8	GO:0097322	F:7SK snRNA binding	IEA:Ensembl
+Q5SZQ8	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q5SZQ8	GO:0036002	F:pre-mRNA binding	NAS:UniProtKB
+Q5SZQ8	GO:0003723	F:RNA binding	IMP:UniProtKB
+Q5SZQ8	GO:0030317	P:flagellated sperm motility	IEA:Ensembl
+Q5SZQ8	GO:0140742	P:lncRNA transcription	IEA:Ensembl
+Q5SZQ8	GO:0006376	P:mRNA splice site recognition	IBA:GO_Central
+Q5SZQ8	GO:0030575	P:nuclear body organization	IEA:Ensembl
+Q5SZQ8	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q5SZQ8	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q5SZQ8	GO:0008380	P:RNA splicing	IMP:UniProtKB
+Q5SZQ8	GO:0007283	P:spermatogenesis	IEA:Ensembl
+Q6ZN04	GO:0005829	C:cytosol	IDA:HPA
+Q6ZN04	GO:0005654	C:nucleoplasm	IDA:HPA
+Q6ZN04	GO:0000932	C:P-body	IDA:UniProtKB
+Q6ZN04	GO:0005509	F:calcium ion binding	ISS:UniProtKB
+Q6ZN04	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q6ZN04	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q6ZN04	GO:0046777	P:protein autophosphorylation	ISS:UniProtKB
+Q6ZN04	GO:0006468	P:protein phosphorylation	ISS:UniProtKB
+Q7Z2T5	GO:0005730	C:nucleolus	IDA:UniProtKB
+Q7Z2T5	GO:0005634	C:nucleus	IDA:UniProtKB
+Q7Z2T5	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q7Z2T5	GO:0016423	F:tRNA (guanine) methyltransferase activity	IEA:InterPro
+Q7Z2T5	GO:0000049	F:tRNA binding	IEA:UniProtKB-KW
+Q7Z2T5	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q7Z2T5	GO:0002940	P:tRNA N2-guanine methylation	IDA:UniProtKB
+Q7Z2W4	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q7Z2W4	GO:0005829	C:cytosol	IDA:HPA
+Q7Z2W4	GO:0005770	C:late endosome	IEA:Ensembl
+Q7Z2W4	GO:0005764	C:lysosome	IEA:Ensembl
+Q7Z2W4	GO:0005634	C:nucleus	IBA:GO_Central
+Q7Z2W4	GO:0045296	F:cadherin binding	HDA:BHF-UCL
+Q7Z2W4	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q7Z2W4	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q7Z2W4	GO:0051607	P:defense response to virus	IEA:UniProtKB-KW
+Q7Z2W4	GO:0045087	P:innate immune response	IEA:UniProtKB-KW
+Q7Z2W4	GO:0045071	P:negative regulation of viral genome replication	IDA:UniProtKB
+Q7Z2W4	GO:0043123	P:positive regulation of canonical NF-kappaB signal transduction	IMP:UniProtKB
+Q7Z2W4	GO:0032727	P:positive regulation of interferon-alpha production	IDA:UniProtKB
+Q7Z2W4	GO:0032728	P:positive regulation of interferon-beta production	IDA:UniProtKB
+Q7Z2W4	GO:0061014	P:positive regulation of mRNA catabolic process	IDA:UniProtKB
+Q7Z2W4	GO:1900246	P:positive regulation of RIG-I signaling pathway	IMP:UniProtKB
+Q7Z2W4	GO:0032481	P:positive regulation of type I interferon production	IBA:GO_Central
+Q7Z2W4	GO:0009615	P:response to virus	IDA:UniProtKB
+Q86SG3	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q86SG3	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q86SG3	GO:0032991	C:protein-containing complex	IDA:UniProtKB
+Q86SG3	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q86SG3	GO:0008494	F:translation activator activity	IBA:GO_Central
+Q86SG3	GO:0070935	P:3'-UTR-mediated mRNA stabilization	IBA:GO_Central
+Q86SG3	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+Q86SG3	GO:0045948	P:positive regulation of translational initiation	IBA:GO_Central
+Q86SG3	GO:0007283	P:spermatogenesis	IEA:UniProtKB-KW
+Q86TM3	GO:0005829	C:cytosol	IDA:HPA
+Q86TM3	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+Q86TM3	GO:0005730	C:nucleolus	IDA:HPA
+Q86TM3	GO:0005654	C:nucleoplasm	IDA:HPA
+Q86TM3	GO:0005524	F:ATP binding	IEA:UniProtKB-KW
+Q86TM3	GO:0016887	F:ATP hydrolysis activity	IEA:RHEA
+Q86TM3	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q86TM3	GO:0003724	F:RNA helicase activity	IBA:GO_Central
+Q86U06	GO:0016020	C:membrane	HDA:UniProtKB
+Q86U06	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q86U06	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q86U06	GO:1990446	F:U1 snRNP binding	IBA:GO_Central
+Q86U06	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q86U06	GO:0045893	P:positive regulation of DNA-templated transcription	IDA:UniProtKB
+Q86U06	GO:0048024	P:regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q86U06	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q86U42	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+Q86U42	GO:0042405	C:nuclear inclusion body	IDA:UniProtKB
+Q86U42	GO:0016607	C:nuclear speck	IDA:HPA
+Q86U42	GO:0005654	C:nucleoplasm	IDA:HPA
+Q86U42	GO:0005634	C:nucleus	IDA:UniProtKB
+Q86U42	GO:1990904	C:ribonucleoprotein complex	IDA:UniProtKB
+Q86U42	GO:0008143	F:poly(A) binding	IBA:GO_Central
+Q86U42	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q86U42	GO:0070063	F:RNA polymerase binding	ISS:UniProtKB
+Q86U42	GO:0071222	P:cellular response to lipopolysaccharide	ISS:UniProtKB
+Q86U42	GO:0000165	P:MAPK cascade	ISS:UniProtKB
+Q86U42	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q86U42	GO:0006936	P:muscle contraction	TAS:ProtInc
+Q86U42	GO:0016973	P:poly(A)+ mRNA export from nucleus	IMP:UniProtKB
+Q86U42	GO:1904247	P:positive regulation of polynucleotide adenylyltransferase activity	ISS:UniProtKB
+Q86U42	GO:0006396	P:RNA processing	TAS:ProtInc
+Q86V81	GO:0071013	C:catalytic step 2 spliceosome	IDA:UniProtKB
+Q86V81	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q86V81	GO:0005829	C:cytosol	TAS:Reactome
+Q86V81	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q86V81	GO:0016020	C:membrane	HDA:UniProtKB
+Q86V81	GO:0016607	C:nuclear speck	IEA:UniProtKB-SubCell
+Q86V81	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q86V81	GO:0005634	C:nucleus	IDA:UniProtKB
+Q86V81	GO:0000346	C:transcription export complex	IDA:UniProtKB
+Q86V81	GO:0062153	F:C5-methylcytidine-containing RNA reader activity	IDA:UniProtKB
+Q86V81	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q86V81	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q86V81	GO:0006406	P:mRNA export from nucleus	IMP:UniProtKB
+Q86V81	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q86V81	GO:0001649	P:osteoblast differentiation	HDA:UniProtKB
+Q86V81	GO:0006405	P:RNA export from nucleus	IDA:UniProtKB
+Q86V81	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8IWZ8	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8IWZ8	GO:0005681	C:spliceosomal complex	IEA:UniProtKB-KW
+Q8IWZ8	GO:0003729	F:mRNA binding	IEA:Ensembl
+Q8IWZ8	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8IWZ8	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q8IWZ8	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8IX01	GO:0016604	C:nuclear body	IDA:HPA
+Q8IX01	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8IX01	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8IX01	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q8IX01	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8N2M8	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8N2M8	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q8N2M8	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8N5P1	GO:0015030	C:Cajal body	IDA:UniProtKB
+Q8N5P1	GO:0000785	C:chromatin	ISA:NTNU_SB
+Q8N5P1	GO:0000791	C:euchromatin	IDA:UniProtKB
+Q8N5P1	GO:0035363	C:histone locus body	IDA:UniProtKB
+Q8N5P1	GO:0016604	C:nuclear body	IDA:HPA
+Q8N5P1	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8N5P1	GO:0005634	C:nucleus	ISS:UniProtKB
+Q8N5P1	GO:0008023	C:transcription elongation factor complex	IDA:UniProtKB
+Q8N5P1	GO:0001227	F:DNA-binding transcription repressor activity, RNA polymerase II-specific	IEA:Ensembl
+Q8N5P1	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8N5P1	GO:0001162	F:RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding	IEA:Ensembl
+Q8N5P1	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q8N5P1	GO:0006915	P:apoptotic process	IEA:UniProtKB-KW
+Q8N5P1	GO:0045892	P:negative regulation of DNA-templated transcription	IDA:UniProtKB
+Q8N5P1	GO:0033085	P:negative regulation of T cell differentiation in thymus	IMP:UniProtKB
+Q8N5P1	GO:0070245	P:positive regulation of thymocyte apoptotic process	IMP:UniProtKB
+Q8N5P1	GO:0045945	P:positive regulation of transcription by RNA polymerase III	IMP:UniProtKB
+Q8N5P1	GO:0046677	P:response to antibiotic	IDA:UniProtKB
+Q8N5P1	GO:0042795	P:snRNA transcription by RNA polymerase II	IMP:UniProtKB
+Q8N5P1	GO:0042796	P:snRNA transcription by RNA polymerase III	IMP:UniProtKB
+Q8N5P1	GO:0043029	P:T cell homeostasis	IMP:UniProtKB
+Q8N6W0	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q8N6W0	GO:0005634	C:nucleus	ISS:UniProtKB
+Q8N6W0	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q8N6W0	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q8N6W0	GO:0036002	F:pre-mRNA binding	NAS:UniProtKB
+Q8N6W0	GO:0006376	P:mRNA splice site recognition	IBA:GO_Central
+Q8N6W0	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q8NDT2	GO:0005635	C:nuclear envelope	IDA:UniProtKB
+Q8NDT2	GO:0016607	C:nuclear speck	IDA:UniProtKB
+Q8NDT2	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8NDT2	GO:0005634	C:nucleus	IBA:GO_Central
+Q8NDT2	GO:0036396	C:RNA N6-methyladenosine methyltransferase complex	IDA:UniProtKB
+Q8NDT2	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q8NDT2	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q8NDT2	GO:0009048	P:dosage compensation by inactivation of X chromosome	IDA:UniProtKB
+Q8NDT2	GO:0006406	P:mRNA export from nucleus	ISS:UniProtKB
+Q8NDT2	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q8NDT2	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q8NDT2	GO:0001510	P:RNA methylation	IDA:UniProtKB
+Q8NDT2	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8WU68	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+Q8WU68	GO:0016607	C:nuclear speck	IEA:UniProtKB-SubCell
+Q8WU68	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q8WU68	GO:0005681	C:spliceosomal complex	IBA:GO_Central
+Q8WU68	GO:0089701	C:U2AF complex	IBA:GO_Central
+Q8WU68	GO:0030628	F:pre-mRNA 3'-splice site binding	IBA:GO_Central
+Q8WU68	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q8WU68	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q8WVV9	GO:0016020	C:membrane	HDA:UniProtKB
+Q8WVV9	GO:0005634	C:nucleus	IBA:GO_Central
+Q8WVV9	GO:1990904	C:ribonucleoprotein complex	IEA:UniProtKB-KW
+Q8WVV9	GO:0045202	C:synapse	IEA:Ensembl
+Q8WVV9	GO:0003729	F:mRNA binding	IDA:UniProtKB
+Q8WVV9	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8WVV9	GO:0006397	P:mRNA processing	IEA:InterPro
+Q8WVV9	GO:0033120	P:positive regulation of RNA splicing	IDA:UniProtKB
+Q8WVV9	GO:0043484	P:regulation of RNA splicing	IBA:GO_Central
+Q8WXA9	GO:0016607	C:nuclear speck	IDA:HPA
+Q8WXA9	GO:0005654	C:nucleoplasm	IDA:HPA
+Q8WXA9	GO:0005681	C:spliceosomal complex	IEA:UniProtKB-KW
+Q8WXA9	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8WXA9	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q8WXA9	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q8WXF0	GO:0016607	C:nuclear speck	IBA:GO_Central
+Q8WXF0	GO:0005654	C:nucleoplasm	ISS:UniProtKB
+Q8WXF0	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q8WXF0	GO:0050733	F:RS domain binding	NAS:UniProtKB
+Q8WXF0	GO:0051082	F:unfolded protein binding	NAS:UniProtKB
+Q8WXF0	GO:0000395	P:mRNA 5'-splice site recognition	IDA:UniProtKB
+Q8WXF0	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q8WXF0	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	ISS:UniProtKB
+Q8WXF0	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q8WXF0	GO:0000244	P:spliceosomal tri-snRNP complex assembly	NAS:UniProtKB
+Q92879	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q92879	GO:0010494	C:cytoplasmic stress granule	IDA:ARUK-UCL
+Q92879	GO:0016020	C:membrane	HDA:UniProtKB
+Q92879	GO:0005654	C:nucleoplasm	IDA:HPA
+Q92879	GO:0005634	C:nucleus	IDA:UniProtKB
+Q92879	GO:0097356	C:perinucleolar compartment	IDA:ARUK-UCL
+Q92879	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q92879	GO:0042835	F:BRE binding	IDA:UniProtKB
+Q92879	GO:0003730	F:mRNA 3'-UTR binding	IDA:ARUK-UCL
+Q92879	GO:0003729	F:mRNA binding	IDA:BHF-UCL
+Q92879	GO:0000900	F:mRNA regulatory element binding translation repressor activity	NAS:UniProtKB
+Q92879	GO:0036002	F:pre-mRNA binding	IDA:UniProtKB
+Q92879	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q92879	GO:0009792	P:embryo development ending in birth or egg hatching	NAS:UniProtKB
+Q92879	GO:0007281	P:germ cell development	NAS:UniProtKB
+Q92879	GO:0061157	P:mRNA destabilization	ISS:ARUK-UCL
+Q92879	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q92879	GO:0006376	P:mRNA splice site recognition	IDA:UniProtKB
+Q92879	GO:0008285	P:negative regulation of cell population proliferation	ISS:ARUK-UCL
+Q92879	GO:0010629	P:negative regulation of gene expression	IMP:ARUK-UCL
+Q92879	GO:0010628	P:positive regulation of gene expression	IMP:ARUK-UCL
+Q92879	GO:0016441	P:post-transcriptional gene silencing	IDA:ARUK-UCL
+Q92879	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IBA:GO_Central
+Q92879	GO:0050727	P:regulation of inflammatory response	IMP:ARUK-UCL
+Q92879	GO:0043484	P:regulation of RNA splicing	IDA:UniProtKB
+Q92879	GO:0035194	P:regulatory ncRNA-mediated post-transcriptional gene silencing	NAS:UniProtKB
+Q92945	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q92945	GO:0005829	C:cytosol	TAS:Reactome
+Q92945	GO:0016020	C:membrane	HDA:UniProtKB
+Q92945	GO:0005654	C:nucleoplasm	IDA:HPA
+Q92945	GO:0005634	C:nucleus	IBA:GO_Central
+Q92945	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+Q92945	GO:0035925	F:mRNA 3'-UTR AU-rich region binding	IDA:UniProtKB
+Q92945	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q92945	GO:0044183	F:protein folding chaperone	EXP:DisProt
+Q92945	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q92945	GO:0061158	P:3'-UTR-mediated mRNA destabilization	IDA:UniProtKB
+Q92945	GO:0071345	P:cellular response to cytokine stimulus	IMP:UniProtKB
+Q92945	GO:0010586	P:miRNA metabolic process	IMP:UniProtKB
+Q92945	GO:0006397	P:mRNA processing	TAS:ProtInc
+Q92945	GO:0051028	P:mRNA transport	IEA:UniProtKB-KW
+Q92945	GO:0010989	P:negative regulation of low-density lipoprotein particle clearance	IGI:BHF-UCL
+Q92945	GO:0045019	P:negative regulation of nitric oxide biosynthetic process	IDA:UniProtKB
+Q92945	GO:0061014	P:positive regulation of mRNA catabolic process	IDA:UniProtKB
+Q92945	GO:0043488	P:regulation of mRNA stability	IDA:UniProtKB
+Q92945	GO:0006357	P:regulation of transcription by RNA polymerase II	IBA:GO_Central
+Q92945	GO:0008380	P:RNA splicing	TAS:UniProtKB
+Q92945	GO:0000375	P:RNA splicing, via transesterification reactions	TAS:UniProtKB
+Q969L4	GO:0015030	C:Cajal body	IDA:UniProtKB
+Q969L4	GO:0071254	C:cytoplasmic U snRNP body	IBA:GO_Central
+Q969L4	GO:0016604	C:nuclear body	IDA:HPA
+Q969L4	GO:0005654	C:nucleoplasm	IDA:HPA
+Q969L4	GO:0005683	C:U7 snRNP	IDA:UniProtKB
+Q969L4	GO:0071208	F:histone pre-mRNA DCP binding	ISS:UniProtKB
+Q969L4	GO:0071209	F:U7 snRNA binding	IPI:BHF-UCL
+Q969L4	GO:0006398	P:mRNA 3'-end processing by stem-loop binding and cleavage	IBA:GO_Central
+Q969L4	GO:1900087	P:positive regulation of G1/S transition of mitotic cell cycle	IMP:UniProtKB
+Q969L4	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q96J87	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q96J87	GO:0005634	C:nucleus	IBA:GO_Central
+Q96J87	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q96J87	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q96J87	GO:0003723	F:RNA binding	NAS:UniProtKB
+Q96J87	GO:0006376	P:mRNA splice site recognition	IBA:GO_Central
+Q96J87	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q96K80	GO:0005634	C:nucleus	IDA:GO_Central
+Q96K80	GO:0035198	F:miRNA binding	IDA:UniProtKB
+Q96K80	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q96K80	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q96K80	GO:1903799	P:negative regulation of miRNA processing	IDA:UniProtKB
+Q96K80	GO:0010608	P:post-transcriptional regulation of gene expression	IDA:UniProtKB
+Q96K80	GO:0043484	P:regulation of RNA splicing	IBA:GO_Central
+Q96PK6	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q96PK6	GO:0016607	C:nuclear speck	IDA:HPA
+Q96PK6	GO:0005730	C:nucleolus	IEA:UniProtKB-SubCell
+Q96PK6	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q96PK6	GO:0005634	C:nucleus	IDA:UniProtKB
+Q96PK6	GO:1990904	C:ribonucleoprotein complex	TAS:UniProtKB
+Q96PK6	GO:0005667	C:transcription regulator complex	IPI:UniProtKB
+Q96PK6	GO:0003729	F:mRNA binding	IEA:Ensembl
+Q96PK6	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q96PK6	GO:1990935	F:splicing factor binding	IEA:Ensembl
+Q96PK6	GO:0003713	F:transcription coactivator activity	IPI:UniProtKB
+Q96PK6	GO:0002218	P:activation of innate immune response	IDA:UniProtKB
+Q96PK6	GO:0006915	P:apoptotic process	IEA:Ensembl
+Q96PK6	GO:0098534	P:centriole assembly	IMP:UniProtKB
+Q96PK6	GO:0007369	P:gastrulation	IEA:Ensembl
+Q96PK6	GO:0045087	P:innate immune response	IEA:UniProtKB-KW
+Q96PK6	GO:0000398	P:mRNA splicing, via spliceosome	IEA:Ensembl
+Q96PK6	GO:0046600	P:negative regulation of centriole replication	IMP:CACAO
+Q96PK6	GO:0045944	P:positive regulation of transcription by RNA polymerase II	IDA:UniProtKB
+Q96PK6	GO:1902151	P:regulation of response to DNA integrity checkpoint signaling	IEA:Ensembl
+Q96PK6	GO:0009725	P:response to hormone	TAS:UniProtKB
+Q96PK6	GO:0045815	P:transcription initiation-coupled chromatin remodeling	IPI:UniProtKB
+Q96QC0	GO:0000785	C:chromatin	IDA:UniProtKB
+Q96QC0	GO:0016604	C:nuclear body	IDA:HPA
+Q96QC0	GO:0005654	C:nucleoplasm	IDA:HPA
+Q96QC0	GO:0005634	C:nucleus	TAS:ProtInc
+Q96QC0	GO:0072357	C:PTW/PP1 phosphatase complex	IDA:UniProtKB
+Q96QC0	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+Q96QC0	GO:0140767	F:enzyme-substrate adaptor activity	IDA:UniProtKB
+Q96QC0	GO:0008157	F:protein phosphatase 1 binding	IEA:Ensembl
+Q96QC0	GO:0004864	F:protein phosphatase inhibitor activity	IDA:UniProtKB
+Q96QC0	GO:0019888	F:protein phosphatase regulator activity	IDA:UniProtKB
+Q96QC0	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q96QC0	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q96QC0	GO:0010667	P:negative regulation of cardiac muscle cell apoptotic process	IDA:BHF-UCL
+Q96QC0	GO:1904290	P:negative regulation of mitotic DNA damage checkpoint	IGI:BHF-UCL
+Q96QC0	GO:0034244	P:negative regulation of transcription elongation by RNA polymerase II	IDA:UniProtKB
+Q96QC0	GO:0032206	P:positive regulation of telomere maintenance	IMP:BHF-UCL
+Q96QC0	GO:2000806	P:positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled	IDA:UniProtKB
+Q96QC0	GO:0032968	P:positive regulation of transcription elongation by RNA polymerase II	IDA:UniProtKB
+Q96QC0	GO:0006606	P:protein import into nucleus	TAS:ProtInc
+Q96QC0	GO:0050821	P:protein stabilization	IDA:UniProtKB
+Q96QC0	GO:0001111	P:RNA polymerase II promoter clearance	IDA:UniProtKB
+Q99973	GO:0000781	C:chromosome, telomeric region	IEA:UniProtKB-SubCell
+Q99973	GO:0005737	C:cytoplasm	IDA:MGI
+Q99973	GO:0016363	C:nuclear matrix	IDA:MGI
+Q99973	GO:1990904	C:ribonucleoprotein complex	TAS:UniProtKB
+Q99973	GO:0005697	C:telomerase holoenzyme complex	IDA:UniProtKB
+Q99973	GO:0005524	F:ATP binding	IEA:UniProtKB-KW
+Q99973	GO:0019899	F:enzyme binding	IPI:BHF-UCL
+Q99973	GO:0002039	F:p53 binding	IPI:BHF-UCL
+Q99973	GO:0003723	F:RNA binding	ISS:UniProtKB
+Q99973	GO:0003720	F:telomerase activity	IEA:Ensembl
+Q99973	GO:0070034	F:telomerase RNA binding	ISS:BHF-UCL
+Q99973	GO:0000722	P:telomere maintenance via recombination	IDA:UniProtKB
+Q9BRA0	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9BRA0	GO:0031417	C:NatC complex	IDA:UniProtKB
+Q9BRA0	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9BRA0	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9BRA0	GO:0003723	F:RNA binding	IEA:InterPro
+Q9BRA0	GO:0043066	P:negative regulation of apoptotic process	IMP:UniProtKB
+Q9BRL6	GO:0005829	C:cytosol	IDA:HPA
+Q9BRL6	GO:0016607	C:nuclear speck	IDA:HPA
+Q9BRL6	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9BRL6	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9BRL6	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q9BRL6	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IBA:GO_Central
+Q9BRL6	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q9BTD8	GO:0005737	C:cytoplasm	IEA:UniProtKB-SubCell
+Q9BTD8	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q9BTD8	GO:0005634	C:nucleus	NAS:ComplexPortal
+Q9BTD8	GO:0046540	C:U4/U6 x U5 tri-snRNP complex	IPI:ComplexPortal
+Q9BTD8	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q9BTD8	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9BTD8	GO:0000398	P:mRNA splicing, via spliceosome	NAS:ComplexPortal
+Q9BTD8	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IEA:Ensembl
+Q9BWF3	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9BWF3	GO:0010494	C:cytoplasmic stress granule	IDA:UniProtKB
+Q9BWF3	GO:0005829	C:cytosol	IDA:HPA
+Q9BWF3	GO:0016607	C:nuclear speck	IDA:UniProtKB
+Q9BWF3	GO:0005730	C:nucleolus	IDA:UniProtKB
+Q9BWF3	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9BWF3	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9BWF3	GO:0048471	C:perinuclear region of cytoplasm	IEA:Ensembl
+Q9BWF3	GO:0030332	F:cyclin binding	IPI:UniProtKB
+Q9BWF3	GO:0035198	F:miRNA binding	IDA:UniProtKB
+Q9BWF3	GO:0003730	F:mRNA 3'-UTR binding	ISS:UniProtKB
+Q9BWF3	GO:0003729	F:mRNA binding	IDA:UniProtKB
+Q9BWF3	GO:0097157	F:pre-mRNA intronic binding	IDA:UniProtKB
+Q9BWF3	GO:0097158	F:pre-mRNA intronic pyrimidine-rich binding	IDA:UniProtKB
+Q9BWF3	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9BWF3	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q9BWF3	GO:0002190	P:cap-independent translational initiation	IDA:UniProtKB
+Q9BWF3	GO:0032922	P:circadian regulation of gene expression	IEA:Ensembl
+Q9BWF3	GO:0097167	P:circadian regulation of translation	ISS:UniProtKB
+Q9BWF3	GO:0035883	P:enteroendocrine cell differentiation	IEA:Ensembl
+Q9BWF3	GO:0043153	P:entrainment of circadian clock by photoperiod	ISS:UniProtKB
+Q9BWF3	GO:0035773	P:insulin secretion involved in cellular response to glucose stimulus	IEA:Ensembl
+Q9BWF3	GO:0002192	P:IRES-dependent translational initiation of linear mRNA	IDA:UniProtKB
+Q9BWF3	GO:0035278	P:miRNA-mediated gene silencing by inhibition of translation	IDA:UniProtKB
+Q9BWF3	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q9BWF3	GO:0017148	P:negative regulation of translation	IDA:UniProtKB
+Q9BWF3	GO:0032055	P:negative regulation of translation in response to stress	IDA:UniProtKB
+Q9BWF3	GO:0045947	P:negative regulation of translational initiation	IDA:UniProtKB
+Q9BWF3	GO:0031016	P:pancreas development	IEA:Ensembl
+Q9BWF3	GO:0051149	P:positive regulation of muscle cell differentiation	IDA:UniProtKB
+Q9BWF3	GO:0045727	P:positive regulation of translation	IEA:Ensembl
+Q9BWF3	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q9BWF3	GO:0046626	P:regulation of insulin receptor signaling pathway	IEA:Ensembl
+Q9BWF3	GO:0046822	P:regulation of nucleocytoplasmic transport	IDA:UniProtKB
+Q9BWF3	GO:0046685	P:response to arsenic-containing substance	IDA:UniProtKB
+Q9BWF3	GO:0006396	P:RNA processing	TAS:ProtInc
+Q9BWF3	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q9BX46	GO:0005829	C:cytosol	IDA:HPA
+Q9BX46	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9BX46	GO:0005634	C:nucleus	IBA:GO_Central
+Q9BX46	GO:0035925	F:mRNA 3'-UTR AU-rich region binding	IDA:UniProtKB
+Q9BX46	GO:0003730	F:mRNA 3'-UTR binding	IDA:UniProtKB
+Q9BX46	GO:1990715	F:mRNA CDS binding	IDA:UniProtKB
+Q9BX46	GO:0097157	F:pre-mRNA intronic binding	ISS:UniProtKB
+Q9BX46	GO:1990825	F:sequence-specific mRNA binding	IDA:UniProtKB
+Q9BX46	GO:0061158	P:3'-UTR-mediated mRNA destabilization	IDA:UniProtKB
+Q9BX46	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+Q9BX46	GO:0006974	P:DNA damage response	IMP:UniProtKB
+Q9BX46	GO:0003197	P:endocardial cushion development	IEA:Ensembl
+Q9BX46	GO:0061157	P:mRNA destabilization	IMP:UniProtKB
+Q9BX46	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q9BX46	GO:0048255	P:mRNA stabilization	IMP:UniProtKB
+Q9BX46	GO:2000766	P:negative regulation of cytoplasmic translation	IMP:UniProtKB
+Q9BX46	GO:1905870	P:positive regulation of 3'-UTR-mediated mRNA stabilization	IMP:UniProtKB
+Q9BX46	GO:0045663	P:positive regulation of myoblast differentiation	ISS:UniProtKB
+Q9BX46	GO:0010831	P:positive regulation of myotube differentiation	IMP:UniProtKB
+Q9BX46	GO:1902811	P:positive regulation of skeletal muscle fiber differentiation	ISS:UniProtKB
+Q9BX46	GO:2000738	P:positive regulation of stem cell differentiation	IMP:UniProtKB
+Q9BX46	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IMP:UniProtKB
+Q9BX46	GO:0043488	P:regulation of mRNA stability	ISS:UniProtKB
+Q9BX46	GO:0010830	P:regulation of myotube differentiation	ISS:UniProtKB
+Q9BX46	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q9BYG3	GO:0005694	C:chromosome	IDA:HPA
+Q9BYG3	GO:0000794	C:condensed nuclear chromosome	IDA:UniProtKB
+Q9BYG3	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9BYG3	GO:0005730	C:nucleolus	IDA:UniProtKB
+Q9BYG3	GO:0005654	C:nucleoplasm	IDA:UniProtKB
+Q9BYG3	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9BYG3	GO:0065003	P:protein-containing complex assembly	NAS:UniProtKB
+Q9BYG3	GO:0016072	P:rRNA metabolic process	NAS:UniProtKB
+Q9BYG3	GO:0009303	P:rRNA transcription	NAS:UniProtKB
+Q9BZC1	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q9BZC1	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9BZC1	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9BZC1	GO:0098794	C:postsynapse	IEA:GOC
+Q9BZC1	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q9BZC1	GO:0042835	F:BRE binding	ISS:UniProtKB
+Q9BZC1	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q9BZC1	GO:0000900	F:mRNA regulatory element binding translation repressor activity	NAS:UniProtKB
+Q9BZC1	GO:0036002	F:pre-mRNA binding	IDA:UniProtKB
+Q9BZC1	GO:0000380	P:alternative mRNA splicing, via spliceosome	IDA:MGI
+Q9BZC1	GO:0009792	P:embryo development ending in birth or egg hatching	NAS:UniProtKB
+Q9BZC1	GO:0060079	P:excitatory postsynaptic potential	IEA:Ensembl
+Q9BZC1	GO:0007281	P:germ cell development	NAS:UniProtKB
+Q9BZC1	GO:0001701	P:in utero embryonic development	IEA:Ensembl
+Q9BZC1	GO:0006376	P:mRNA splice site recognition	IBA:GO_Central
+Q9BZC1	GO:0090394	P:negative regulation of excitatory postsynaptic potential	IEA:Ensembl
+Q9BZC1	GO:0048025	P:negative regulation of mRNA splicing, via spliceosome	IEA:Ensembl
+Q9BZC1	GO:0048026	P:positive regulation of mRNA splicing, via spliceosome	IDA:UniProtKB
+Q9BZC1	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IDA:UniProtKB
+Q9BZC1	GO:1902866	P:regulation of retina development in camera-type eye	IEA:Ensembl
+Q9GZT3	GO:0001669	C:acrosomal vesicle	IEA:Ensembl
+Q9GZT3	GO:0005759	C:mitochondrial matrix	IDA:FlyBase
+Q9GZT3	GO:0005739	C:mitochondrion	IDA:HPA
+Q9GZT3	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q9GZT3	GO:0048471	C:perinuclear region of cytoplasm	IEA:Ensembl
+Q9GZT3	GO:1990904	C:ribonucleoprotein complex	IEA:Ensembl
+Q9GZT3	GO:0036126	C:sperm flagellum	IEA:Ensembl
+Q9GZT3	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9GZT3	GO:0030317	P:flagellated sperm motility	IEA:Ensembl
+Q9GZT3	GO:0007005	P:mitochondrion organization	IEA:Ensembl
+Q9GZT3	GO:0000961	P:negative regulation of mitochondrial RNA catabolic process	IEA:Ensembl
+Q9GZT3	GO:0007338	P:single fertilization	IEA:Ensembl
+Q9GZT3	GO:0007286	P:spermatid development	IEA:Ensembl
+Q9H0J9	GO:0005634	C:nucleus	IBA:GO_Central
+Q9H0J9	GO:0003950	F:NAD+ poly-ADP-ribosyltransferase activity	IBA:GO_Central
+Q9H0J9	GO:1990404	F:NAD+-protein mono-ADP-ribosyltransferase activity	IDA:UniProtKB
+Q9H0J9	GO:0140806	F:NAD+-protein-aspartate ADP-ribosyltransferase activity	IEA:RHEA
+Q9H0J9	GO:0140803	F:NAD+-protein-cysteine ADP-ribosyltransferase activity	IEA:RHEA
+Q9H0J9	GO:0016779	F:nucleotidyltransferase activity	IEA:UniProtKB-KW
+Q9H0J9	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9H0J9	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q9H0J9	GO:0070213	P:protein auto-ADP-ribosylation	IDA:UniProtKB
+Q9H0L4	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+Q9H0L4	GO:0005847	C:mRNA cleavage and polyadenylation specificity factor complex	IBA:GO_Central
+Q9H0L4	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9H0L4	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q9H0L4	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9H0L4	GO:0031124	P:mRNA 3'-end processing	IEA:InterPro
+Q9H361	GO:0005737	C:cytoplasm	NAS:UniProtKB
+Q9H361	GO:0010494	C:cytoplasmic stress granule	IBA:GO_Central
+Q9H361	GO:0005829	C:cytosol	IBA:GO_Central
+Q9H361	GO:0070062	C:extracellular exosome	HDA:UniProtKB
+Q9H361	GO:0005634	C:nucleus	IBA:GO_Central
+Q9H361	GO:1990904	C:ribonucleoprotein complex	IBA:GO_Central
+Q9H361	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q9H361	GO:0008143	F:poly(A) binding	IDA:UniProtKB
+Q9H361	GO:0008266	F:poly(U) RNA binding	IBA:GO_Central
+Q9H361	GO:0016071	P:mRNA metabolic process	NAS:UniProtKB
+Q9H9Z2	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9H9Z2	GO:0010494	C:cytoplasmic stress granule	IDA:UniProtKB
+Q9H9Z2	GO:0005829	C:cytosol	IDA:HPA
+Q9H9Z2	GO:0005730	C:nucleolus	IDA:HPA
+Q9H9Z2	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9H9Z2	GO:0000932	C:P-body	IDA:UniProtKB
+Q9H9Z2	GO:0005791	C:rough endoplasmic reticulum	ISS:UniProtKB
+Q9H9Z2	GO:0002151	F:G-quadruplex RNA binding	ISS:UniProtKB
+Q9H9Z2	GO:0035198	F:miRNA binding	ISS:UniProtKB
+Q9H9Z2	GO:0003729	F:mRNA binding	IDA:UniProtKB
+Q9H9Z2	GO:0070883	F:pre-miRNA binding	IDA:UniProt
+Q9H9Z2	GO:0140517	F:protein-RNA adaptor activity	IDA:UniProtKB
+Q9H9Z2	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9H9Z2	GO:1990825	F:sequence-specific mRNA binding	ISS:UniProtKB
+Q9H9Z2	GO:0031369	F:translation initiation factor binding	IEA:Ensembl
+Q9H9Z2	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q9H9Z2	GO:0071333	P:cellular response to glucose stimulus	ISS:BHF-UCL
+Q9H9Z2	GO:0007281	P:germ cell development	IEA:Ensembl
+Q9H9Z2	GO:0010587	P:miRNA catabolic process	IMP:UniProtKB
+Q9H9Z2	GO:0045686	P:negative regulation of glial cell differentiation	IEA:Ensembl
+Q9H9Z2	GO:2000632	P:negative regulation of pre-miRNA processing	IDA:UniProt
+Q9H9Z2	GO:0017148	P:negative regulation of translation	ISS:UniProtKB
+Q9H9Z2	GO:1901724	P:positive regulation of cell proliferation involved in kidney development	IEA:Ensembl
+Q9H9Z2	GO:2000767	P:positive regulation of cytoplasmic translation	IMP:UniProtKB
+Q9H9Z2	GO:0045666	P:positive regulation of neuron differentiation	IEA:Ensembl
+Q9H9Z2	GO:0051897	P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	ISS:BHF-UCL
+Q9H9Z2	GO:0032008	P:positive regulation of TOR signaling	ISS:BHF-UCL
+Q9H9Z2	GO:0031054	P:pre-miRNA processing	IMP:UniProtKB
+Q9H9Z2	GO:0031123	P:RNA 3'-end processing	IMP:UniProtKB
+Q9H9Z2	GO:0048863	P:stem cell differentiation	IEA:Ensembl
+Q9H9Z2	GO:0019827	P:stem cell population maintenance	IMP:UniProtKB
+Q9NQS3	GO:0005912	C:adherens junction	IBA:GO_Central
+Q9NQS3	GO:0043296	C:apical junction complex	IBA:GO_Central
+Q9NQS3	GO:0030424	C:axon	IEA:Ensembl
+Q9NQS3	GO:0044291	C:cell-cell contact zone	IEA:Ensembl
+Q9NQS3	GO:0005911	C:cell-cell junction	ISS:ARUK-UCL
+Q9NQS3	GO:0030425	C:dendrite	IEA:Ensembl
+Q9NQS3	GO:0098686	C:hippocampal mossy fiber to CA3 synapse	IEA:Ensembl
+Q9NQS3	GO:0005886	C:plasma membrane	ISS:UniProtKB
+Q9NQS3	GO:0098839	C:postsynaptic density membrane	IEA:Ensembl
+Q9NQS3	GO:0098631	F:cell adhesion mediator activity	ISS:UniProtKB
+Q9NQS3	GO:0050839	F:cell adhesion molecule binding	IPI:BHF-UCL
+Q9NQS3	GO:0042802	F:identical protein binding	IPI:IntAct
+Q9NQS3	GO:0042803	F:protein homodimerization activity	ISS:HGNC-UCL
+Q9NQS3	GO:0090103	P:cochlea morphogenesis	ISS:UniProtKB
+Q9NQS3	GO:0061951	P:establishment of protein localization to plasma membrane	ISS:ARUK-UCL
+Q9NQS3	GO:0009566	P:fertilization	IEA:Ensembl
+Q9NQS3	GO:0007157	P:heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	ISS:UniProtKB
+Q9NQS3	GO:0007156	P:homophilic cell adhesion via plasma membrane adhesion molecules	ISS:HGNC-UCL
+Q9NQS3	GO:0002089	P:lens morphogenesis in camera-type eye	IEA:Ensembl
+Q9NQS3	GO:1902414	P:protein localization to cell junction	IEA:Ensembl
+Q9NQS3	GO:0150052	P:regulation of postsynapse assembly	IEA:Ensembl
+Q9NQS3	GO:0060042	P:retina morphogenesis in camera-type eye	IEA:Ensembl
+Q9NQS3	GO:0046718	P:symbiont entry into host cell	IEA:InterPro
+Q9NQZ3	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9NQZ3	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9NQZ3	GO:0032991	C:protein-containing complex	IDA:UniProtKB
+Q9NQZ3	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q9NQZ3	GO:0008494	F:translation activator activity	IDA:UniProtKB
+Q9NQZ3	GO:0070935	P:3'-UTR-mediated mRNA stabilization	IBA:GO_Central
+Q9NQZ3	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+Q9NQZ3	GO:0045948	P:positive regulation of translational initiation	IDA:UniProtKB
+Q9NQZ3	GO:0007283	P:spermatogenesis	IEA:UniProtKB-KW
+Q9NR90	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9NR90	GO:0005634	C:nucleus	IEA:UniProtKB-SubCell
+Q9NR90	GO:0032991	C:protein-containing complex	IDA:UniProtKB
+Q9NR90	GO:0003730	F:mRNA 3'-UTR binding	IBA:GO_Central
+Q9NR90	GO:0008494	F:translation activator activity	IBA:GO_Central
+Q9NR90	GO:0070935	P:3'-UTR-mediated mRNA stabilization	IBA:GO_Central
+Q9NR90	GO:0030154	P:cell differentiation	IEA:UniProtKB-KW
+Q9NR90	GO:0045948	P:positive regulation of translational initiation	IBA:GO_Central
+Q9NR90	GO:0007283	P:spermatogenesis	IEA:UniProtKB-KW
+Q9NWB1	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9NWB1	GO:0010494	C:cytoplasmic stress granule	IDA:FlyBase
+Q9NWB1	GO:0097165	C:nuclear stress granule	IDA:FlyBase
+Q9NWB1	GO:0005634	C:nucleus	IBA:GO_Central
+Q9NWB1	GO:0005802	C:trans-Golgi network	IDA:UniProtKB
+Q9NWB1	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q9NWB1	GO:0003723	F:RNA binding	NAS:UniProtKB
+Q9NWB1	GO:0006397	P:mRNA processing	IEA:UniProtKB-KW
+Q9NWB1	GO:0007399	P:nervous system development	IBA:GO_Central
+Q9NWB1	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IBA:GO_Central
+Q9NWB1	GO:0008380	P:RNA splicing	IEA:UniProtKB-KW
+Q9NWB1	GO:0050658	P:RNA transport	NAS:UniProtKB
+Q9NXG2	GO:0005654	C:nucleoplasm	TAS:Reactome
+Q9NXG2	GO:0003723	F:RNA binding	HDA:UniProtKB
+Q9NXG2	GO:0006400	P:tRNA modification	IBA:GO_Central
+Q9UNW9	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q9UNW9	GO:0005634	C:nucleus	IBA:GO_Central
+Q9UNW9	GO:0003729	F:mRNA binding	ISS:UniProtKB
+Q9UNW9	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9UNW9	GO:1990825	F:sequence-specific mRNA binding	IDA:UniProtKB
+Q9UNW9	GO:0021954	P:central nervous system neuron development	ISS:UniProtKB
+Q9UNW9	GO:0000398	P:mRNA splicing, via spliceosome	IBA:GO_Central
+Q9UNW9	GO:0120163	P:negative regulation of cold-induced thermogenesis	ISS:YuBioLab
+Q9UNW9	GO:0030182	P:neuron differentiation	IMP:UniProtKB
+Q9UNW9	GO:0000381	P:regulation of alternative mRNA splicing, via spliceosome	IMP:UniProtKB
+Q9UNW9	GO:1902667	P:regulation of axon guidance	ISS:UniProtKB
+Q9UNW9	GO:0051252	P:regulation of RNA metabolic process	IMP:UniProtKB
+Q9UPN6	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q9UPN6	GO:0005849	C:mRNA cleavage factor complex	IBA:GO_Central
+Q9UPN6	GO:0016363	C:nuclear matrix	ISS:UniProtKB
+Q9UPN6	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9UPN6	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9UPN6	GO:0003729	F:mRNA binding	IBA:GO_Central
+Q9UPN6	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9UPN6	GO:0043175	F:RNA polymerase core enzyme binding	IPI:UniProtKB
+Q9UPN6	GO:1990269	F:RNA polymerase II C-terminal domain phosphoserine binding	IDA:UniProtKB
+Q9UPN6	GO:0000993	F:RNA polymerase II complex binding	IBA:GO_Central
+Q9UPN6	GO:2000805	P:negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled	IDA:UniProtKB
+Q9UPN6	GO:0032786	P:positive regulation of DNA-templated transcription, elongation	IDA:UniProtKB
+Q9UPN6	GO:0006369	P:termination of RNA polymerase II transcription	IBA:GO_Central
+Q9UPS6	GO:0005694	C:chromosome	IEA:UniProtKB-SubCell
+Q9UPS6	GO:0005737	C:cytoplasm	IDA:UniProtKB
+Q9UPS6	GO:0035097	C:histone methyltransferase complex	IDA:UniProtKB
+Q9UPS6	GO:0016607	C:nuclear speck	IEA:UniProtKB-SubCell
+Q9UPS6	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9UPS6	GO:0005634	C:nucleus	IDA:UniProtKB
+Q9UPS6	GO:0048188	C:Set1C/COMPASS complex	IDA:UniProtKB
+Q9UPS6	GO:0140938	F:histone H3 methyltransferase activity	TAS:Reactome
+Q9UPS6	GO:0140945	F:histone H3K4 monomethyltransferase activity	IEA:RHEA
+Q9UPS6	GO:0140999	F:histone H3K4 trimethyltransferase activity	IEA:UniProtKB-EC
+Q9UPS6	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q9UPS6	GO:0032259	P:methylation	IEA:UniProtKB-KW
+Q9UPT8	GO:0005694	C:chromosome	IEA:UniProtKB-SubCell
+Q9UPT8	GO:0005829	C:cytosol	IDA:HPA
+Q9UPT8	GO:0005654	C:nucleoplasm	IDA:HPA
+Q9UPT8	GO:0005634	C:nucleus	IBA:GO_Central
+Q9UPT8	GO:1990841	F:promoter-specific chromatin binding	IDA:UniProtKB
+Q9UPT8	GO:0003723	F:RNA binding	IDA:UniProtKB
+Q9UPT8	GO:0008270	F:zinc ion binding	IEA:UniProtKB-KW
+Q9UPT8	GO:0006353	P:DNA-templated transcription termination	IEA:UniProtKB-KW
+Q9UPT8	GO:0110064	P:lncRNA catabolic process	IDA:UniProtKB
+Q9UPT8	GO:0032785	P:negative regulation of DNA-templated transcription, elongation	IDA:UniProtKB
+Q9UPT8	GO:0140744	P:negative regulation of lncRNA transcription	IDA:UniProtKB
+Q9UPT8	GO:0071027	P:nuclear RNA surveillance	IDA:UniProtKB
+Q9Y2T7	GO:0005737	C:cytoplasm	TAS:ProtInc
+Q9Y2T7	GO:0005634	C:nucleus	IBA:GO_Central
+Q9Y2T7	GO:0003677	F:DNA binding	IEA:UniProtKB-KW
+Q9Y2T7	GO:0003676	F:nucleic acid binding	IBA:GO_Central
+Q9Y2T7	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q9Y2T7	GO:0048599	P:oocyte development	IEA:Ensembl
+Q9Y2T7	GO:0120162	P:positive regulation of cold-induced thermogenesis	ISS:YuBioLab
+Q9Y2T7	GO:0010468	P:regulation of gene expression	IBA:GO_Central
+Q9Y2T7	GO:0007283	P:spermatogenesis	TAS:ProtInc
+Q9Y2T7	GO:0006366	P:transcription by RNA polymerase II	TAS:ProtInc
+Q9Y2T7	GO:0009386	P:translational attenuation	TAS:ProtInc
+Q9Y4F3	GO:0005737	C:cytoplasm	IBA:GO_Central
+Q9Y4F3	GO:0005794	C:Golgi apparatus	IDA:HPA
+Q9Y4F3	GO:0043231	C:intracellular membrane-bounded organelle	IDA:HPA
+Q9Y4F3	GO:0016020	C:membrane	HDA:UniProtKB
+Q9Y4F3	GO:0005777	C:peroxisome	IDA:UniProtKB
+Q9Y4F3	GO:1905762	F:CCR4-NOT complex binding	IBA:GO_Central
+Q9Y4F3	GO:0003723	F:RNA binding	IEA:UniProtKB-KW
+Q9Y4F3	GO:0004540	F:RNA nuclease activity	IEA:InterPro
+Q9Y4F3	GO:0006302	P:double-strand break repair	IEA:Ensembl
+Q9Y4F3	GO:0007143	P:female meiotic nuclear division	ISS:UniProtKB
+Q9Y4F3	GO:0048477	P:oogenesis	ISS:UniProtKB
+Q9Y4F3	GO:0010468	P:regulation of gene expression	ISS:UniProtKB

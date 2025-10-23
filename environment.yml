@@ -1,0 +1,45 @@
+name: pertinet
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Base interpreter + pip
+  - python=3.8
+  - pip>=23.0
+
+  # Install everything via pip (includes CUDA 11.6 wheels for PyTorch and PyG ops)
+  - pip:
+      # --- wheel sources (keep these two lines) ---
+      - --extra-index-url https://download.pytorch.org/whl/cu116
+      - --find-links https://data.pyg.org/whl/torch-1.13.1+cu116.html
+
+      # --- Core DL (CUDA 11.6) ---
+      - torch==1.13.1+cu116
+      - torchvision==0.14.1+cu116
+      - torchaudio==0.13.1+cu116
+
+      # PyG framework + compiled ops (must match torch/cu116)
+      - torch-geometric==2.3.1
+      - torch-scatter==2.1.1
+      - torch-sparse==0.6.17
+      - torch-cluster==1.6.1
+      - torch-spline-conv==1.2.2
+
+      # GVP layers
+      - gvp
+
+      # --- Scientific stack ---
+      - numpy==1.21.6
+      - pandas==1.1.5
+      - scipy==1.7.3
+      - scikit-learn==1.0.2
+      - matplotlib==3.5.3
+      - seaborn==0.12.2
+      - networkx==2.6.3
+      - tqdm
+
+      # --- Plotting / analysis extras used by your scripts ---
+      - gseapy==1.1.9
+      - mygene
+      - openpyxl

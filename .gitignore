@@ -1,0 +1,31 @@
+# Data and model artifacts
+data/TUnA/
+data/RBP400/
+data/RBP400_Expanded/
+data/Dset_prepared/
+checkpoints/
+weights/
+
+# Generated outputs and caches
+outputs/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.pkl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local configuration
+configs/config.local.json
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "case_study_name": "RBP400",
+  "started_at_utc": "2026-08-09T14:29:07Z",
+  "completed_at_utc": "2026-08-09T14:29:18Z",
+  "model_family": "RBP400-targeted PCA-logistic ESM ensemble",
+  "resource_roles": {
+    "model_development": "RBP400-Expanded (case-excluded pair-level resource)",
+    "candidate_prioritization": "RBP400 (downstream candidate-protein resource)",
+    "public_benchmark_claim": false
+  },
+  "models": 5,
+  "pooling": "mean_max_std",
+  "hcc_scored": 16471,
+  "lung_scored": 27261,
+  "shared_scored": 5151,
+  "unique_case_proteins": 314,
+  "case_pairs_used_for_training": 0,
+  "hcc_mean_seed_spearman": 0.844149815607768,
+  "lung_mean_seed_spearman": 0.8313973005991432,
+  "max_shared_probability_difference": 1.1102230246251565e-16,
+  "development_metrics": {
+    "auprc": {
+      "mean": 0.6042717958562601,
+      "sd": 0.02848688671374191
+    },
+    "auroc": {
+      "mean": 0.5947593852355758,
+      "sd": 0.010671019436247478
+    },
+    "mcc": {
+      "mean": 0.2240179678283401,
+      "sd": 0.04551402186691526
+    },
+    "f1": {
+      "mean": 0.5054245950117426,
+      "sd": 0.20919890157412804
+    },
+    "brier": {
+      "mean": 0.25755761364536356,
+      "sd": 0.014358936232117755
+    }
+  },
+  "locked_manifest": {
+    "HCC": 16471,
+    "lung": 27261,
+    "shared": 5151,
+    "models": 5
+  },
+  "score_interpretation": "ensemble interaction-probability score",
+  "confidence_interpretation": "distance from the validation-selected decision threshold",
+  "context_interpretation": "HCC and lung define candidate universes; they are not separately trained disease models. Shared pairs therefore have the same base probability but may have different within-network ranks."
+}

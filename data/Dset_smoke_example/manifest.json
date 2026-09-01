@@ -1,0 +1,20 @@
+[
+  {
+    "record_id": "dest0014_dset72_1efn_A",
+    "source_subset": "Dset_72",
+    "raw_id": "1efn_A",
+    "residues": 57
+  },
+  {
+    "record_id": "dest0105_dset164_3MMYB",
+    "source_subset": "PDBset_164",
+    "raw_id": "3MMYB",
+    "residues": 51
+  },
+  {
+    "record_id": "dest0291_dset186_1z0j_B",
+    "source_subset": "Dset_186",
+    "raw_id": "1z0j_B",
+    "residues": 51
+  }
+]

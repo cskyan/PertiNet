@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "device": "cpu",
+  "pair_variants": [
+    "token_transformer",
+    "attention_only",
+    "gated",
+    "concat_mlp"
+  ],
+  "assertions": [
+    "logit shape is [2, 1]",
+    "decision-margin shape is [2, 1]",
+    "forward values are finite",
+    "backward propagation completes",
+    "available modality weights sum to 1 for every sample",
+    "disabled GO token receives zero weight",
+    "BCE, quadruplet, and score-separation losses execute",
+    "PertiNet-S produces aligned residue logits and completes backward propagation"
+  ]
+}

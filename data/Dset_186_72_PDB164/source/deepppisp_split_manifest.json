@@ -1,0 +1,2971 @@
+{
+  "name": "DeepPPISP-referenced protein-level split for PertiNet-S",
+  "total_proteins": 422,
+  "counts": {
+    "train": 302,
+    "validation": 50,
+    "test": 70
+  },
+  "protocol": {
+    "development_test": "Exact 352-development/70-test protein assignment recovered from the released DeepPPISP residue-index lists.",
+    "validation": "50 proteins held out from the development pool for PertiNet model and threshold selection.",
+    "validation_seed": 2026,
+    "unit": "protein-chain record"
+  },
+  "records": [
+    {
+      "fused_idx": 0,
+      "record_id": "dest0000_dset72_1fc2_D",
+      "dataset": "dset72",
+      "raw_id": "1fc2_D",
+      "role": "train"
+    },
+    {
+      "fused_idx": 1,
+      "record_id": "dest0001_dset72_1ktz_B",
+      "dataset": "dset72",
+      "raw_id": "1ktz_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 2,
+      "record_id": "dest0002_dset72_1ak4_A",
+      "dataset": "dset72",
+      "raw_id": "1ak4_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 5,
+      "record_id": "dest0005_dset72_1b6c_B",
+      "dataset": "dset72",
+      "raw_id": "1b6c_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 7,
+      "record_id": "dest0007_dset72_1dfj_I",
+      "dataset": "dset72",
+      "raw_id": "1dfj_I",
+      "role": "train"
+    },
+    {
+      "fused_idx": 9,
+      "record_id": "dest0009_dset72_1e4k_C",
+      "dataset": "dset72",
+      "raw_id": "1e4k_C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 10,
+      "record_id": "dest0010_dset72_1e6e_A",
+      "dataset": "dset72",
+      "raw_id": "1e6e_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 11,
+      "record_id": "dest0011_dset72_1e6e_B",
+      "dataset": "dset72",
+      "raw_id": "1e6e_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 12,
+      "record_id": "dest0012_dset72_1eer_A",
+      "dataset": "dset72",
+      "raw_id": "1eer_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 14,
+      "record_id": "dest0014_dset72_1efn_A",
+      "dataset": "dset72",
+      "raw_id": "1efn_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 15,
+      "record_id": "dest0015_dset72_1efn_B",
+      "dataset": "dset72",
+      "raw_id": "1efn_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 16,
+      "record_id": "dest0016_dset72_1ewy_A",
+      "dataset": "dset72",
+      "raw_id": "1ewy_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 17,
+      "record_id": "dest0017_dset72_1ewy_C",
+      "dataset": "dset72",
+      "raw_id": "1ewy_C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 18,
+      "record_id": "dest0018_dset72_1f34_A",
+      "dataset": "dset72",
+      "raw_id": "1f34_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 19,
+      "record_id": "dest0019_dset72_1f34_B",
+      "dataset": "dset72",
+      "raw_id": "1f34_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 21,
+      "record_id": "dest0021_dset72_1gcq_B",
+      "dataset": "dset72",
+      "raw_id": "1gcq_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 22,
+      "record_id": "dest0022_dset72_1gcq_C",
+      "dataset": "dset72",
+      "raw_id": "1gcq_C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 23,
+      "record_id": "dest0023_dset72_1ghq_A",
+      "dataset": "dset72",
+      "raw_id": "1ghq_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 24,
+      "record_id": "dest0024_dset72_1ghq_B",
+      "dataset": "dset72",
+      "raw_id": "1ghq_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 25,
+      "record_id": "dest0025_dset72_1gla_F",
+      "dataset": "dset72",
+      "raw_id": "1gla_F",
+      "role": "train"
+    },
+    {
+      "fused_idx": 26,
+      "record_id": "dest0026_dset72_1gla_G",
+      "dataset": "dset72",
+      "raw_id": "1gla_G",
+      "role": "train"
+    },
+    {
+      "fused_idx": 28,
+      "record_id": "dest0028_dset72_1ib1_E",
+      "dataset": "dset72",
+      "raw_id": "1ib1_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 29,
+      "record_id": "dest0029_dset72_1jmo_A",
+      "dataset": "dset72",
+      "raw_id": "1jmo_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 30,
+      "record_id": "dest0030_dset72_1jmo_LH",
+      "dataset": "dset72",
+      "raw_id": "1jmo_LH",
+      "role": "train"
+    },
+    {
+      "fused_idx": 33,
+      "record_id": "dest0033_dset72_1k74_AB",
+      "dataset": "dset72",
+      "raw_id": "1k74_AB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 34,
+      "record_id": "dest0034_dset72_1k74_DE",
+      "dataset": "dset72",
+      "raw_id": "1k74_DE",
+      "role": "train"
+    },
+    {
+      "fused_idx": 35,
+      "record_id": "dest0035_dset72_1kac_A",
+      "dataset": "dset72",
+      "raw_id": "1kac_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 36,
+      "record_id": "dest0036_dset72_1kac_B",
+      "dataset": "dset72",
+      "raw_id": "1kac_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 37,
+      "record_id": "dest0037_dset72_1kkl_ABC",
+      "dataset": "dset72",
+      "raw_id": "1kkl_ABC",
+      "role": "train"
+    },
+    {
+      "fused_idx": 38,
+      "record_id": "dest0038_dset72_1kkl_H",
+      "dataset": "dset72",
+      "raw_id": "1kkl_H",
+      "role": "train"
+    },
+    {
+      "fused_idx": 40,
+      "record_id": "dest0040_dset72_1mah_A",
+      "dataset": "dset72",
+      "raw_id": "1mah_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 44,
+      "record_id": "dest0044_dset72_1n2c_ABCD",
+      "dataset": "dset72",
+      "raw_id": "1n2c_ABCD",
+      "role": "train"
+    },
+    {
+      "fused_idx": 45,
+      "record_id": "dest0045_dset72_1n2c_EF",
+      "dataset": "dset72",
+      "raw_id": "1n2c_EF",
+      "role": "train"
+    },
+    {
+      "fused_idx": 46,
+      "record_id": "dest0046_dset72_1nw9_A",
+      "dataset": "dset72",
+      "raw_id": "1nw9_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 51,
+      "record_id": "dest0051_dset72_1qa9_B",
+      "dataset": "dset72",
+      "raw_id": "1qa9_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 52,
+      "record_id": "dest0052_dset72_1rlb_ABCD",
+      "dataset": "dset72",
+      "raw_id": "1rlb_ABCD",
+      "role": "train"
+    },
+    {
+      "fused_idx": 53,
+      "record_id": "dest0053_dset72_1rlb_E",
+      "dataset": "dset72",
+      "raw_id": "1rlb_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 54,
+      "record_id": "dest0054_dset72_1udi_E",
+      "dataset": "dset72",
+      "raw_id": "1udi_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 55,
+      "record_id": "dest0055_dset72_1udi_I",
+      "dataset": "dset72",
+      "raw_id": "1udi_I",
+      "role": "train"
+    },
+    {
+      "fused_idx": 56,
+      "record_id": "dest0056_dset72_1xqs_A",
+      "dataset": "dset72",
+      "raw_id": "1xqs_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 57,
+      "record_id": "dest0057_dset72_1xqs_C",
+      "dataset": "dset72",
+      "raw_id": "1xqs_C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 58,
+      "record_id": "dest0058_dset72_1yvb_A",
+      "dataset": "dset72",
+      "raw_id": "1yvb_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 59,
+      "record_id": "dest0059_dset72_1yvb_I",
+      "dataset": "dset72",
+      "raw_id": "1yvb_I",
+      "role": "train"
+    },
+    {
+      "fused_idx": 60,
+      "record_id": "dest0060_dset72_2ajf_A",
+      "dataset": "dset72",
+      "raw_id": "2ajf_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 61,
+      "record_id": "dest0061_dset72_2ajf_E",
+      "dataset": "dset72",
+      "raw_id": "2ajf_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 62,
+      "record_id": "dest0062_dset72_2hqs_A",
+      "dataset": "dset72",
+      "raw_id": "2hqs_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 63,
+      "record_id": "dest0063_dset72_2hqs_H",
+      "dataset": "dset72",
+      "raw_id": "2hqs_H",
+      "role": "train"
+    },
+    {
+      "fused_idx": 64,
+      "record_id": "dest0064_dset72_2hrk_A",
+      "dataset": "dset72",
+      "raw_id": "2hrk_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 65,
+      "record_id": "dest0065_dset72_2hrk_B",
+      "dataset": "dset72",
+      "raw_id": "2hrk_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 67,
+      "record_id": "dest0067_dset72_2mta_HL",
+      "dataset": "dset72",
+      "raw_id": "2mta_HL",
+      "role": "train"
+    },
+    {
+      "fused_idx": 68,
+      "record_id": "dest0068_dset72_2o8v_A",
+      "dataset": "dset72",
+      "raw_id": "2o8v_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 71,
+      "record_id": "dest0071_dset72_7cei_B",
+      "dataset": "dset72",
+      "raw_id": "7cei_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 72,
+      "record_id": "dest0072_dset164_2WD5A",
+      "dataset": "dset164",
+      "raw_id": "2WD5A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 73,
+      "record_id": "dest0073_dset164_2WD5B",
+      "dataset": "dset164",
+      "raw_id": "2WD5B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 75,
+      "record_id": "dest0075_dset164_2WUSR",
+      "dataset": "dset164",
+      "raw_id": "2WUSR",
+      "role": "train"
+    },
+    {
+      "fused_idx": 77,
+      "record_id": "dest0077_dset164_2XQRB",
+      "dataset": "dset164",
+      "raw_id": "2XQRB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 78,
+      "record_id": "dest0078_dset164_2Y9WA",
+      "dataset": "dset164",
+      "raw_id": "2Y9WA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 80,
+      "record_id": "dest0080_dset164_2YAJA",
+      "dataset": "dset164",
+      "raw_id": "2YAJA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 81,
+      "record_id": "dest0081_dset164_2YAJB",
+      "dataset": "dset164",
+      "raw_id": "2YAJB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 82,
+      "record_id": "dest0082_dset164_2YC2A",
+      "dataset": "dset164",
+      "raw_id": "2YC2A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 83,
+      "record_id": "dest0083_dset164_2YC2D",
+      "dataset": "dset164",
+      "raw_id": "2YC2D",
+      "role": "train"
+    },
+    {
+      "fused_idx": 84,
+      "record_id": "dest0084_dset164_2YCLA",
+      "dataset": "dset164",
+      "raw_id": "2YCLA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 85,
+      "record_id": "dest0085_dset164_2YCLB",
+      "dataset": "dset164",
+      "raw_id": "2YCLB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 86,
+      "record_id": "dest0086_dset164_3ANWA",
+      "dataset": "dset164",
+      "raw_id": "3ANWA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 88,
+      "record_id": "dest0088_dset164_3AQBA",
+      "dataset": "dset164",
+      "raw_id": "3AQBA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 89,
+      "record_id": "dest0089_dset164_3AQBB",
+      "dataset": "dset164",
+      "raw_id": "3AQBB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 90,
+      "record_id": "dest0090_dset164_3AXJA",
+      "dataset": "dset164",
+      "raw_id": "3AXJA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 92,
+      "record_id": "dest0092_dset164_3AYHA",
+      "dataset": "dset164",
+      "raw_id": "3AYHA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 94,
+      "record_id": "dest0094_dset164_3B08A",
+      "dataset": "dset164",
+      "raw_id": "3B08A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 96,
+      "record_id": "dest0096_dset164_3M7FA",
+      "dataset": "dset164",
+      "raw_id": "3M7FA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 98,
+      "record_id": "dest0098_dset164_3MCBA",
+      "dataset": "dset164",
+      "raw_id": "3MCBA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 99,
+      "record_id": "dest0099_dset164_3MCBB",
+      "dataset": "dset164",
+      "raw_id": "3MCBB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 100,
+      "record_id": "dest0100_dset164_3MDBA",
+      "dataset": "dset164",
+      "raw_id": "3MDBA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 103,
+      "record_id": "dest0103_dset164_3MJ7B",
+      "dataset": "dset164",
+      "raw_id": "3MJ7B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 105,
+      "record_id": "dest0105_dset164_3MMYB",
+      "dataset": "dset164",
+      "raw_id": "3MMYB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 106,
+      "record_id": "dest0106_dset164_3MP7A",
+      "dataset": "dset164",
+      "raw_id": "3MP7A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 108,
+      "record_id": "dest0108_dset164_3NW0A",
+      "dataset": "dset164",
+      "raw_id": "3NW0A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 110,
+      "record_id": "dest0110_dset164_3NYBA",
+      "dataset": "dset164",
+      "raw_id": "3NYBA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 111,
+      "record_id": "dest0111_dset164_3NYBB",
+      "dataset": "dset164",
+      "raw_id": "3NYBB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 112,
+      "record_id": "dest0112_dset164_3O3MA",
+      "dataset": "dset164",
+      "raw_id": "3O3MA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 114,
+      "record_id": "dest0114_dset164_3OCDA",
+      "dataset": "dset164",
+      "raw_id": "3OCDA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 115,
+      "record_id": "dest0115_dset164_3OCDB",
+      "dataset": "dset164",
+      "raw_id": "3OCDB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 116,
+      "record_id": "dest0116_dset164_3OG6A",
+      "dataset": "dset164",
+      "raw_id": "3OG6A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 117,
+      "record_id": "dest0117_dset164_3OG6B",
+      "dataset": "dset164",
+      "raw_id": "3OG6B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 118,
+      "record_id": "dest0118_dset164_3ONAA",
+      "dataset": "dset164",
+      "raw_id": "3ONAA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 119,
+      "record_id": "dest0119_dset164_3ONAB",
+      "dataset": "dset164",
+      "raw_id": "3ONAB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 120,
+      "record_id": "dest0120_dset164_3OURA",
+      "dataset": "dset164",
+      "raw_id": "3OURA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 122,
+      "record_id": "dest0122_dset164_3P8BA",
+      "dataset": "dset164",
+      "raw_id": "3P8BA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 123,
+      "record_id": "dest0123_dset164_3P8BB",
+      "dataset": "dset164",
+      "raw_id": "3P8BB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 125,
+      "record_id": "dest0125_dset164_3PH0C",
+      "dataset": "dset164",
+      "raw_id": "3PH0C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 128,
+      "record_id": "dest0128_dset164_3Q87A",
+      "dataset": "dset164",
+      "raw_id": "3Q87A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 129,
+      "record_id": "dest0129_dset164_3Q87B",
+      "dataset": "dset164",
+      "raw_id": "3Q87B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 130,
+      "record_id": "dest0130_dset164_3Q9NA",
+      "dataset": "dset164",
+      "raw_id": "3Q9NA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 131,
+      "record_id": "dest0131_dset164_3Q9NC",
+      "dataset": "dset164",
+      "raw_id": "3Q9NC",
+      "role": "train"
+    },
+    {
+      "fused_idx": 132,
+      "record_id": "dest0132_dset164_3R07A",
+      "dataset": "dset164",
+      "raw_id": "3R07A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 133,
+      "record_id": "dest0133_dset164_3R07C",
+      "dataset": "dset164",
+      "raw_id": "3R07C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 134,
+      "record_id": "dest0134_dset164_3S97A",
+      "dataset": "dset164",
+      "raw_id": "3S97A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 135,
+      "record_id": "dest0135_dset164_3S97C",
+      "dataset": "dset164",
+      "raw_id": "3S97C",
+      "role": "train"
+    },
+    {
+      "fused_idx": 137,
+      "record_id": "dest0137_dset164_3SHGB",
+      "dataset": "dset164",
+      "raw_id": "3SHGB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 138,
+      "record_id": "dest0138_dset164_3TGXA",
+      "dataset": "dset164",
+      "raw_id": "3TGXA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 139,
+      "record_id": "dest0139_dset164_3TGXB",
+      "dataset": "dset164",
+      "raw_id": "3TGXB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 141,
+      "record_id": "dest0141_dset164_3TU3B",
+      "dataset": "dset164",
+      "raw_id": "3TU3B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 143,
+      "record_id": "dest0143_dset164_3UVJB",
+      "dataset": "dset164",
+      "raw_id": "3UVJB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 144,
+      "record_id": "dest0144_dset164_3VDOA",
+      "dataset": "dset164",
+      "raw_id": "3VDOA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 146,
+      "record_id": "dest0146_dset164_3VIQA",
+      "dataset": "dset164",
+      "raw_id": "3VIQA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 147,
+      "record_id": "dest0147_dset164_3VIQB",
+      "dataset": "dset164",
+      "raw_id": "3VIQB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 148,
+      "record_id": "dest0148_dset164_3VPJA",
+      "dataset": "dset164",
+      "raw_id": "3VPJA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 149,
+      "record_id": "dest0149_dset164_3VPJE",
+      "dataset": "dset164",
+      "raw_id": "3VPJE",
+      "role": "train"
+    },
+    {
+      "fused_idx": 150,
+      "record_id": "dest0150_dset164_3VRDA",
+      "dataset": "dset164",
+      "raw_id": "3VRDA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 151,
+      "record_id": "dest0151_dset164_3VRDB",
+      "dataset": "dset164",
+      "raw_id": "3VRDB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 154,
+      "record_id": "dest0154_dset164_3VZ9B",
+      "dataset": "dset164",
+      "raw_id": "3VZ9B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 156,
+      "record_id": "dest0156_dset164_3W0LA",
+      "dataset": "dset164",
+      "raw_id": "3W0LA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 157,
+      "record_id": "dest0157_dset164_3W0LB",
+      "dataset": "dset164",
+      "raw_id": "3W0LB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 158,
+      "record_id": "dest0158_dset164_3W2WA",
+      "dataset": "dset164",
+      "raw_id": "3W2WA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 162,
+      "record_id": "dest0162_dset164_3ZHEA",
+      "dataset": "dset164",
+      "raw_id": "3ZHEA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 163,
+      "record_id": "dest0163_dset164_3ZHEB",
+      "dataset": "dset164",
+      "raw_id": "3ZHEB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 165,
+      "record_id": "dest0165_dset164_3ZKQD",
+      "dataset": "dset164",
+      "raw_id": "3ZKQD",
+      "role": "train"
+    },
+    {
+      "fused_idx": 167,
+      "record_id": "dest0167_dset164_3ZR4B",
+      "dataset": "dset164",
+      "raw_id": "3ZR4B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 169,
+      "record_id": "dest0169_dset164_3ZYIB",
+      "dataset": "dset164",
+      "raw_id": "3ZYIB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 170,
+      "record_id": "dest0170_dset164_4A5UA",
+      "dataset": "dset164",
+      "raw_id": "4A5UA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 171,
+      "record_id": "dest0171_dset164_4A5UB",
+      "dataset": "dset164",
+      "raw_id": "4A5UB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 173,
+      "record_id": "dest0173_dset164_4APXB",
+      "dataset": "dset164",
+      "raw_id": "4APXB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 174,
+      "record_id": "dest0174_dset164_4AWXA",
+      "dataset": "dset164",
+      "raw_id": "4AWXA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 180,
+      "record_id": "dest0180_dset164_4BJJA",
+      "dataset": "dset164",
+      "raw_id": "4BJJA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 182,
+      "record_id": "dest0182_dset164_4CDGA",
+      "dataset": "dset164",
+      "raw_id": "4CDGA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 183,
+      "record_id": "dest0183_dset164_4CDGC",
+      "dataset": "dset164",
+      "raw_id": "4CDGC",
+      "role": "train"
+    },
+    {
+      "fused_idx": 184,
+      "record_id": "dest0184_dset164_4DFCA",
+      "dataset": "dset164",
+      "raw_id": "4DFCA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 186,
+      "record_id": "dest0186_dset164_4E4WA",
+      "dataset": "dset164",
+      "raw_id": "4E4WA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 187,
+      "record_id": "dest0187_dset164_4E4WB",
+      "dataset": "dset164",
+      "raw_id": "4E4WB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 188,
+      "record_id": "dest0188_dset164_4E6NA",
+      "dataset": "dset164",
+      "raw_id": "4E6NA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 189,
+      "record_id": "dest0189_dset164_4E6NB",
+      "dataset": "dset164",
+      "raw_id": "4E6NB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 190,
+      "record_id": "dest0190_dset164_4EMJA",
+      "dataset": "dset164",
+      "raw_id": "4EMJA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 192,
+      "record_id": "dest0192_dset164_4EQAA",
+      "dataset": "dset164",
+      "raw_id": "4EQAA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 193,
+      "record_id": "dest0193_dset164_4EQAC",
+      "dataset": "dset164",
+      "raw_id": "4EQAC",
+      "role": "train"
+    },
+    {
+      "fused_idx": 194,
+      "record_id": "dest0194_dset164_4ETPA",
+      "dataset": "dset164",
+      "raw_id": "4ETPA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 195,
+      "record_id": "dest0195_dset164_4ETPB",
+      "dataset": "dset164",
+      "raw_id": "4ETPB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 196,
+      "record_id": "dest0196_dset164_4EUKA",
+      "dataset": "dset164",
+      "raw_id": "4EUKA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 198,
+      "record_id": "dest0198_dset164_4F6UA",
+      "dataset": "dset164",
+      "raw_id": "4F6UA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 199,
+      "record_id": "dest0199_dset164_4F6UB",
+      "dataset": "dset164",
+      "raw_id": "4F6UB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 200,
+      "record_id": "dest0200_dset164_4FOUA",
+      "dataset": "dset164",
+      "raw_id": "4FOUA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 201,
+      "record_id": "dest0201_dset164_4FOUC",
+      "dataset": "dset164",
+      "raw_id": "4FOUC",
+      "role": "train"
+    },
+    {
+      "fused_idx": 204,
+      "record_id": "dest0204_dset164_4G6TA",
+      "dataset": "dset164",
+      "raw_id": "4G6TA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 205,
+      "record_id": "dest0205_dset164_4G6TB",
+      "dataset": "dset164",
+      "raw_id": "4G6TB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 206,
+      "record_id": "dest0206_dset164_4G7XA",
+      "dataset": "dset164",
+      "raw_id": "4G7XA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 207,
+      "record_id": "dest0207_dset164_4G7XB",
+      "dataset": "dset164",
+      "raw_id": "4G7XB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 208,
+      "record_id": "dest0208_dset164_4GEDA",
+      "dataset": "dset164",
+      "raw_id": "4GEDA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 209,
+      "record_id": "dest0209_dset164_4GEDB",
+      "dataset": "dset164",
+      "raw_id": "4GEDB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 210,
+      "record_id": "dest0210_dset164_4GN4A",
+      "dataset": "dset164",
+      "raw_id": "4GN4A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 211,
+      "record_id": "dest0211_dset164_4GN4B",
+      "dataset": "dset164",
+      "raw_id": "4GN4B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 214,
+      "record_id": "dest0214_dset164_4HFFA",
+      "dataset": "dset164",
+      "raw_id": "4HFFA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 215,
+      "record_id": "dest0215_dset164_4HFFB",
+      "dataset": "dset164",
+      "raw_id": "4HFFB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 216,
+      "record_id": "dest0216_dset164_4HLUA",
+      "dataset": "dset164",
+      "raw_id": "4HLUA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 217,
+      "record_id": "dest0217_dset164_4HLUD",
+      "dataset": "dset164",
+      "raw_id": "4HLUD",
+      "role": "train"
+    },
+    {
+      "fused_idx": 219,
+      "record_id": "dest0219_dset164_4HOPB",
+      "dataset": "dset164",
+      "raw_id": "4HOPB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 221,
+      "record_id": "dest0221_dset164_4IU2B",
+      "dataset": "dset164",
+      "raw_id": "4IU2B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 222,
+      "record_id": "dest0222_dset164_4JE3A",
+      "dataset": "dset164",
+      "raw_id": "4JE3A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 224,
+      "record_id": "dest0224_dset164_4JOIA",
+      "dataset": "dset164",
+      "raw_id": "4JOIA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 226,
+      "record_id": "dest0226_dset164_4KBMA",
+      "dataset": "dset164",
+      "raw_id": "4KBMA",
+      "role": "train"
+    },
+    {
+      "fused_idx": 227,
+      "record_id": "dest0227_dset164_4KBMB",
+      "dataset": "dset164",
+      "raw_id": "4KBMB",
+      "role": "train"
+    },
+    {
+      "fused_idx": 228,
+      "record_id": "dest0228_dset164_4KT3A",
+      "dataset": "dset164",
+      "raw_id": "4KT3A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 233,
+      "record_id": "dest0233_dset164_4M69B",
+      "dataset": "dset164",
+      "raw_id": "4M69B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 234,
+      "record_id": "dest0234_dset164_4M70B",
+      "dataset": "dset164",
+      "raw_id": "4M70B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 235,
+      "record_id": "dest0235_dset164_4M70H",
+      "dataset": "dset164",
+      "raw_id": "4M70H",
+      "role": "train"
+    },
+    {
+      "fused_idx": 236,
+      "record_id": "dest0236_dset186_1acb_I",
+      "dataset": "dset186",
+      "raw_id": "1acb_I",
+      "role": "train"
+    },
+    {
+      "fused_idx": 238,
+      "record_id": "dest0238_dset186_1ay7_B",
+      "dataset": "dset186",
+      "raw_id": "1ay7_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 239,
+      "record_id": "dest0239_dset186_1c1y_B",
+      "dataset": "dset186",
+      "raw_id": "1c1y_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 240,
+      "record_id": "dest0240_dset186_1e96_B",
+      "dataset": "dset186",
+      "raw_id": "1e96_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 242,
+      "record_id": "dest0242_dset186_1euv_B",
+      "dataset": "dset186",
+      "raw_id": "1euv_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 243,
+      "record_id": "dest0243_dset186_1f60_A",
+      "dataset": "dset186",
+      "raw_id": "1f60_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 245,
+      "record_id": "dest0245_dset186_1ggp_A",
+      "dataset": "dset186",
+      "raw_id": "1ggp_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 246,
+      "record_id": "dest0246_dset186_1ggp_B",
+      "dataset": "dset186",
+      "raw_id": "1ggp_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 247,
+      "record_id": "dest0247_dset186_1gl4_A",
+      "dataset": "dset186",
+      "raw_id": "1gl4_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 248,
+      "record_id": "dest0248_dset186_1gl4_B",
+      "dataset": "dset186",
+      "raw_id": "1gl4_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 250,
+      "record_id": "dest0250_dset186_1h32_B",
+      "dataset": "dset186",
+      "raw_id": "1h32_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 251,
+      "record_id": "dest0251_dset186_1hx1_A",
+      "dataset": "dset186",
+      "raw_id": "1hx1_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 252,
+      "record_id": "dest0252_dset186_1hx1_B",
+      "dataset": "dset186",
+      "raw_id": "1hx1_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 253,
+      "record_id": "dest0253_dset186_1itb_A",
+      "dataset": "dset186",
+      "raw_id": "1itb_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 254,
+      "record_id": "dest0254_dset186_1itb_B",
+      "dataset": "dset186",
+      "raw_id": "1itb_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 255,
+      "record_id": "dest0255_dset186_1jiw_I",
+      "dataset": "dset186",
+      "raw_id": "1jiw_I",
+      "role": "train"
+    },
+    {
+      "fused_idx": 256,
+      "record_id": "dest0256_dset186_1jiw_P",
+      "dataset": "dset186",
+      "raw_id": "1jiw_P",
+      "role": "train"
+    },
+    {
+      "fused_idx": 257,
+      "record_id": "dest0257_dset186_1jmt_A",
+      "dataset": "dset186",
+      "raw_id": "1jmt_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 259,
+      "record_id": "dest0259_dset186_1ka9_F",
+      "dataset": "dset186",
+      "raw_id": "1ka9_F",
+      "role": "train"
+    },
+    {
+      "fused_idx": 260,
+      "record_id": "dest0260_dset186_1ka9_H",
+      "dataset": "dset186",
+      "raw_id": "1ka9_H",
+      "role": "train"
+    },
+    {
+      "fused_idx": 261,
+      "record_id": "dest0261_dset186_1ksh_A",
+      "dataset": "dset186",
+      "raw_id": "1ksh_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 262,
+      "record_id": "dest0262_dset186_1ksh_B",
+      "dataset": "dset186",
+      "raw_id": "1ksh_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 263,
+      "record_id": "dest0263_dset186_1mg9_A",
+      "dataset": "dset186",
+      "raw_id": "1mg9_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 264,
+      "record_id": "dest0264_dset186_1mg9_B",
+      "dataset": "dset186",
+      "raw_id": "1mg9_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 267,
+      "record_id": "dest0267_dset186_1pq1_A",
+      "dataset": "dset186",
+      "raw_id": "1pq1_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 268,
+      "record_id": "dest0268_dset186_1r8s_A",
+      "dataset": "dset186",
+      "raw_id": "1r8s_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 269,
+      "record_id": "dest0269_dset186_1r8s_E",
+      "dataset": "dset186",
+      "raw_id": "1r8s_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 270,
+      "record_id": "dest0270_dset186_1svd_A",
+      "dataset": "dset186",
+      "raw_id": "1svd_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 272,
+      "record_id": "dest0272_dset186_1t6b_X",
+      "dataset": "dset186",
+      "raw_id": "1t6b_X",
+      "role": "train"
+    },
+    {
+      "fused_idx": 273,
+      "record_id": "dest0273_dset186_1t6b_Y",
+      "dataset": "dset186",
+      "raw_id": "1t6b_Y",
+      "role": "train"
+    },
+    {
+      "fused_idx": 274,
+      "record_id": "dest0274_dset186_1ta3_A",
+      "dataset": "dset186",
+      "raw_id": "1ta3_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 275,
+      "record_id": "dest0275_dset186_1ta3_B",
+      "dataset": "dset186",
+      "raw_id": "1ta3_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 276,
+      "record_id": "dest0276_dset186_1tdq_A",
+      "dataset": "dset186",
+      "raw_id": "1tdq_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 277,
+      "record_id": "dest0277_dset186_1tdq_B",
+      "dataset": "dset186",
+      "raw_id": "1tdq_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 278,
+      "record_id": "dest0278_dset186_1te1_B",
+      "dataset": "dset186",
+      "raw_id": "1te1_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 279,
+      "record_id": "dest0279_dset186_1tnr_A",
+      "dataset": "dset186",
+      "raw_id": "1tnr_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 282,
+      "record_id": "dest0282_dset186_1u0s_Y",
+      "dataset": "dset186",
+      "raw_id": "1u0s_Y",
+      "role": "train"
+    },
+    {
+      "fused_idx": 284,
+      "record_id": "dest0284_dset186_1v74_B",
+      "dataset": "dset186",
+      "raw_id": "1v74_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 285,
+      "record_id": "dest0285_dset186_1wkw_A",
+      "dataset": "dset186",
+      "raw_id": "1wkw_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 286,
+      "record_id": "dest0286_dset186_1wpx_A",
+      "dataset": "dset186",
+      "raw_id": "1wpx_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 288,
+      "record_id": "dest0288_dset186_1xg2_A",
+      "dataset": "dset186",
+      "raw_id": "1xg2_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 289,
+      "record_id": "dest0289_dset186_1xg2_B",
+      "dataset": "dset186",
+      "raw_id": "1xg2_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 290,
+      "record_id": "dest0290_dset186_1z0j_A",
+      "dataset": "dset186",
+      "raw_id": "1z0j_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 292,
+      "record_id": "dest0292_dset186_1z3e_A",
+      "dataset": "dset186",
+      "raw_id": "1z3e_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 294,
+      "record_id": "dest0294_dset186_1z5y_D",
+      "dataset": "dset186",
+      "raw_id": "1z5y_D",
+      "role": "train"
+    },
+    {
+      "fused_idx": 296,
+      "record_id": "dest0296_dset186_1zbd_A",
+      "dataset": "dset186",
+      "raw_id": "1zbd_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 298,
+      "record_id": "dest0298_dset186_1zbx_A",
+      "dataset": "dset186",
+      "raw_id": "1zbx_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 299,
+      "record_id": "dest0299_dset186_1zbx_B",
+      "dataset": "dset186",
+      "raw_id": "1zbx_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 302,
+      "record_id": "dest0302_dset186_2apo_A",
+      "dataset": "dset186",
+      "raw_id": "2apo_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 303,
+      "record_id": "dest0303_dset186_2apo_B",
+      "dataset": "dset186",
+      "raw_id": "2apo_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 305,
+      "record_id": "dest0305_dset186_2b59_A",
+      "dataset": "dset186",
+      "raw_id": "2b59_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 307,
+      "record_id": "dest0307_dset186_2c0l_A",
+      "dataset": "dset186",
+      "raw_id": "2c0l_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 308,
+      "record_id": "dest0308_dset186_2c0l_B",
+      "dataset": "dset186",
+      "raw_id": "2c0l_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 309,
+      "record_id": "dest0309_dset186_2c5k_T",
+      "dataset": "dset186",
+      "raw_id": "2c5k_T",
+      "role": "train"
+    },
+    {
+      "fused_idx": 310,
+      "record_id": "dest0310_dset186_2c9x_A",
+      "dataset": "dset186",
+      "raw_id": "2c9x_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 311,
+      "record_id": "dest0311_dset186_2c9x_B",
+      "dataset": "dset186",
+      "raw_id": "2c9x_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 312,
+      "record_id": "dest0312_dset186_2cg5_A",
+      "dataset": "dset186",
+      "raw_id": "2cg5_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 313,
+      "record_id": "dest0313_dset186_2cg5_B",
+      "dataset": "dset186",
+      "raw_id": "2cg5_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 315,
+      "record_id": "dest0315_dset186_2d5r_B",
+      "dataset": "dset186",
+      "raw_id": "2d5r_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 316,
+      "record_id": "dest0316_dset186_2d74_A",
+      "dataset": "dset186",
+      "raw_id": "2d74_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 317,
+      "record_id": "dest0317_dset186_2d74_B",
+      "dataset": "dset186",
+      "raw_id": "2d74_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 319,
+      "record_id": "dest0319_dset186_2dvw_A",
+      "dataset": "dset186",
+      "raw_id": "2dvw_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 321,
+      "record_id": "dest0321_dset186_2ehb_A",
+      "dataset": "dset186",
+      "raw_id": "2ehb_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 322,
+      "record_id": "dest0322_dset186_2ehb_D",
+      "dataset": "dset186",
+      "raw_id": "2ehb_D",
+      "role": "train"
+    },
+    {
+      "fused_idx": 324,
+      "record_id": "dest0324_dset186_2fcw_A",
+      "dataset": "dset186",
+      "raw_id": "2fcw_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 325,
+      "record_id": "dest0325_dset186_2fcw_B",
+      "dataset": "dset186",
+      "raw_id": "2fcw_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 326,
+      "record_id": "dest0326_dset186_2fhz_A",
+      "dataset": "dset186",
+      "raw_id": "2fhz_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 327,
+      "record_id": "dest0327_dset186_2fhz_B",
+      "dataset": "dset186",
+      "raw_id": "2fhz_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 329,
+      "record_id": "dest0329_dset186_2fp4_B",
+      "dataset": "dset186",
+      "raw_id": "2fp4_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 330,
+      "record_id": "dest0330_dset186_2g2u_A",
+      "dataset": "dset186",
+      "raw_id": "2g2u_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 332,
+      "record_id": "dest0332_dset186_2g77_A",
+      "dataset": "dset186",
+      "raw_id": "2g77_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 333,
+      "record_id": "dest0333_dset186_2g77_B",
+      "dataset": "dset186",
+      "raw_id": "2g77_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 334,
+      "record_id": "dest0334_dset186_2h0d_A",
+      "dataset": "dset186",
+      "raw_id": "2h0d_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 336,
+      "record_id": "dest0336_dset186_2h9a_A",
+      "dataset": "dset186",
+      "raw_id": "2h9a_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 337,
+      "record_id": "dest0337_dset186_2h9a_B",
+      "dataset": "dset186",
+      "raw_id": "2h9a_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 338,
+      "record_id": "dest0338_dset186_2ihb_B",
+      "dataset": "dset186",
+      "raw_id": "2ihb_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 339,
+      "record_id": "dest0339_dset186_2j3r_A",
+      "dataset": "dset186",
+      "raw_id": "2j3r_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 340,
+      "record_id": "dest0340_dset186_2j3r_B",
+      "dataset": "dset186",
+      "raw_id": "2j3r_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 341,
+      "record_id": "dest0341_dset186_2o2v_A",
+      "dataset": "dset186",
+      "raw_id": "2o2v_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 342,
+      "record_id": "dest0342_dset186_2o2v_B",
+      "dataset": "dset186",
+      "raw_id": "2o2v_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 343,
+      "record_id": "dest0343_dset186_2o3b_A",
+      "dataset": "dset186",
+      "raw_id": "2o3b_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 344,
+      "record_id": "dest0344_dset186_2o3b_B",
+      "dataset": "dset186",
+      "raw_id": "2o3b_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 345,
+      "record_id": "dest0345_dset186_2omz_A",
+      "dataset": "dset186",
+      "raw_id": "2omz_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 346,
+      "record_id": "dest0346_dset186_2omz_B",
+      "dataset": "dset186",
+      "raw_id": "2omz_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 347,
+      "record_id": "dest0347_dset186_2ot3_A",
+      "dataset": "dset186",
+      "raw_id": "2ot3_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 348,
+      "record_id": "dest0348_dset186_2ozn_A",
+      "dataset": "dset186",
+      "raw_id": "2ozn_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 349,
+      "record_id": "dest0349_dset186_2ozn_B",
+      "dataset": "dset186",
+      "raw_id": "2ozn_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 351,
+      "record_id": "dest0351_dset186_2p7v_B",
+      "dataset": "dset186",
+      "raw_id": "2p7v_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 352,
+      "record_id": "dest0352_dset186_2qc1_A",
+      "dataset": "dset186",
+      "raw_id": "2qc1_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 353,
+      "record_id": "dest0353_dset186_2qc1_B",
+      "dataset": "dset186",
+      "raw_id": "2qc1_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 354,
+      "record_id": "dest0354_dset186_2qkl_A",
+      "dataset": "dset186",
+      "raw_id": "2qkl_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 355,
+      "record_id": "dest0355_dset186_2qkl_B",
+      "dataset": "dset186",
+      "raw_id": "2qkl_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 356,
+      "record_id": "dest0356_dset186_2qxv_A",
+      "dataset": "dset186",
+      "raw_id": "2qxv_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 357,
+      "record_id": "dest0357_dset186_2r25_A",
+      "dataset": "dset186",
+      "raw_id": "2r25_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 358,
+      "record_id": "dest0358_dset186_2r25_B",
+      "dataset": "dset186",
+      "raw_id": "2r25_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 359,
+      "record_id": "dest0359_dset186_2rd7_A",
+      "dataset": "dset186",
+      "raw_id": "2rd7_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 361,
+      "record_id": "dest0361_dset186_2v1y_A",
+      "dataset": "dset186",
+      "raw_id": "2v1y_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 362,
+      "record_id": "dest0362_dset186_2v1y_B",
+      "dataset": "dset186",
+      "raw_id": "2v1y_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 364,
+      "record_id": "dest0364_dset186_2v6x_A",
+      "dataset": "dset186",
+      "raw_id": "2v6x_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 365,
+      "record_id": "dest0365_dset186_2v6x_B",
+      "dataset": "dset186",
+      "raw_id": "2v6x_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 366,
+      "record_id": "dest0366_dset186_2v8s_E",
+      "dataset": "dset186",
+      "raw_id": "2v8s_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 369,
+      "record_id": "dest0369_dset186_2v9t_B",
+      "dataset": "dset186",
+      "raw_id": "2v9t_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 371,
+      "record_id": "dest0371_dset186_2z0e_A",
+      "dataset": "dset186",
+      "raw_id": "2z0e_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 372,
+      "record_id": "dest0372_dset186_2z0e_B",
+      "dataset": "dset186",
+      "raw_id": "2z0e_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 373,
+      "record_id": "dest0373_dset186_3beg_A",
+      "dataset": "dset186",
+      "raw_id": "3beg_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 375,
+      "record_id": "dest0375_dset186_3bh7_B",
+      "dataset": "dset186",
+      "raw_id": "3bh7_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 376,
+      "record_id": "dest0376_dset186_3bp6_A",
+      "dataset": "dset186",
+      "raw_id": "3bp6_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 377,
+      "record_id": "dest0377_dset186_3bp6_B",
+      "dataset": "dset186",
+      "raw_id": "3bp6_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 378,
+      "record_id": "dest0378_dset186_3bs5_A",
+      "dataset": "dset186",
+      "raw_id": "3bs5_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 381,
+      "record_id": "dest0381_dset186_3cbj_A",
+      "dataset": "dset186",
+      "raw_id": "3cbj_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 382,
+      "record_id": "dest0382_dset186_3cbj_B",
+      "dataset": "dset186",
+      "raw_id": "3cbj_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 383,
+      "record_id": "dest0383_dset186_3cf4_A",
+      "dataset": "dset186",
+      "raw_id": "3cf4_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 385,
+      "record_id": "dest0385_dset186_3cki_A",
+      "dataset": "dset186",
+      "raw_id": "3cki_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 386,
+      "record_id": "dest0386_dset186_3cki_B",
+      "dataset": "dset186",
+      "raw_id": "3cki_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 388,
+      "record_id": "dest0388_dset186_3cpj_G",
+      "dataset": "dset186",
+      "raw_id": "3cpj_G",
+      "role": "train"
+    },
+    {
+      "fused_idx": 389,
+      "record_id": "dest0389_dset186_3cqc_A",
+      "dataset": "dset186",
+      "raw_id": "3cqc_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 390,
+      "record_id": "dest0390_dset186_3cqc_B",
+      "dataset": "dset186",
+      "raw_id": "3cqc_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 391,
+      "record_id": "dest0391_dset186_3cx8_A",
+      "dataset": "dset186",
+      "raw_id": "3cx8_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 393,
+      "record_id": "dest0393_dset186_3czu_A",
+      "dataset": "dset186",
+      "raw_id": "3czu_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 395,
+      "record_id": "dest0395_dset186_3d48_P",
+      "dataset": "dset186",
+      "raw_id": "3d48_P",
+      "role": "train"
+    },
+    {
+      "fused_idx": 396,
+      "record_id": "dest0396_dset186_3d48_R",
+      "dataset": "dset186",
+      "raw_id": "3d48_R",
+      "role": "train"
+    },
+    {
+      "fused_idx": 397,
+      "record_id": "dest0397_dset186_3d4u_B",
+      "dataset": "dset186",
+      "raw_id": "3d4u_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 399,
+      "record_id": "dest0399_dset186_3dgp_A",
+      "dataset": "dset186",
+      "raw_id": "3dgp_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 400,
+      "record_id": "dest0400_dset186_3dgp_B",
+      "dataset": "dset186",
+      "raw_id": "3dgp_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 401,
+      "record_id": "dest0401_dset186_3di3_A",
+      "dataset": "dset186",
+      "raw_id": "3di3_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 402,
+      "record_id": "dest0402_dset186_3di3_B",
+      "dataset": "dset186",
+      "raw_id": "3di3_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 404,
+      "record_id": "dest0404_dset186_3dlq_R",
+      "dataset": "dset186",
+      "raw_id": "3dlq_R",
+      "role": "train"
+    },
+    {
+      "fused_idx": 407,
+      "record_id": "dest0407_dset186_3f1s_A",
+      "dataset": "dset186",
+      "raw_id": "3f1s_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 408,
+      "record_id": "dest0408_dset186_3f1s_B",
+      "dataset": "dset186",
+      "raw_id": "3f1s_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 409,
+      "record_id": "dest0409_dset186_3f6q_A",
+      "dataset": "dset186",
+      "raw_id": "3f6q_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 410,
+      "record_id": "dest0410_dset186_3f6q_B",
+      "dataset": "dset186",
+      "raw_id": "3f6q_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 411,
+      "record_id": "dest0411_dset186_3fii_A",
+      "dataset": "dset186",
+      "raw_id": "3fii_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 413,
+      "record_id": "dest0413_dset186_3fju_B",
+      "dataset": "dset186",
+      "raw_id": "3fju_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 415,
+      "record_id": "dest0415_dset186_3fmo_B",
+      "dataset": "dset186",
+      "raw_id": "3fmo_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 416,
+      "record_id": "dest0416_dset186_3fqd_A",
+      "dataset": "dset186",
+      "raw_id": "3fqd_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 417,
+      "record_id": "dest0417_dset186_3fqd_B",
+      "dataset": "dset186",
+      "raw_id": "3fqd_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 419,
+      "record_id": "dest0419_dset186_3gni_B",
+      "dataset": "dset186",
+      "raw_id": "3gni_B",
+      "role": "train"
+    },
+    {
+      "fused_idx": 420,
+      "record_id": "dest0420_dset186_3h4s_A",
+      "dataset": "dset186",
+      "raw_id": "3h4s_A",
+      "role": "train"
+    },
+    {
+      "fused_idx": 421,
+      "record_id": "dest0421_dset186_3h4s_E",
+      "dataset": "dset186",
+      "raw_id": "3h4s_E",
+      "role": "train"
+    },
+    {
+      "fused_idx": 6,
+      "record_id": "dest0006_dset72_1dfj_E",
+      "dataset": "dset72",
+      "raw_id": "1dfj_E",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 8,
+      "record_id": "dest0008_dset72_1e4k_AB",
+      "dataset": "dset72",
+      "raw_id": "1e4k_AB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 13,
+      "record_id": "dest0013_dset72_1eer_BC",
+      "dataset": "dset72",
+      "raw_id": "1eer_BC",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 20,
+      "record_id": "dest0020_dset72_1fc2_C",
+      "dataset": "dset72",
+      "raw_id": "1fc2_C",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 27,
+      "record_id": "dest0027_dset72_1ib1_AB",
+      "dataset": "dset72",
+      "raw_id": "1ib1_AB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 32,
+      "record_id": "dest0032_dset72_1k5d_C",
+      "dataset": "dset72",
+      "raw_id": "1k5d_C",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 42,
+      "record_id": "dest0042_dset72_1ml0_A",
+      "dataset": "dset72",
+      "raw_id": "1ml0_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 47,
+      "record_id": "dest0047_dset72_1nw9_B",
+      "dataset": "dset72",
+      "raw_id": "1nw9_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 49,
+      "record_id": "dest0049_dset72_1pxv_C",
+      "dataset": "dset72",
+      "raw_id": "1pxv_C",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 66,
+      "record_id": "dest0066_dset72_2mta_A",
+      "dataset": "dset72",
+      "raw_id": "2mta_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 69,
+      "record_id": "dest0069_dset72_2o8v_B",
+      "dataset": "dset72",
+      "raw_id": "2o8v_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 74,
+      "record_id": "dest0074_dset164_2WUSA",
+      "dataset": "dset164",
+      "raw_id": "2WUSA",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 76,
+      "record_id": "dest0076_dset164_2XQRA",
+      "dataset": "dset164",
+      "raw_id": "2XQRA",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 79,
+      "record_id": "dest0079_dset164_2Y9WC",
+      "dataset": "dset164",
+      "raw_id": "2Y9WC",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 91,
+      "record_id": "dest0091_dset164_3AXJB",
+      "dataset": "dset164",
+      "raw_id": "3AXJB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 97,
+      "record_id": "dest0097_dset164_3M7FB",
+      "dataset": "dset164",
+      "raw_id": "3M7FB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 102,
+      "record_id": "dest0102_dset164_3MJ7A",
+      "dataset": "dset164",
+      "raw_id": "3MJ7A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 107,
+      "record_id": "dest0107_dset164_3MP7B",
+      "dataset": "dset164",
+      "raw_id": "3MP7B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 109,
+      "record_id": "dest0109_dset164_3NW0B",
+      "dataset": "dset164",
+      "raw_id": "3NW0B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 113,
+      "record_id": "dest0113_dset164_3O3MB",
+      "dataset": "dset164",
+      "raw_id": "3O3MB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 127,
+      "record_id": "dest0127_dset164_3PV6B",
+      "dataset": "dset164",
+      "raw_id": "3PV6B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 140,
+      "record_id": "dest0140_dset164_3TU3A",
+      "dataset": "dset164",
+      "raw_id": "3TU3A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 153,
+      "record_id": "dest0153_dset164_3VU9B",
+      "dataset": "dset164",
+      "raw_id": "3VU9B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 161,
+      "record_id": "dest0161_dset164_3ZEUE",
+      "dataset": "dset164",
+      "raw_id": "3ZEUE",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 166,
+      "record_id": "dest0166_dset164_3ZR4A",
+      "dataset": "dset164",
+      "raw_id": "3ZR4A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 168,
+      "record_id": "dest0168_dset164_3ZYIA",
+      "dataset": "dset164",
+      "raw_id": "3ZYIA",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 191,
+      "record_id": "dest0191_dset164_4EMJB",
+      "dataset": "dset164",
+      "raw_id": "4EMJB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 197,
+      "record_id": "dest0197_dset164_4EUKB",
+      "dataset": "dset164",
+      "raw_id": "4EUKB",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 203,
+      "record_id": "dest0203_dset164_4FQ0C",
+      "dataset": "dset164",
+      "raw_id": "4FQ0C",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 218,
+      "record_id": "dest0218_dset164_4HOPA",
+      "dataset": "dset164",
+      "raw_id": "4HOPA",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 225,
+      "record_id": "dest0225_dset164_4JOID",
+      "dataset": "dset164",
+      "raw_id": "4JOID",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 230,
+      "record_id": "dest0230_dset164_4KT6A",
+      "dataset": "dset164",
+      "raw_id": "4KT6A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 232,
+      "record_id": "dest0232_dset164_4M69A",
+      "dataset": "dset164",
+      "raw_id": "4M69A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 237,
+      "record_id": "dest0237_dset186_1ay7_A",
+      "dataset": "dset186",
+      "raw_id": "1ay7_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 241,
+      "record_id": "dest0241_dset186_1euv_A",
+      "dataset": "dset186",
+      "raw_id": "1euv_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 249,
+      "record_id": "dest0249_dset186_1h32_A",
+      "dataset": "dset186",
+      "raw_id": "1h32_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 280,
+      "record_id": "dest0280_dset186_1tnr_R",
+      "dataset": "dset186",
+      "raw_id": "1tnr_R",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 283,
+      "record_id": "dest0283_dset186_1v74_A",
+      "dataset": "dset186",
+      "raw_id": "1v74_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 287,
+      "record_id": "dest0287_dset186_1wpx_B",
+      "dataset": "dset186",
+      "raw_id": "1wpx_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 293,
+      "record_id": "dest0293_dset186_1z3e_B",
+      "dataset": "dset186",
+      "raw_id": "1z3e_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 295,
+      "record_id": "dest0295_dset186_1z5y_E",
+      "dataset": "dset186",
+      "raw_id": "1z5y_E",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 301,
+      "record_id": "dest0301_dset186_2a9k_B",
+      "dataset": "dset186",
+      "raw_id": "2a9k_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 306,
+      "record_id": "dest0306_dset186_2b59_B",
+      "dataset": "dset186",
+      "raw_id": "2b59_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 320,
+      "record_id": "dest0320_dset186_2dvw_B",
+      "dataset": "dset186",
+      "raw_id": "2dvw_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 360,
+      "record_id": "dest0360_dset186_2rd7_C",
+      "dataset": "dset186",
+      "raw_id": "2rd7_C",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 370,
+      "record_id": "dest0370_dset186_2voh_A",
+      "dataset": "dset186",
+      "raw_id": "2voh_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 379,
+      "record_id": "dest0379_dset186_3bs5_B",
+      "dataset": "dset186",
+      "raw_id": "3bs5_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 387,
+      "record_id": "dest0387_dset186_3cpj_B",
+      "dataset": "dset186",
+      "raw_id": "3cpj_B",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 412,
+      "record_id": "dest0412_dset186_3fju_A",
+      "dataset": "dset186",
+      "raw_id": "3fju_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 414,
+      "record_id": "dest0414_dset186_3fmo_A",
+      "dataset": "dset186",
+      "raw_id": "3fmo_A",
+      "role": "validation"
+    },
+    {
+      "fused_idx": 3,
+      "record_id": "dest0003_dset72_1ak4_D",
+      "dataset": "dset72",
+      "raw_id": "1ak4_D",
+      "role": "test"
+    },
+    {
+      "fused_idx": 4,
+      "record_id": "dest0004_dset72_1b6c_A",
+      "dataset": "dset72",
+      "raw_id": "1b6c_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 31,
+      "record_id": "dest0031_dset72_1k5d_AB",
+      "dataset": "dset72",
+      "raw_id": "1k5d_AB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 39,
+      "record_id": "dest0039_dset72_1ktz_A",
+      "dataset": "dset72",
+      "raw_id": "1ktz_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 41,
+      "record_id": "dest0041_dset72_1mah_F",
+      "dataset": "dset72",
+      "raw_id": "1mah_F",
+      "role": "test"
+    },
+    {
+      "fused_idx": 43,
+      "record_id": "dest0043_dset72_1ml0_D",
+      "dataset": "dset72",
+      "raw_id": "1ml0_D",
+      "role": "test"
+    },
+    {
+      "fused_idx": 48,
+      "record_id": "dest0048_dset72_1pxv_A",
+      "dataset": "dset72",
+      "raw_id": "1pxv_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 50,
+      "record_id": "dest0050_dset72_1qa9_A",
+      "dataset": "dset72",
+      "raw_id": "1qa9_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 70,
+      "record_id": "dest0070_dset72_7cei_A",
+      "dataset": "dset72",
+      "raw_id": "7cei_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 87,
+      "record_id": "dest0087_dset164_3ANWB",
+      "dataset": "dset164",
+      "raw_id": "3ANWB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 93,
+      "record_id": "dest0093_dset164_3AYHB",
+      "dataset": "dset164",
+      "raw_id": "3AYHB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 95,
+      "record_id": "dest0095_dset164_3B08B",
+      "dataset": "dset164",
+      "raw_id": "3B08B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 101,
+      "record_id": "dest0101_dset164_3MDBC",
+      "dataset": "dset164",
+      "raw_id": "3MDBC",
+      "role": "test"
+    },
+    {
+      "fused_idx": 104,
+      "record_id": "dest0104_dset164_3MMYA",
+      "dataset": "dset164",
+      "raw_id": "3MMYA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 121,
+      "record_id": "dest0121_dset164_3OURB",
+      "dataset": "dset164",
+      "raw_id": "3OURB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 124,
+      "record_id": "dest0124_dset164_3PH0A",
+      "dataset": "dset164",
+      "raw_id": "3PH0A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 126,
+      "record_id": "dest0126_dset164_3PV6A",
+      "dataset": "dset164",
+      "raw_id": "3PV6A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 136,
+      "record_id": "dest0136_dset164_3SHGA",
+      "dataset": "dset164",
+      "raw_id": "3SHGA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 142,
+      "record_id": "dest0142_dset164_3UVJA",
+      "dataset": "dset164",
+      "raw_id": "3UVJA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 145,
+      "record_id": "dest0145_dset164_3VDOB",
+      "dataset": "dset164",
+      "raw_id": "3VDOB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 152,
+      "record_id": "dest0152_dset164_3VU9A",
+      "dataset": "dset164",
+      "raw_id": "3VU9A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 155,
+      "record_id": "dest0155_dset164_3VZ9D",
+      "dataset": "dset164",
+      "raw_id": "3VZ9D",
+      "role": "test"
+    },
+    {
+      "fused_idx": 159,
+      "record_id": "dest0159_dset164_3W2WB",
+      "dataset": "dset164",
+      "raw_id": "3W2WB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 160,
+      "record_id": "dest0160_dset164_3ZEUD",
+      "dataset": "dset164",
+      "raw_id": "3ZEUD",
+      "role": "test"
+    },
+    {
+      "fused_idx": 164,
+      "record_id": "dest0164_dset164_3ZKQA",
+      "dataset": "dset164",
+      "raw_id": "3ZKQA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 172,
+      "record_id": "dest0172_dset164_4APXA",
+      "dataset": "dset164",
+      "raw_id": "4APXA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 175,
+      "record_id": "dest0175_dset164_4AWXB",
+      "dataset": "dset164",
+      "raw_id": "4AWXB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 176,
+      "record_id": "dest0176_dset164_4BH6D",
+      "dataset": "dset164",
+      "raw_id": "4BH6D",
+      "role": "test"
+    },
+    {
+      "fused_idx": 177,
+      "record_id": "dest0177_dset164_4BH6L",
+      "dataset": "dset164",
+      "raw_id": "4BH6L",
+      "role": "test"
+    },
+    {
+      "fused_idx": 178,
+      "record_id": "dest0178_dset164_4BI8A",
+      "dataset": "dset164",
+      "raw_id": "4BI8A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 179,
+      "record_id": "dest0179_dset164_4BI8B",
+      "dataset": "dset164",
+      "raw_id": "4BI8B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 181,
+      "record_id": "dest0181_dset164_4BJJB",
+      "dataset": "dset164",
+      "raw_id": "4BJJB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 185,
+      "record_id": "dest0185_dset164_4DFCB",
+      "dataset": "dset164",
+      "raw_id": "4DFCB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 202,
+      "record_id": "dest0202_dset164_4FQ0B",
+      "dataset": "dset164",
+      "raw_id": "4FQ0B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 212,
+      "record_id": "dest0212_dset164_4H3KA",
+      "dataset": "dset164",
+      "raw_id": "4H3KA",
+      "role": "test"
+    },
+    {
+      "fused_idx": 213,
+      "record_id": "dest0213_dset164_4H3KB",
+      "dataset": "dset164",
+      "raw_id": "4H3KB",
+      "role": "test"
+    },
+    {
+      "fused_idx": 220,
+      "record_id": "dest0220_dset164_4IU2A",
+      "dataset": "dset164",
+      "raw_id": "4IU2A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 223,
+      "record_id": "dest0223_dset164_4JE3B",
+      "dataset": "dset164",
+      "raw_id": "4JE3B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 229,
+      "record_id": "dest0229_dset164_4KT3B",
+      "dataset": "dset164",
+      "raw_id": "4KT3B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 231,
+      "record_id": "dest0231_dset164_4KT6B",
+      "dataset": "dset164",
+      "raw_id": "4KT6B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 244,
+      "record_id": "dest0244_dset186_1f60_B",
+      "dataset": "dset186",
+      "raw_id": "1f60_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 258,
+      "record_id": "dest0258_dset186_1jtd_B",
+      "dataset": "dset186",
+      "raw_id": "1jtd_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 265,
+      "record_id": "dest0265_dset186_1nrj_A",
+      "dataset": "dset186",
+      "raw_id": "1nrj_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 266,
+      "record_id": "dest0266_dset186_1nrj_B",
+      "dataset": "dset186",
+      "raw_id": "1nrj_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 271,
+      "record_id": "dest0271_dset186_1svd_M",
+      "dataset": "dset186",
+      "raw_id": "1svd_M",
+      "role": "test"
+    },
+    {
+      "fused_idx": 281,
+      "record_id": "dest0281_dset186_1u0s_A",
+      "dataset": "dset186",
+      "raw_id": "1u0s_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 291,
+      "record_id": "dest0291_dset186_1z0j_B",
+      "dataset": "dset186",
+      "raw_id": "1z0j_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 297,
+      "record_id": "dest0297_dset186_1zbd_B",
+      "dataset": "dset186",
+      "raw_id": "1zbd_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 300,
+      "record_id": "dest0300_dset186_2a9k_A",
+      "dataset": "dset186",
+      "raw_id": "2a9k_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 304,
+      "record_id": "dest0304_dset186_2b42_A",
+      "dataset": "dset186",
+      "raw_id": "2b42_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 314,
+      "record_id": "dest0314_dset186_2d5r_A",
+      "dataset": "dset186",
+      "raw_id": "2d5r_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 318,
+      "record_id": "dest0318_dset186_2doh_X",
+      "dataset": "dset186",
+      "raw_id": "2doh_X",
+      "role": "test"
+    },
+    {
+      "fused_idx": 323,
+      "record_id": "dest0323_dset186_2f91_A",
+      "dataset": "dset186",
+      "raw_id": "2f91_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 328,
+      "record_id": "dest0328_dset186_2fp4_A",
+      "dataset": "dset186",
+      "raw_id": "2fp4_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 331,
+      "record_id": "dest0331_dset186_2g2u_B",
+      "dataset": "dset186",
+      "raw_id": "2g2u_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 335,
+      "record_id": "dest0335_dset186_2h0d_B",
+      "dataset": "dset186",
+      "raw_id": "2h0d_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 350,
+      "record_id": "dest0350_dset186_2p7v_A",
+      "dataset": "dset186",
+      "raw_id": "2p7v_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 363,
+      "record_id": "dest0363_dset186_2v4z_B",
+      "dataset": "dset186",
+      "raw_id": "2v4z_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 367,
+      "record_id": "dest0367_dset186_2v8s_V",
+      "dataset": "dset186",
+      "raw_id": "2v8s_V",
+      "role": "test"
+    },
+    {
+      "fused_idx": 368,
+      "record_id": "dest0368_dset186_2v9t_A",
+      "dataset": "dset186",
+      "raw_id": "2v9t_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 374,
+      "record_id": "dest0374_dset186_3beg_B",
+      "dataset": "dset186",
+      "raw_id": "3beg_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 380,
+      "record_id": "dest0380_dset186_3c5t_A",
+      "dataset": "dset186",
+      "raw_id": "3c5t_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 384,
+      "record_id": "dest0384_dset186_3cf4_G",
+      "dataset": "dset186",
+      "raw_id": "3cf4_G",
+      "role": "test"
+    },
+    {
+      "fused_idx": 392,
+      "record_id": "dest0392_dset186_3cx8_B",
+      "dataset": "dset186",
+      "raw_id": "3cx8_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 394,
+      "record_id": "dest0394_dset186_3czu_B",
+      "dataset": "dset186",
+      "raw_id": "3czu_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 398,
+      "record_id": "dest0398_dset186_3d7v_A",
+      "dataset": "dset186",
+      "raw_id": "3d7v_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 403,
+      "record_id": "dest0403_dset186_3dlq_I",
+      "dataset": "dset186",
+      "raw_id": "3dlq_I",
+      "role": "test"
+    },
+    {
+      "fused_idx": 405,
+      "record_id": "dest0405_dset186_3e1z_B",
+      "dataset": "dset186",
+      "raw_id": "3e1z_B",
+      "role": "test"
+    },
+    {
+      "fused_idx": 406,
+      "record_id": "dest0406_dset186_3e5a_A",
+      "dataset": "dset186",
+      "raw_id": "3e5a_A",
+      "role": "test"
+    },
+    {
+      "fused_idx": 418,
+      "record_id": "dest0418_dset186_3gni_A",
+      "dataset": "dset186",
+      "raw_id": "3gni_A",
+      "role": "test"
+    }
+  ]
+}

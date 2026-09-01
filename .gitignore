@@ -1,8 +1,8 @@
 # Data and model artifacts
-data/TUnA/
 data/RBP400/
 data/RBP400_Expanded/
 data/Dset_prepared/
+data/Dset_186_72_PDB164/prepared/
 checkpoints/
 weights/
 
@@ -15,6 +15,14 @@ runs/
 *.npy
 *.npz
 *.pkl
+
+# Versioned Dset release inputs and executable example
+!data/Dset_186_72_PDB164/source/*.pkl
+!data/Dset_186_72_PDB164/source/coords/*.npz
+!data/Dset_smoke_example/prepared/pssm/*.npy
+!data/Dset_smoke_example/prepared/dssp/*.npy
+!data/Dset_smoke_example/prepared/labels/*.npy
+!data/Dset_smoke_example/prepared/coords/*.npz
 __pycache__/
 *.py[cod]
 .pytest_cache/

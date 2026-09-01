@@ -137,15 +137,18 @@ fixed.
 
 ## RBP400 case-study workflow
 
-RBP400 and RBP400-Expanded are not redistributed in this repository. Replace
-every `...` below with the corresponding local path. RBP400-Expanded supplies
-case-excluded development pairs; RBP400 supplies the HCC and lung candidate
-universes.
+The scripts and locked summaries for this downstream analysis are grouped under
+`case_study/rbp400/`. They are separate from the primary PertiNet and Dset
+workflows. RBP400 and RBP400-Expanded can be obtained from the
+[RBP400 Zenodo archive](https://doi.org/10.5281/zenodo.21320101) and are not
+redistributed here. Replace every `...` below with the corresponding local path.
+RBP400-Expanded supplies case-excluded development pairs; RBP400 supplies the
+HCC and lung candidate universes.
 
 Prepare case-safe development splits:
 
 ```bash
-python experiments/rbp400/prepare_case_safe_pairs.py \
+python case_study/rbp400/prepare_case_safe_pairs.py \
   --expanded-root ... \
   --rbp400-root ... \
   --cluster-id30 ... \
@@ -156,7 +159,7 @@ python experiments/rbp400/prepare_case_safe_pairs.py \
 Train the five-seed sequence ensemble using precomputed ESM embeddings:
 
 ```bash
-python experiments/rbp400/train_esm_case_model.py \
+python case_study/rbp400/train_esm_case_model.py \
   --split-root ... \
   --esm-cache ... \
   --output-root ... \
@@ -166,7 +169,7 @@ python experiments/rbp400/train_esm_case_model.py \
 Score the two candidate networks:
 
 ```bash
-python experiments/rbp400/predict_hcc_lung_linear.py \
+python case_study/rbp400/predict_hcc_lung_linear.py \
   --rbp400-root ... \
   --esm-cache ... \
   --model-root ... \
@@ -175,7 +178,7 @@ python experiments/rbp400/predict_hcc_lung_linear.py \
 
 The RBP400 scripts do not use case-study candidate pairs for model fitting or
 threshold selection. Machine-readable locked summaries are retained under
-`results/rbp400/`.
+`case_study/rbp400/results/`.
 
 ## Data sources
 
@@ -211,7 +214,7 @@ examples/dset_smoke.py                real-data smoke test
 model/                                PertiNet and PertiNet-S implementation
 scripts/prepare_dset.py               fused-to-per-protein materialization
 scripts/train_dset.py                 full Dset training and evaluation
-experiments/rbp400/                   RBP400 case-study scripts
+case_study/rbp400/                    RBP400 case-study scripts and summaries
 tests/test_release.py                 automated release tests
 ```
 

@@ -47,7 +47,9 @@ class ReleaseIntegrityTests(unittest.TestCase):
         self.assertEqual(set(report["protein_overlap"].values()), {0})
 
     def test_rbp400_locked_case_summary(self):
-        summary = json.loads((ROOT / "results" / "rbp400" / "prediction_summary.json").read_text())
+        summary = json.loads(
+            (ROOT / "case_study" / "rbp400" / "results" / "prediction_summary.json").read_text()
+        )
         self.assertEqual(summary["case_study_name"], "RBP400")
         self.assertEqual(summary["models"], 5)
         self.assertEqual(summary["hcc_scored"], 16_471)

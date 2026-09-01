@@ -35,4 +35,4 @@ python -m experiments.rbp400.predict_hcc_lung_linear \
 ```
 
 Use `--smoke-pairs 100` in step 3 for a bounded execution check. The locked
-summary copied under `results/rbp400/` was produced without this limit.
+summary under `case_study/rbp400/results/` was produced without this limit.

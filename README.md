@@ -177,6 +177,16 @@ The RBP400 scripts do not use case-study candidate pairs for model fitting or
 threshold selection. Machine-readable locked summaries are retained under
 `results/rbp400/`.
 
+## Data sources
+
+- Bernett gold-standard dataset: https://doi.org/10.6084/m9.figshare.21591618
+- RBP400 and RBP400-Expanded archive: https://doi.org/10.5281/zenodo.21320101
+- Dset_186_72_PDB164 fused release: included under
+  `data/Dset_186_72_PDB164/source/`
+
+After downloading an external archive, replace the corresponding `...` in the
+commands above with its local path. No author-specific server path is required.
+
 ## Code-to-manuscript map
 
 | Manuscript component | Implementation |

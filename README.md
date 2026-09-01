@@ -4,8 +4,7 @@ PertiNet models protein interactions with separate sequence, structure and Gene
 Ontology (GO) representations. Modality tokens interact through self-attention
 before sample-specific softmax weighting. The repository contains the model
 implementation, executable smoke examples, the full residue-level Dset workflow
-and the RBP400 case-study scripts described in the manuscript. The processed benchmark resources, RBP400 candidate-protein resource, pair-excluded RBP400-Expanded development data and machine-readable case-study outputs will be provided with the versioned project release and archived at Zenodo (https://doi.org/10.5281/zenodo.21320101).
-
+and the RBP400 case-study scripts described in the manuscript. 
 ## Environment
 
 Create the supplied Conda environment from the repository root:
